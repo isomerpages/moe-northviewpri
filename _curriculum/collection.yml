@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical Education.md
       - CCE/Character and Citizenship education.md
       - CCE/Programme for Active Learning.md
       - CCE/Sexuality Education.md
