@@ -2,5 +2,5 @@ collections:
   our-story:
     output: true
     order:
-      - Our Partner/Parent Support Group.md
-      - Our Partner/.keep
+      - Our Partners/Parent Support Group.md
+      - Our Partners/.keep
