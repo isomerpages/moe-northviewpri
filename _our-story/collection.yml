@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Vision, mission, values.md
       - School song, crest and creed.md
       - Our People/Principal's message.md
       - Our People/School History.md
