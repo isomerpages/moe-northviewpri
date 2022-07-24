@@ -45,9 +45,6 @@ links:
         url: /permalink
   - title: Students
     url: /permalink
-    sublinks: []
-  - title: Teachers
-    url: /permalink
     sublinks:
       - title: Home-Based Learning
         url: https://sites.google.com/moe.edu.sg/northviewprimary/home
@@ -67,5 +64,12 @@ links:
         url: https://northviewpri.moe.edu.sg/useful-links/for-students/nvps-school-library
       - title: "School e-Resource Repository "
         url: https://northviewpri.moe.edu.sg/useful-links/for-students/school-e-resource-repository-serr
+  - title: Teachers
+    url: /permalink
+    sublinks:
+      - title: MOE Intranet
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/moe-intranet
+      - title: Submenu Title
+        url: /permalink
   - title: MOE KINDERGARTEN @ NORTHVIEW
     url: /permalink
