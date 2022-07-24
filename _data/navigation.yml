@@ -24,14 +24,22 @@ links:
         url: /permalink
       - title: Co-Curriculum
         url: /permalink
-  - title: MOE KINDERGARTEN @ NORTHVIEW
-    url: /permalink
-  - title: Useful Links
+  - title: Parents
     url: /permalink
     sublinks:
-      - title: For Parents
+      - title: School Calendar
         url: /permalink
-      - title: For Students
-        url: /permalink
-      - title: For Teachers
-        url: /permalink
+      - title: Parent Support Group
+        url: https://www.facebook.com/nvpspsg
+      - title: Parents Gateway
+        url: https://pg.moe.edu.sg/
+      - title: School Bag
+        url: https://www.schoolbag.edu.sg/
+  - title: Students
+    url: /permalink
+    sublinks: []
+  - title: Teachers
+    url: /permalink
+    sublinks: []
+  - title: MOE KINDERGARTEN @ NORTHVIEW
+    url: /permalink
