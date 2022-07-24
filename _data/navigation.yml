@@ -1,8 +1,19 @@
 logo: /images/Homepage/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page
-  - title: Resources
-    resource_room: true
+  - title: Our Story
+    url: /permalink
+    sublinks:
+      - title: Principal's Message
+        url: /permalink
+      - title: School History
+        url: /permalink
+      - title: Vision, Mission, Values
+        url: /permalink
+      - title: School song, Crest and Creed
+        url: /permalink
+      - title: Our People
+        url: /permalink
+      - title: Our Achievements
+        url: /permalink
+      - title: Our Partners
+        url: /permalink
