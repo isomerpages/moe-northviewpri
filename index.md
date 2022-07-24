@@ -15,4 +15,11 @@ sections:
       button: Button Text
       image: /images/Homepage/b18e24c79_3209.png
       alt: Image alt text
+  - infopic:
+      title: Maker Education Programme
+      description: "The Innovation and Entrepreneurship Committee aims to nurture the
+        empathetic innovators of tomorrow through its Maker Education
+        programmes. "
+      image: /images/Homepage/f6627fc26_3201.png
+      alt: Image alt text
 ---
