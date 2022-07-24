@@ -69,7 +69,23 @@ links:
     sublinks:
       - title: MOE Intranet
         url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/moe-intranet
-      - title: Submenu Title
+      - title: ICON
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/icon
+      - title: OPAL 2.0
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/opal-2-0
+      - title: SC Mobile
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/sc-mobile
+      - title: iExams2
         url: /permalink
+      - title: School Cockpit
+        url: /https://northviewpri.moe.edu.sg/useful-links/for-teachers/school-cockpit
+      - title: ICT Service Request
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/ict-service-request
+      - title: Resource Booking Service (RBS)
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/resource-booking-service-rbs
+      - title: Workplace
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/workplace
+      - title: NVPS One Stop ICT portal
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/nvps-one-stop-ict-portal
   - title: MOE KINDERGARTEN @ NORTHVIEW
     url: /permalink
