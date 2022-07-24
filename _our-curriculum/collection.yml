@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/Programme for Active Learning.md
       - CCE/Sexuality Education.md
       - CCE/Cyber Wellness Programme.md
       - CCE/.keep
