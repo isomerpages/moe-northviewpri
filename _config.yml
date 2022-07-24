@@ -2,8 +2,8 @@ title: Title
 url: ""
 favicon: /images/Homepage/School logo v3.png
 colors:
-  primary-color: "#1cb7f8"
-  secondary-color: "#1c87f8"
+  primary-color: "#1c75f8"
+  secondary-color: "#1c34f8"
   media-colors:
     - title: media-color-one
       color: "#49759a"
