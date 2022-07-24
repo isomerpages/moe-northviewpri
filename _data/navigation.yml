@@ -17,3 +17,21 @@ links:
         url: /permalink
       - title: Our Partners
         url: /permalink
+  - title: Our Curriculum
+    url: /permalink
+    sublinks:
+      - title: Curriculum
+        url: /permalink
+      - title: Co-Curriculum
+        url: /permalink
+  - title: MOE KINDERGARTEN @ NORTHVIEW
+    url: /permalink
+  - title: Useful Links
+    url: /permalink
+    sublinks:
+      - title: For Parents
+        url: /permalink
+      - title: For Students
+        url: /permalink
+      - title: For Teachers
+        url: /permalink
