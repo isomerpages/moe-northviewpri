@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CoCurricular Activities.md
+      - Sports/Floorball.md
       - Sports/Soccer.md
       - Sports/.keep
       - Uniformed Groups/Girls' Brigade.md
