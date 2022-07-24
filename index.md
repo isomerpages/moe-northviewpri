@@ -48,4 +48,13 @@ sections:
       url: /Permalink
       image: /images/Homepage/22b6878bb_3187.png
       alt: Image alt text
+  - infopic:
+      title: MTL Fortnight and Cultural Camp
+      description: "North View Primary Mother Tongue Department organised a series of
+        activities for the students to learn and appreciate Mother Tongue
+        Languages and Cultures. "
+      button: Read More
+      url: /Permalink
+      image: /images/Homepage/ba91e0015_3186.png
+      alt: Image alt text
 ---
