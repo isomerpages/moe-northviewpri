@@ -74,3 +74,7 @@ Let us rise and shine like the morning star
 Noble and brave young as we are  
 Pure and tender with hearts of love  
 Citizens of tomorrow ready to serve.
+
+![](/images/Our%20Story/School%20Song%20Crest%20and%20Creed/Capture1.png)
+
+![](/images/Our%20Story/School%20Song%20Crest%20and%20Creed/Capture2.png)
