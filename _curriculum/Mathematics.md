@@ -41,3 +41,47 @@ For Statistics, students will learn to conduct simple survey where they collect 
   
 
 **SPARK Problem Solving Thinking Routine**
+
+![](/images/Curriculum/Mathematics/photo_6266976224467333348_w.png)
+The tool has been developed by our school teachers, with reference to George Polya’s&nbsp;[4 principles of problem solving (1945)](https://www.youtube.com/watch?v=uCS7GO0fkc4)&nbsp;and ‘BEST’ checklist (NIE, Joseph Yeo).
+
+#### **Key programmes**
+
+
+**Signature Programmes**
+
+  
+
+*   Math Literature Programme
+    
+    Use of stories to introduce mathematics concepts to Lower Primary students
+    
+
+*   Problem Solving
+    
+    Infused with SPARK to develop metacognitive thinking in all students
+    
+
+  
+
+**Enrichment Programmes for High Ability Learners**
+
+  
+
+*   E2K Math (conducted by our school teachers)
+
+*   Math Olympiad Training (conducted by external trainers)
+
+  
+
+**Learning for everyday life Enrichment Programme**
+
+  
+
+*   Financial Literacy Programme for Primary 5 students (conducted by external trainers)
+
+<iframe allowfullscreen="true" height="250" width="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlSTP6TylHsbC2iAQ_QmA01DUyX9ov2DULcNTFwJ8YmsII4xKcHGhFwqwEJAeMEtDNiar_h3qxy-I7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+**Math Literature Programme**
+
+![](/images/Curriculum/Mathematics/photo_6264724424653647954_w.png)
