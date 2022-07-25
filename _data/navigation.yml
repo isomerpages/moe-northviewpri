@@ -1,10 +1,10 @@
 logo: /images/Homepage/logo.png
 links:
   - title: Our Story
-    url: /permalink
+    url: /our-story/Our-People/Principals-message
     sublinks:
       - title: Principal's Message
-        url: /permalink
+        url: /our-story/Our-People/Principals-message
       - title: School History
         url: /permalink
       - title: Vision, Mission, Values
