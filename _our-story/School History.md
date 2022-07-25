@@ -35,11 +35,8 @@ In Dec 2017, we welcomed Mrs Soh Mei Foong as our fifth Principal. Under her lea
 
 <figure>
 
-<img src=/images/Our%20Story/School%20History/Pic2.png>
+<img src="/images/Our%20Story/School%20History/Pic2.png">
 
 <figcaption> <strong> North View Primary School, Present</strong> </figcaption>
 
 </figure>
-
-
-
