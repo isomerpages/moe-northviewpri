@@ -31,6 +31,8 @@ sections:
       url: /Permalink
       image: /images/Homepage/3343ba422_3199.png
       alt: Image alt text
+      description: The P4 Coding Enrichment Programme was held on 2nd and 3rd of June
+        2022 during the June school holidays.
   - infopic:
       title: Stretching our Young Minds
       description: "In North View Primary, we have programmes to stretch our students
