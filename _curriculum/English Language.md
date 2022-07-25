@@ -29,9 +29,9 @@ Our curriculum and pedagogy approach is built on the guiding principles of the E
 
   
 
-<img src="images/Curriculum/English/STELLAR%202%200.png" style="width:50%;height:50%">
+<img style="width:50%;height:50%" src="/images/Curriculum/English/STELLAR%202%200.png">
 
-  
+
 
 To support the enactment of the English Language Syllabus 2020, the department leverages on the Strategies for English Language Learning and Reading 2.0 (STELLAR 2.0) curriculum. STELLAR 2.0 continues to develop students who love reading and have a strong foundation in the English Language. It also prepares our students for language learning and use in the 21st century, going beyond the basic notion of literacy to include multiple competencies so that our students can capitalise on the rich opportunities of the digital age.
 
