@@ -123,7 +123,7 @@ description: ""
 <html>
 <body>
 
-<p><a href="https://www.w3schools.com">
+<p><a href="/co-curriculum/Visual-and-Performing-Arts/Malay-Dance">
 <img style="width:40%;height:50%" src="/images/Co%20Curriculum/CCA%20Activities/pic12.png">
 </a></p>
 
