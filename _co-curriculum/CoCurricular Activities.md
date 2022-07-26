@@ -18,7 +18,7 @@ description: ""
 <body>
 
 
-<p><a href="https://www.w3schools.com">
+<p><a href="/co-curriculum/Sports/Floorball">
 <img style="width:50%;height:50%" src="/images/Co%20Curriculum/CCA%20Activities/pic2.png">
 </a></p>
 
