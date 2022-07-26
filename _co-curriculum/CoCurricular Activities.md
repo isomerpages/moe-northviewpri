@@ -80,3 +80,42 @@ description: ""
 </body>
 </html>
 
+<html>
+<body>
+
+<p><a href="https://www.w3schools.com">
+<img style="width:40%;height:50%" src="/images/Co%20Curriculum/CCA%20Activities/pic8.png">
+</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p><a href="https://www.w3schools.com">
+<img style="width:40%;height:50%" src="/images/Co%20Curriculum/CCA%20Activities/pic9.png">
+</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p><a href="https://www.w3schools.com">
+<img style="width:40%;height:50%" src="/images/Co%20Curriculum/CCA%20Activities/pic10.png">
+</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p><a href="https://www.w3schools.com">
+<img style="width:40%;height:50%" src="/images/Co%20Curriculum/CCA%20Activities/pic11.png">
+</a></p>
+
+</body>
+</html>
