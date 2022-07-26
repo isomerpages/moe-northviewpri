@@ -83,7 +83,7 @@ description: ""
 <html>
 <body>
 
-<p><a href="https://www.w3schools.com">
+<p><a href="/co-curriculum/Visual-and-Performing-Arts/Creative-Hands">
 <img style="width:40%;height:50%" src="/images/Co%20Curriculum/CCA%20Activities/pic8.png">
 </a></p>
 
