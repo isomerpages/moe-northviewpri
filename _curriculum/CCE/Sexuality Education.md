@@ -65,3 +65,21 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 7.  The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
 **At North View Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
+
+![](/images/Curriculum/Sexual%20Education/photo_6264724424653648093_w.png)
+![](/images/Curriculum/Sexual%20Education/photo_6264724424653648094_w.png)
+![](/images/Curriculum/Sexual%20Education/photo_6264724424653648095_w.png)
+![](/images/Curriculum/Sexual%20Education/photo_6264724424653648096_w.png)
+![](/images/Curriculum/Sexual%20Education/photo_6264724424653648097_w.png)
+![](/images/Curriculum/Sexual%20Education/photo_6264724424653648098_w.png)
+
+#### **Information for Parents**
+
+
+8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here.](https://northviewpri.moe.edu.sg/qql/slot/u179/Growing%20Years%20Opt%20Out%20Form.pdf) The completed opt-out form is to be submitted by 28/02/2022.
+
+10.      Parents can contact the school at 67593235 or send an email to nvps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+11.      Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements
