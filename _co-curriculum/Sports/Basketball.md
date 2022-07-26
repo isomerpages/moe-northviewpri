@@ -10,8 +10,6 @@ The Basketball CCA members work very hard together to achieve excellence for the
 
 The North View Basketball Teams took part in 2019 National School Games. At North Zone Level, the Junior Girls Team achieved Champion in tier 3, the Junior Boys Team achieved 2nd position in Tier 2 in 3v3 Category. The Senior Boys Team achieved top 8 in the 5V5 Category.
 
-  
-
 Our members did well and have gone into their choice of Secondary School via Direct School Admission. They are Chin Min Hui (Orchid Park Secondary), Jervis (Dunman High Secondary), Sarah and Juvin (Yishun Secondary School)
 
   
@@ -32,3 +30,5 @@ We are happy for their hard-earned achievements. We will continue to seek for op
 |:---:	|:---:	|
 | Teachers in-charge 	| Mr Roy Too Thiam Siew 	|
 |  	| Ms Grace Li Yi Fei 	|
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXnjXIgBWRsQmRSPyJXBgZjMkLGcUc14cjps_zf2Wr0WgjV_a-7Z9FFtetYH5GEFlrD8svPr4gUs3N/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
