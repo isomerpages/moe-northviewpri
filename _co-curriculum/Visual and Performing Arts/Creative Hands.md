@@ -51,5 +51,28 @@ Artist Statement:**
 
 Several of us have played ‘Minecraft’. We would like to create a pixelated world where we imagine ourselves living in it. We would also like to create an art piece that shows our appreciation of how technology has improved or affected our lives. We are proud of our collaborative artwork!
 
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSy3zRKlvglKHbgoEzhfFjtw68BaOyAT-wwRv7fGP4D4nsWqrq72kWqx-2JQ4BzK4CDKBOjqWV7wDqE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
+**Category C**
 
+Face technologies
+
+Plaster, String, Black Marker, Acrylic Paint
+
+**  
+Student artists:  
+**ALISHA KEYSHA BINTE ABU BAKAR (5 COURAGE)  
+BARON TAY YUN FEI (5 INTEGRITY)  
+CLARA TAN XIN QI (5 INTEGRITY)  
+KOH WEI LING (5 INTEGRITY)  
+ONG ZHI SHAN (5 INTEGRITY)  
+MA LIYAO (5 JOY)  
+NARIKO CHEN (5 JOY)  
+CHUNG JIE YU (6 JOY)  
+TAN JAYMIE (6 JOY)  
+**  
+Artist Statement:**
+
+Technology is a heavy burden on us. The faces ‘trapped’ in our sculpture represent cyber-bullying, cyber-addiction, hacking, spamming and cyber-crimes. It seems that no place is safe. Conversely, technology allows us to connect with friends online, play games and learn new things. Hence, we include happy faces and busy hands too.
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKcKrv4VabWpfGAJKxeZI8Q_riQlzDXg-NIg_KESRcbQmjdEfZTCG6zKc10qmsR_OD90Xae3P7vKxx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
