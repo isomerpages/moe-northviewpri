@@ -32,3 +32,5 @@ HACK@CODE 2021 – Most Aesthetically Designed Award
 |     Teachers-in-charge    |   Mdm Rhoda Tan   |
 |                           |   Mr Teo Guan Te  |
 |                           |    Mdm Roslinda   |
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLuv8AYXyn-9oInTdsuB-ShPTLVztM0ZD7sfDnQBDlVaxpyWYAZR0ADQHLxQE0Fo1mj-0bRCbWRYLg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
