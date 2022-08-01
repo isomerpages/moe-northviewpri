@@ -29,4 +29,4 @@ In NVPS Environmental Science Club, we have a group of enthusiastic teachers and
 **15th Science Elementz project Competition 2016:**  
 1 Silver award, 1 Bronze award and 1 commendation award
 
-
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4oJq1Dkr1K3jYkT0ZPrgo4NWFBLvQ37GYd406qtsiqPuMQHmsz53oe9UdU_VD-3jUVJmA5FeeXd4a/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
