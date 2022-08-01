@@ -20,7 +20,7 @@ The following shows the 4-Levels Student Leadership Development Structure:
 
 ![](/images/Co%20Curriculum/Students%20Leader%20Committee/2%20Student%20Leadership%20Development%20Structure.png)
 
-**Level 1:** Class Leaders Appointments are renewed termly to provide opportunities for non-level 2 to level 4 student leaders to assume class leadership roles and apply their leadership skills.
+**Level 1:**&nbsp;Class Leaders Appointments are renewed termly to provide opportunities for non-level 2 to level 4 student leaders to assume class leadership roles and apply their leadership skills.
 
 ![](/images/Co%20Curriculum/Students%20Leader%20Committee/3%20Level%201-%20Class%20Leadership%20Roles.png)
 
@@ -28,23 +28,23 @@ Form teachers will update the names of the class leaders in the class list found
 
 ![](/images/Co%20Curriculum/Students%20Leader%20Committee/4%20Class%20Leadership%20Appointment%20Chart.png)
 
-**Level 2:** Primary 2 to Primary 6 potential student leaders are appointed to take on leadership appointments beyond class. This group of student leaders will undergo training specific to their roles and responsibilities planned by respective departments / committees.
+**Level 2:**&nbsp;Primary 2 to Primary 6 potential student leaders are appointed to take on leadership appointments beyond class. This group of student leaders will undergo training specific to their roles and responsibilities planned by respective departments / committees.
 
 ![](/images/Co%20Curriculum/Students%20Leader%20Committee/5Level%202%20-%20Leadership%20Appointments%20Beyond%20Class.png)
 ![](/images/Co%20Curriculum/Students%20Leader%20Committee/6Prefectorial%20Board.png)
 
-**Level 3:** Prefects are students who have displayed greater leadership potential among their peers. They are provided with various platforms to hone their leadership skills through serving the school and community.
+**Level 3:**&nbsp;Prefects are students who have displayed greater leadership potential among their peers. They are provided with various platforms to hone their leadership skills through serving the school and community.
 
   
 
-**Level 4:** Teachers, students and school leaders play a part in deciding the Executive Committee (EXCO) Prefects. EXCO Prefects are students who have exhibited exemplary character and leadership qualities among the prefects. They represent the voice of the student population and are involved in planning meaningful project and event.
+**Level 4:**&nbsp;Teachers, students and school leaders play a part in deciding the Executive Committee (EXCO) Prefects. EXCO Prefects are students who have exhibited exemplary character and leadership qualities among the prefects. They represent the voice of the student population and are involved in planning meaningful project and event.
 
 ![](/images/Co%20Curriculum/Students%20Leader%20Committee/7%20Exco%20Prefects.png)
 
 #### **Key programmes**
 
 
-##### **Highlights of 2020 Student Leadership Committee Events & Programmes**
+##### **Highlights of 2020 Student Leadership Committee Events &amp; Programmes**
 
   
 
@@ -52,7 +52,7 @@ Form teachers will update the names of the class leaders in the class list found
 
 *   Head Prefect Rally –
     
-    Due to Covid-19 and implementation of Safe Management Measures (SMMs), shortlisted P5 Prefects presented their Campaign Speeches virtually. Prefects’ campaign speech videos were shown to students on platforms such as Assembly (for P3 & P6 only), TV Monitors in the school and Student Learning Space (SLS). Both students and teachers voted for the Head Prefect via Google form.
+    Due to Covid-19 and implementation of Safe Management Measures (SMMs), shortlisted P5 Prefects presented their Campaign Speeches virtually. Prefects’ campaign speech videos were shown to students on platforms such as Assembly (for P3 &amp; P6 only), TV Monitors in the school and Student Learning Space (SLS). Both students and teachers voted for the Head Prefect via Google form.
     
 
 *   Prefects’ Investiture Ceremony –
@@ -72,7 +72,7 @@ Every year, prefects will have the opportunities to undergo leadership-training 
 
 *   First Week @ School
 *   Civil Defence Junior Lionhearter (CDJLH) Workshop
-*   Prefects’ Student Learning Space (SLS) Leadership Training & Touch-base Sessions
+*   Prefects’ Student Learning Space (SLS) Leadership Training &amp; Touch-base Sessions
 *   Safe Management Measures (SMMs) Duties
 
   
@@ -80,3 +80,5 @@ Every year, prefects will have the opportunities to undergo leadership-training 
 ##### **Prefects’ Values-in-Action (VIA) Programme (in collaboration with Friend of Singa Programme):**
 
 *   Appreciating Our Unsung Heroes
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIjk6Z_YuP7b4y9yziu_VNDzI5Y59JTOV_N4NYnRsgecN7OaOZizc1WPxbvnSzO3Uqi498nx7VTCwr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
