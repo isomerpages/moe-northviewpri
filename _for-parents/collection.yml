@@ -2,15 +2,15 @@ collections:
   for-parents:
     output: true
     order:
-      - Cyber Wellness.md
-      - School Bag.md
-      - Parents Gateway.md
-      - Parent Support Group.md
       - For Parents.md
       - School Calendar.md
+      - Parent Support Group.md
+      - Parents Gateway.md
+      - School Bag.md
+      - Cyber Wellness.md
       - Parents' Handbook.md
-      - Service Providers/Service Providers.md
       - Service Providers/.keep
+      - Service Providers/Service Providers.md
       - Service Providers/Dentist.md
       - Service Providers/BookShop.md
       - Service Providers/School Uniform.md
