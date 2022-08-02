@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Service Providers/.keep
       - Parents' Handbook.md
       - School Calendar.md
       - For Parents.md
