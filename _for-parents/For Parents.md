@@ -3,7 +3,7 @@ title: For Parents
 permalink: /for-parents/For-Parents
 description: ""
 ---
-*   [School Calendar](https://northviewpri.moe.edu.sg/useful-links/for-parents/school-calendar) 1
+*   [School Calendar](/for-parents/School-Calendar)
 *   [Parent Support Group](https://www.facebook.com/nvpspsg)
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [School Bag](https://www.schoolbag.edu.sg/)
