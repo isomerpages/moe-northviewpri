@@ -9,7 +9,7 @@ third_nav_title: Service Providers
 
 <div style="float: left">
 
-<a href="/for-parents/Service-Providers/Service-Providers">
+<a href="/for-parents/Service-Providers/Dentist">
 
 <img src="/images/For%20Parents/Screenshot%202022-08-02%20203218.png"
 style="width:70%">
