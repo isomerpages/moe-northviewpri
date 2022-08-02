@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Service Providers/School Bus.md
       - Service Providers/Big Heart.md
       - Service Providers/.keep
       - Parents' Handbook.md
