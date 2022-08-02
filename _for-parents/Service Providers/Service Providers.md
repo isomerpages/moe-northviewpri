@@ -4,13 +4,12 @@ permalink: /for-parents/Service-Providers/Service-Providers
 description: ""
 third_nav_title: Service Providers
 ---
-
 <div>
 
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/for-parents/Service-Providers/Service-Providers">
 
 <img src="/images/For%20Parents/Screenshot%202022-08-02%20203218.png"
 style="width:70%">
@@ -104,10 +103,3 @@ style="width:70%">
 </div>
 
 </div>
-
-
-
-
-
-
-
