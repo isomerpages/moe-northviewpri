@@ -9,4 +9,4 @@ third_nav_title: Administrative
 *   [Subject Based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 *   [Primary School Transfer Service](https://www.moe.gov.sg/primary/transfers)
 *   [POSB Smart Buddy](/for-parents/Administrative/POSB-Smart-Buddy)
-*   [Application for Com Care Financial Assistance](https://northviewpri.moe.edu.sg/useful-links/for-parents/administrative/application-for-com-care-financial-assistance)
+*   [Application for Com Care Financial Assistance](/for-parents/Administrative/Application-for-Com-Care-Financial-Assistance)
