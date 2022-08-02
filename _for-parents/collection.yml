@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Service Providers/Dentist.md
       - Service Providers/BookShop.md
       - Service Providers/School Uniform.md
       - Service Providers/School Bus.md
