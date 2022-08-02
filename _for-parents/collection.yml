@@ -2,6 +2,16 @@ collections:
   for-parents:
     output: true
     order:
+      - For Parents.md
+      - School Calendar.md
+      - Parents' Handbook.md
+      - Service Providers/.keep
+      - Service Providers/Dentist.md
+      - Service Providers/BookShop.md
+      - Service Providers/School Uniform.md
+      - Service Providers/School Bus.md
+      - Service Providers/Big Heart.md
+      - Administrative/.keep
       - Administrative/Administrative.md
       - Administrative/Financial Assistance Scheme (FAS).md
       - Administrative/Direct School Admission (DSA).md
@@ -9,13 +19,3 @@ collections:
       - Administrative/Primary School Transfer Service.md
       - Administrative/POSB Smart Buddy.md
       - Administrative/Application for Com Care Financial Assistance.md
-      - Administrative/.keep
-      - Service Providers/Dentist.md
-      - Service Providers/BookShop.md
-      - Service Providers/School Uniform.md
-      - Service Providers/School Bus.md
-      - Service Providers/Big Heart.md
-      - Service Providers/.keep
-      - Parents' Handbook.md
-      - School Calendar.md
-      - For Parents.md
