@@ -9,5 +9,5 @@ description: ""
 *   [School Bag](https://www.schoolbag.edu.sg/)
 *   [Cyber Wellness](https://www.moe.gov.sg/page%20not%20found?item=%2fprogrammes%2fcyber-wellness&user=extranet%5cAnonymous&site=moe-website)
 *   [Parents' Handbook](/for-parents/Parents-Handbook)
-*   [Service Providers](https://northviewpri.moe.edu.sg/useful-links/for-parents/service-providers) 3
+*   [Service Providers](/for-parents/Service-Providers/Service-Providers)
 *   [Administrative](https://northviewpri.moe.edu.sg/useful-links/for-parents/administrative) 4
