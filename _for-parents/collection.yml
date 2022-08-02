@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Administrative/Direct School Admission (DSA).md
       - Administrative/Subject Based Banding.md
       - Administrative/Primary School Transfer Service.md
       - Administrative/POSB Smart Buddy.md
