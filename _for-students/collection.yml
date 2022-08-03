@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Student iCON.md
       - Scholastic.md
       - Ezhishi.md
       - iMTL.md
