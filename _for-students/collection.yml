@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Ezhishi.md
       - iMTL.md
       - My Skills Future.md
       - NVPS School Library.md
