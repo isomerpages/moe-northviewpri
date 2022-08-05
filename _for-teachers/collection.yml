@@ -2,6 +2,7 @@ collections:
   for-teachers:
     output: true
     order:
+      - For Teachers.md
       - MOE Intranet.md
       - ICON.md
       - OPAL 2 0.md
