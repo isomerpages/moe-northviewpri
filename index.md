@@ -64,7 +64,7 @@ sections:
       description: "Do you need financial assistance? You may apply online from Com
         Care Short-to-Medium-Term Assistance (SMTA) from 17 May 2022. "
       button: Click here
-      url: /Permalink
+      url: /for-parents/Administrative/Application-for-Com-Care-Financial-Assistance
   - infobar:
       title: School Facebook Page
       description: Did you know that we have launched our new and improved Facebook
