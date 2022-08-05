@@ -36,7 +36,7 @@ Acrylic paint on canvas
 
   
 
-**Student artists:  
+Student artists:  
 **Ralphina Alya Binte Nurazikin (P3 Hope)  
 Alya Maisarah Binte Mohd Sharin (P3 Joy)  
 Tee Xu Heng, Vinny (P3 Joy)  
@@ -45,9 +45,9 @@ Edlyn Tay En Ting (4 Hope)
 Lim Yining Yunice (4 Hope)  
 Sha'ista Faiqa Binte Muhammad Farhan (4 Hope)  
 Eva Chung Jia Ying (4 Integrity)  
-Devinaah Tiruselvan (4 Joy)  
-**  
-Artist Statement:**
+Devinaah Tiruselvan (4 Joy)**
+
+Artist Statement:
 
 Several of us have played ‘Minecraft’. We would like to create a pixelated world where we imagine ourselves living in it. We would also like to create an art piece that shows our appreciation of how technology has improved or affected our lives. We are proud of our collaborative artwork!
 
@@ -59,7 +59,7 @@ Face technologies
 
 Plaster, String, Black Marker, Acrylic Paint
 
-**  
+
 Student artists:  
 **ALISHA KEYSHA BINTE ABU BAKAR (5 COURAGE)  
 BARON TAY YUN FEI (5 INTEGRITY)  
@@ -69,9 +69,9 @@ ONG ZHI SHAN (5 INTEGRITY)
 MA LIYAO (5 JOY)  
 NARIKO CHEN (5 JOY)  
 CHUNG JIE YU (6 JOY)  
-TAN JAYMIE (6 JOY)  
-**  
-Artist Statement:**
+TAN JAYMIE (6 JOY)**  
+
+Artist Statement:
 
 Technology is a heavy burden on us. The faces ‘trapped’ in our sculpture represent cyber-bullying, cyber-addiction, hacking, spamming and cyber-crimes. It seems that no place is safe. Conversely, technology allows us to connect with friends online, play games and learn new things. Hence, we include happy faces and busy hands too.
 
