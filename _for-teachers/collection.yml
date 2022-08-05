@@ -2,5 +2,6 @@ collections:
   for-teachers:
     output: true
     order:
+      - Example TitleResource Booking Service (RBS).md
       - Workplace.md
       - NVPS One Stop ICT portal.md
