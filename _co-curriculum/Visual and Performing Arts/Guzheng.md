@@ -13,4 +13,4 @@ The Guzheng, which is a Chinese plucked zither, is also described as ‘The King
 | P3 - 6 | Monday | 2:15 - 4:15 pm |
 
 #### **CCA Teacher**
- Overall teacher-in-charge : Ms Sharon Poh 
+ Overall teacher-in-charge : Ms Sharon Poh
