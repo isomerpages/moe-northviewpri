@@ -23,7 +23,7 @@ The Singapore Student Learning Space (SLS) is accessible through the internet br
 
   
 
-SLS is the main online platform for Home Based Learning (HBL). Click [here](https://northviewpri.moe.edu.sg/qql/slot/u179/2021/Useful%20Links/For%20Students/SLS/HBL%20briefing%20slides%20for%20students.pdf) for the HBL briefing slides for students.
+SLS is the main online platform for Home Based Learning (HBL). Click [here](/files/For%20Students/HBL%20briefing%20slides%20for%20students.pdf)) for the HBL briefing slides for students.
 
   
 
@@ -31,7 +31,7 @@ Getting Started
 
   
 
-1.  Annex A: Read [Students’ Instructions and FAQs](https://westspringsec.moe.edu.sg/wp-content/uploads/2018/03/Students-Instructions-and-FAQs-updated-15-March-2018.pdf)
+1.  Annex A: Read [Students’ Instructions and FAQs](/files/For%20Students/Students-Instructions-and-FAQs-updated-15-March-2018.pdf)
 2.  Annex B: Frequently Asked Questions (see below)
 
   
