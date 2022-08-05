@@ -71,4 +71,10 @@ sections:
         page? Please click the button below to find out more!
       button: Click here
       url: https://www.facebook.com/North-View-Primary-School-107412627808856/
+  - infobar:
+      title: Teacher's Day Dedication
+      description: "Calling all NVPS alumni...Let's show our appreciation to our
+        teachers this teachers' day! Click on the link to find out more! "
+      button: Click here
+      url: https://www.youtube.com/watch?v=fJzKgfKJKAs&ab_channel=NazrahMohamadLatiff
 ---
