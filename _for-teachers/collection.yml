@@ -2,4 +2,5 @@ collections:
   for-teachers:
     output: true
     order:
+      - Workplace.md
       - NVPS One Stop ICT portal.md
