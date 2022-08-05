@@ -2,6 +2,7 @@ collections:
   for-teachers:
     output: true
     order:
+      - School Cockpit.md
       - ICT Service Request.md
       - Example TitleResource Booking Service (RBS).md
       - Workplace.md
