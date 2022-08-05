@@ -2,6 +2,7 @@ collections:
   for-teachers:
     output: true
     order:
+      - OPAL 2 0.md
       - SC Mobile.md
       - iExams2.md
       - School Cockpit.md
