@@ -2,6 +2,7 @@ collections:
   for-teachers:
     output: true
     order:
+      - ICT Service Request.md
       - Example TitleResource Booking Service (RBS).md
       - Workplace.md
       - NVPS One Stop ICT portal.md
