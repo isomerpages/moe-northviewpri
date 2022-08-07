@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: North View Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -78,3 +78,4 @@ sections:
       button: Click here
       url: https://www.youtube.com/watch?v=fJzKgfKJKAs&ab_channel=NazrahMohamadLatiff
 ---
+
