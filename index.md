@@ -4,7 +4,7 @@ title: North View Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to North View Primary
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/ezgifcom-gif-maker.gif
