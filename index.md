@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/ezgifcom-gif-maker.gif
-      title: Passionate Learners
   - infopic:
       title: Congratulations Team NVPS
       description: "Our school won the North Zone Senior Division Boys' Basketball
