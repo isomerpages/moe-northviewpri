@@ -8,6 +8,7 @@ notification: Welcome to North View Primary
 sections:
   - hero:
       background: /images/Homepage/ezgifcom-gif-maker.gif
+      title: Passionate Learners
   - infopic:
       title: Congratulations Team NVPS
       description: "Our school won the North Zone Senior Division Boys' Basketball
@@ -78,4 +79,3 @@ sections:
       button: Click here
       url: https://www.youtube.com/watch?v=fJzKgfKJKAs&ab_channel=NazrahMohamadLatiff
 ---
-
