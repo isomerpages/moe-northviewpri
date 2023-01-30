@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/ezgifcom-gif-maker.gif
+      background: /images/Add a heading.png
   - infopic:
       title: Congratulations Team NVPS
       description: "Our school won the North Zone Senior Division Boys' Basketball
