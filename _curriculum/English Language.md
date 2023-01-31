@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /curriculum/English-Language
+permalink: /curriculum/English-Language/
 description: ""
 ---
 1.  **Our Department’s Vision**
@@ -13,7 +13,12 @@ Critical Readers, Effective Communicators&nbsp;
 
 2.  **Department Members**
 
-![](/images/Curriculum/English/photo_6264724424653647915_w.png)
+* Mr Kenneth Koh - LH(EL)
+* Mdm Lynanna Ng - ST(EL)
+* 
+
+
+
 
 #### **Curriculum and Pedagogy Approach**
 
