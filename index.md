@@ -14,7 +14,7 @@ sections:
           url: /announcements/CongratulationsTeamNVPS/
         - title: Highlights
           description: ""
-          url: ""
+          url: /announcements/TeachersDayDedication/
   - infopic:
       title: Congratulations Team NVPS
       description: "Our school won the North Zone Senior Division Boys' Basketball
