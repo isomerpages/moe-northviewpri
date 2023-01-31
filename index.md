@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Add a heading.png
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: ""
+        - title: Highlights
+          description: ""
+          url: ""
   - infopic:
       title: Congratulations Team NVPS
       description: "Our school won the North Zone Senior Division Boys' Basketball
