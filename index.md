@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: ""
+          url: /announcements/CongratulationsTeamNVPS/
         - title: Highlights
           description: ""
           url: ""
