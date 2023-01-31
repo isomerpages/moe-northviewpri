@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Teacher's Day Dedication.md
       - School Facebook Page.md
       - Com Care Financial Assistance.md
       - MTL Fortnight and Cultural Camp.md
