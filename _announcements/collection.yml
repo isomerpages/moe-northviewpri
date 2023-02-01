@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Congratulations Team NVPS.md
       - Maker Education Programme.md
       - Stretching our Young Minds.md
       - Com Care Financial Assistance.md
