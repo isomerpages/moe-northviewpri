@@ -15,13 +15,4 @@ sections:
         - title: Highlights
           description: ""
           url: /announcements/TeachersDayDedication/
-  - infopic:
-      title: Maker Education Programme
-      description: "The Innovation and Entrepreneurship Committee aims to nurture the
-        empathetic innovators of tomorrow through its Maker Education
-        programmes. "
-      image: /images/Homepage/f6627fc26_3201.png
-      alt: Image alt text
-      button: Read More
-      url: /Permalink
 ---
