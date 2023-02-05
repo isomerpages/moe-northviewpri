@@ -14,5 +14,5 @@ sections:
         - title: Highlights
           description: ""
           url: /announcements/TeachersDayDedication/
-      background: /images/Add a heading (1200 × 630 px).gif
+      background: /images/Homepage/Hero pictures/HERO banner (1200 × 630 px).gif
 ---
