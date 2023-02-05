@@ -1,6 +1,6 @@
 ---
 title: Soccer
-permalink: /co-curriculum/Sports/Soccer
+permalink: /co-curriculum/Sports/Soccer/
 description: ""
 third_nav_title: Sports
 ---
@@ -26,6 +26,6 @@ All footballers must be in proper training attire, PE/CCA attire with school sho
 #### **Teachers-In-Charge**
 
 
-1.  Mdm Syazwani (OIC)
-2.  Mr Kenneth Koh
-3.  Mdm Nurul Huda
+1.  Mr Lim Joo Ghee (OIC)
+2.  Mr Shah
+3.  Mdm Karlpana
