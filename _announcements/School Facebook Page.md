@@ -4,6 +4,6 @@ permalink: /announcements/SchoolFacebookPage/
 description: ""
 ---
 # School Facebook Page
-Did you know that we have launched our new and improved Facebook page? Please click the button below to find out more!
+Visit out Facebook page for the latest school updates! 
 
 [Click Here](https://www.facebook.com/North-View-Primary-School-107412627808856/)
