@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - School Facebook Page.md
       - Teachers' Awards Nomination.md
