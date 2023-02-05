@@ -1,6 +1,6 @@
 ---
 title: Creative Hands
-permalink: /co-curriculum/Visual-and-Performing-Arts/Creative-Hands
+permalink: /co-curriculum/Visual-and-Performing-Arts/Creative-Hands/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -21,10 +21,9 @@ Creative Hands develops our members in the following ways:
 
 #### **CCA Teachers**
 
-| Overall teacher-in-charge 	| Ms Le Minming 	|
+| Overall teacher-in-charge 	| Ms Ng Mui Hiok	|
 |:---:	|:---:	|
-| Teachers-in-charge 	| Ms Florence Kho 	|
-|  	| Ms Ng Hgin Huay 	|
+| Teachers-in-charge 	| Ms Yu Kexin
 
 ### **SYF 2021**
 
