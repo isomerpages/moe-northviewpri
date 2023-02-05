@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: ""
+          url: announcements/teacher-awards
         - title: Highlights
           description: ""
           url: /announcements/MakerEducationProgramme/
