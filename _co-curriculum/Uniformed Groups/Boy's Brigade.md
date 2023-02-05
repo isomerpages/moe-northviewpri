@@ -1,6 +1,6 @@
 ---
 title: Boy's Brigade
-permalink: /co-curriculum/Uniformed-Groups/Boys-Brigade
+permalink: /co-curriculum/Uniformed-Groups/Boys-Brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -47,6 +47,6 @@ The BB Share-a-Gift project is an annual national community service project that
 ### **Teachers-In-Charge**
 
 
-Mr Or Boon Chun (OIC)
+Mr Su Tow Keong (OIC)
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCF270ZOCVF00guqifvDiYynwTWEjUioi8r2O85CqKl6My6FBU8G8R_7d1AbWFSebnbWDso4ewlgjq/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
