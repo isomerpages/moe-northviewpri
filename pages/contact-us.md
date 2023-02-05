@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: North View Primary School
 locations:
   - address:
       - 210 Yishun Avenue 6
