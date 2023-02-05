@@ -9,17 +9,6 @@ description: ""
 
 Critical Readers, Effective Communicators&nbsp;
 
-  
-
-2.  **Department Members**
-
-* Mr Kenneth Koh - LH(EL)
-* Mdm Lynanna Ng - ST(EL)
-* 
-
-
-
-
 #### **Curriculum and Pedagogy Approach**
 
 North View’s English Language Department adopts a three-pronged approach in our curriculum to cater to the diverse learning needs of our students.
