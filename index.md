@@ -13,6 +13,6 @@ sections:
           url: announcements/teacher-awards
         - title: Highlights
           description: ""
-          url: /announcements/MakerEducationProgramme/
+          url: /highlights/MakerEducationProgramme/
       background: /images/Homepage/Hero pictures/HERO (1200 × 630 px) (1).gif
 ---
