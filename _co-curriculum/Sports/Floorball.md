@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /co-curriculum/Sports/Floorball
+permalink: /co-curriculum/Sports/Floorball/
 description: ""
 third_nav_title: Sports
 ---
@@ -12,12 +12,11 @@ In NVPS Floorball CCA, we hope to instill qualities such as teamwork, sportsmans
 
 | Level 	| Day 	| Time 	|
 |:---:	|:---:	|:---:	|
-| Primary 3 to 6 	| Mondays 	| 1.30 to 4.15 pm (Lunch at 2:00 pm) 	|
+| Primary 3 to 6 	| Mondays 	| 2.15pm - 4.15pm 	|
 
 #### **CCA Teachers**
 
 | Overall teacher in-charge 	| Mdm Siti Nor Amilin 	|
 |:---:	|:---:	|
-| Teachers in-charge 	| Mdm Khairunnisa 	|
-|  	| Mrs Tok Yin Ling 	|
-
+| Teachers in-charge 	| Mr Yap Kian Hua	|
+|  	| Ms Hong Li Xuan 	|
