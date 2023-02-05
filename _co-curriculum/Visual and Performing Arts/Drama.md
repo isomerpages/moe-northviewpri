@@ -1,6 +1,6 @@
 ---
 title: Drama
-permalink: /co-curriculum/Visual-and-Performing-Arts/Drama
+permalink: /co-curriculum/Visual-and-Performing-Arts/Drama/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -31,6 +31,5 @@ _“I enjoy Drama CCA because I can make friends with pupils from the other leve
 #### **Teachers-In-Charge**
 
 
-1.  Mdm Zunaidah (OIC)
-2.  Ms Vikneshwari
-3.  Mdm Lyanna Ng
+1.  Mrs Singa (OIC)
+2.  Mdm Lyanna Ng
