@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /co-curriculum/Visual-and-Performing-Arts/Chinese-Dance
+permalink: /co-curriculum/Visual-and-Performing-Arts/Chinese-Dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -17,8 +17,7 @@ Chinese Dance CCA aims to develop in our members an appreciation of the arts wit
 
 #### **CCA Teacher**
 
-| Teacher-in-charge | Ms Ng Mui Hok |
+| Teacher-in-charge | Ms Ng Mui Hok, Ms Yu Kexin |
 |:-----------------:|:-------------:|
 
 ![](/images/Co%20Curriculum/Chinese%20Dance/Chinese%20dance.png)
-
