@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/CongratulationsTeamNVPS/
+          url: /announcements/SchoolsFecebook
         - title: Highlights
           description: ""
           url: /announcements/TeachersDayDedication/
