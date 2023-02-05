@@ -13,6 +13,6 @@ sections:
           url: /announcements/SchoolsFacebook
         - title: Highlights
           description: ""
-          url: /announcements/TeachersDayDedication/
+          url: /announcements/MakerEducationProgramme/
       background: /images/Homepage/Hero pictures/HERO (1200 × 630 px) (1).gif
 ---
