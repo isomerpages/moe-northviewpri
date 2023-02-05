@@ -1,6 +1,6 @@
 ---
 title: International Dance
-permalink: /co-curriculum/Visual-and-Performing-Arts/International-Dance
+permalink: /co-curriculum/Visual-and-Performing-Arts/International-Dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -16,5 +16,6 @@ NVPS International Dance aims to equip the students with knowledge, skills and a
 
 
 Mdm See Bee Pang
+Ms Tse Kan Ming
 
 ![](/images/Co%20Curriculum/International%20Dance/2020%20year%20end%20perf%20recording%203.png)
