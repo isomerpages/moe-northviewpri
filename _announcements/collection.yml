@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Com Care Financial Assistance.md
       - School Facebook Page.md
