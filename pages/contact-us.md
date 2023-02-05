@@ -5,34 +5,22 @@ permalink: /contact-us/
 agency_name: Agency Name
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: ""
-    title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
+      - 210 Yishun Avenue 6
+      - Singapore 768960
       - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    operating_hours:
+      - days: Monday - Thursday
+        time: 7.00 am - 5.30 pm
+        description: ""
+      - days: Friday
+        time: 7.00 am - 5.00 pm
+        description: "(Except public holidays) "
+    maps_link: ""
+    title: "Location "
 contacts:
   - content:
       - phone: +65 6759 3235
       - email: nvps@moe.edu.sg
       - other: "Fax: 67593237"
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
