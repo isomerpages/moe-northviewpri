@@ -1,6 +1,6 @@
 ---
 title: For Teachers
-permalink: /for-teachers/For-Teachers
+permalink: /for-teachers/For-Teachers/
 description: ""
 ---
 *   [MOE Intranet](https://northviewpri.moe.edu.sg/useful-links/for-teachers/moe-intranet)
@@ -13,3 +13,4 @@ description: ""
 *   [Resource Booking Service](https://rbs.avero-tech.com/login.html)
 *   [Workplace](https://www.workplace.com/)
 *   [NVPS One Stop ICT portal](https://northviewpri.moe.edu.sg/useful-links/for-teachers/nvps-one-stop-ict-portal)
+*   [Relief Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfEhMYF9_IhcPZ8BLt7-Rs2AHi5kozBx1F5pyNyK1H1AyzP3Q/viewform)
