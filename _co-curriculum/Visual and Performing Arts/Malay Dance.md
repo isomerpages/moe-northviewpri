@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /co-curriculum/Visual-and-Performing-Arts/Malay-Dance
+permalink: /co-curriculum/Visual-and-Performing-Arts/Malay-Dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -16,6 +16,6 @@ Malay Dance was newly reformed in 2019. On August 1st, 2019, the team participat
 
 #### **CCA Teachers**
 
-| Overall teacher-in-charge | Ms Nor Shahila |
+| Overall teacher-in-charge | Ms Khairunnisa |
 |:-------------------------:|:--------------:|
-|     Teachers-in-charge    |  Mdm Syazwani  |
+|     Teachers-in-charge    |  Ms Siti Nabilah |
