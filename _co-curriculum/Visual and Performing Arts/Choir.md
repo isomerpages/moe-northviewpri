@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /co-curriculum/Visual-and-Performing-Arts/Choir
+permalink: /co-curriculum/Visual-and-Performing-Arts/Choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -31,13 +31,12 @@ As our Choir members want to make beautiful music, they work hard together durin
 
 | Level 	| Day 	| Time 	|
 |---	|---	|---	|
-| Primary 3 to 6 	| Mondays 	| 3:15 PM to 5:15 PM (e-CCA sessions through Zoom platform)  2:15 PM to 4:15 PM (Face to Face sessions, every 1st Monday of the month) 	|
+| Primary 3 to 6 	| Mondays 	| 2.15pm- 4.15pm
 
 #### **CCA Teachers**
 
-
-1.  Ms Lim Nien Chern Juliana (OIC)
-2.  Ms Leow Rui Qing (2IC)
+1.  Ms Leow Rui Qing (OIC)
+2.  Ms Rebecca Tay
 
 #### **CCA Instructions**
 
