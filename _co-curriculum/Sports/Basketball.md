@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /co-curriculum/Sports/Basketball
+permalink: /co-curriculum/Sports/Basketball/
 description: ""
 third_nav_title: Sports
 ---
@@ -20,15 +20,15 @@ We are happy for their hard-earned achievements. We will continue to seek for op
 
 | Level 	| Day 	| Time 	|
 |:---:	|:---:	|:---:	|
-| Primary 3 to Primary 6 	| Friday 	| 1.45 p.m. to 3.45 p.m. 	|
+| Primary 3 to Primary 6 	| Monday	| 2.15 p.m. to 4.15 p.m. 	|
 
-\*Change of CCA day to Friday temporary till the Indoor Sports Hall is ready.
+
 
 ### **CCA Teachers**
 
 | Overall teacher in-charge 	| Mdm Wong Oi Lai 	|
 |:---:	|:---:	|
-| Teachers in-charge 	| Mr Roy Too Thiam Siew 	|
-|  	| Ms Grace Li Yi Fei 	|
+| Teachers in-charge 	| Ms Li Yifei,  Ms Tan Yi Xiu |
+|
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXnjXIgBWRsQmRSPyJXBgZjMkLGcUc14cjps_zf2Wr0WgjV_a-7Z9FFtetYH5GEFlrD8svPr4gUs3N/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
