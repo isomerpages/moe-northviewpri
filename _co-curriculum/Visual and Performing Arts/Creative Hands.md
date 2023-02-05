@@ -21,9 +21,9 @@ Creative Hands develops our members in the following ways:
 
 #### **CCA Teachers**
 
-| Overall teacher-in-charge 	| Ms Ng Mui Hiok	|
+| Overall teacher-in-charge 	| Mdm Tham Miaw Jeng	|
 |:---:	|:---:	|
-| Teachers-in-charge 	| Ms Yu Kexin
+| Teachers-in-charge 	| Mdm Ng Ngin Huay, Ms Zheng Yue
 
 ### **SYF 2021**
 
