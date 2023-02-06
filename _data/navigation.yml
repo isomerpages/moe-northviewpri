@@ -24,8 +24,6 @@ links:
         url: /curriculum/English-Language
       - title: Co-Curriculum
         url: /co-curriculum/Co-Curricular-Activities
-  - title: MOE KINDERGARTEN @ NORTHVIEW
-    url: /MOE-Kindergarten-NorthView
   - title: Parents
     url: /for-parents/For-Parents
     sublinks:
@@ -91,3 +89,5 @@ links:
         url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/nvps-one-stop-ict-portal
       - title: Relief Request Form
         url: https://docs.google.com/forms/d/e/1FAIpQLSfEhMYF9_IhcPZ8BLt7-Rs2AHi5kozBx1F5pyNyK1H1AyzP3Q/viewform
+  - title: MOE KINDERGARTEN @ NORTHVIEW
+    url: /MOE-Kindergarten-NorthView
