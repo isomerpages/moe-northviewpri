@@ -64,6 +64,16 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 **Primary 5**
 
+![](/images/Curriculum/Sexual%20Education/S1NEW.png)
+![](/images/Curriculum/Sexual%20Education/S2NEW.png)
+
+**Primary 6**
+
+![](/images/Curriculum/Sexual%20Education/S3NEW.png)
+![](/images/Curriculum/Sexual%20Education/S4NEW.png)
+
+
+
 #### **Information for Parents**
 
 
