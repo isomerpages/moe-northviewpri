@@ -74,6 +74,20 @@ third_nav_title: Our People
 
 ### **Non-Form Teachers**
 
-
+| Name of Teacher | Teaching Subject | Email Address |
+|:---:|:---:|:---:|
+| Mr Koh Ye Hong Kenneth | English | koh_ye_hong_kenneth@moe.edu.sg |
+| Ms Nazrah Mohamad Latiff | English<br>Science | nazrah_mohamad_latiff@moe.edu.sg |
+| Mr Hafeez | PE | mohammed_hafeez_mohd_kassi@moe.edu.sg |
+| Mdm Tan Soh Leng | Chinese Language | tan_soh_leng@moe.edu.sg |
+| Ms Melissa Tan | Art | tan_li_cheng_a@moe.edu.sg |
+| Mr Or Boon Chun | Science | or_boon_chun@moe.edu.sg |
+| Ms Danielle Neo Khai Ling | English<br>Social Studies  | neo_khai_ling@moe.edu.sg |
+| Ms Junice Ong | English | ong_hui_ling_junice@moe.edu.sg |
+| Mdm Krishnaveni | English | krishnaveni_narayanasamy@moe.edu.sg |
+| Ms Christina Hoon | English<br>Math | hoon_christina@moe.edu.sg |
+|  Mr Xie Jialun  | Math <br>English  | xie_jialun@moe.edu.sg  |
+|  Mr Sim Jia Hong | Math  | sim_jia_hong@moe.edu.sg  |
+| Ms Goh Li Li  | Math   | goh_li_li_a@moe.edu.sg  |
 
 ### **Allied Educators**
