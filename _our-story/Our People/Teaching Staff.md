@@ -90,4 +90,10 @@ third_nav_title: Our People
 |  Mr Sim Jia Hong | Math  | sim_jia_hong@moe.edu.sg  |
 | Ms Goh Li Li  | Math   | goh_li_li_a@moe.edu.sg  |
 
-### **Allied Educators**
+### **Special Education Needs Officers**
+
+
+| Name of Teacher | Email Address |
+|:---:|:---:|
+| Ms Aisyah Nur Shalin Binte Roslan | aisyah_nur_shalin_roslan@moe.edu.sg |
+| Ms Noraimye Binte Mohamad Yasin | noraimye_mohamad_yasin@moe.edu.sg |
