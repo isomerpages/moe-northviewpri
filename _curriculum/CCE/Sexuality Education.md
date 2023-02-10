@@ -72,6 +72,10 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 ![](/images/Curriculum/Sexual%20Education/S3NEW.png)
 ![](/images/Curriculum/Sexual%20Education/S4NEW.png)
 
+**Please Note:**
+
+**\*For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the  Primary 6 cohort.**
+
 
 
 #### **Information for Parents**
