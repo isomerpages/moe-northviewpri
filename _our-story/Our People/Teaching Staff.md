@@ -32,7 +32,14 @@ third_nav_title: Our People
 
 ### **Primary 3 Form Teachers**
 
-
+| Class | Name of Teacher | Email Address |
+|:---:|:---:|:---:|
+|  3 Courage | Mr Poh Gim Siong<br>Ms Poh Yun Xuan  | poh_gim_siong@moe.edu.sg<br>poh_yun_xuan@moe.edu.sg  |
+| 3 Empathy   | Ms Darleana Bte Daut<br> Mr Molawari  | darleana_daut@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg   |
+| 3 Faith  | Mr Yeo Chee Keong, Spencer<br>Ms Tian Xiao  | yeo_chee_keong_a@moe.edu.sg<br>tian_xiao@moe.edu.sg  |
+| 3 Hope | Ms Png Sok Cheng Chermaine<br>Mr Yap Kian Hua | Png_Sok_Cheng_Chermaine@moe.edu.sg<br>yap_kian_hua@moe.edu.sg |
+| 3 Integrity  | Ms Norafidah bte Othman<br>Mdm Lee Soek Noi  | norafidah_othman@moe.edu.sg<br>lee_seok_noi@moe.edu.sg  |
+| 3 Joy | Mdm Nazreen<br>Mrs Kumar  | nazreen_parveen_abdul_azeez@moe.edu.sg<br>prema_latha@moe.edu.sg |
 
 ### **Primary 4 Form Teachers**
 
