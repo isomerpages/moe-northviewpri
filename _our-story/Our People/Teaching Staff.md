@@ -63,7 +63,14 @@ third_nav_title: Our People
 
 ### **Primary 6 Form Teachers**
 
-
+| Class | Name of Teacher | Email Address |
+|:---:|:---:|:---:|
+| 6 Courage  | Mr Lim Joo Ghee<br>Shahila Bte Mohammed  | lim_joo_ghee@moe.edu.sg<br>nor_shahila_mohammed@moe.edu.sg  |
+|  6 Faith | Mr Too Thiam Siew Roy<br>Mdm Png Suat Kheng  | too_thiam_siew@moe.edu.sg<br>png_suat_kheng@moe.edu.sg  |
+| 6 Hope | Ms Tan Yi Xiu<br>Ms Lim Wei Tze Karen | tan_yi_xiu@moe.edu.sg<br>karen_lim_wei_tze@moe.edu.sg |
+| 6 Integrity 1 | Mr Choon Siong<br>Ms Leow Rui Qing | low_choon_siong@moe.edu.sg<br>leow_rui_qing@moe.edu.sg |
+| 6 Integrity 2 | Mr Su Tow Keong<br>Mdm Usha Krishnasamy | su_tow_keong@moe.edu.sg<br>usha_krishnasamy@moe.edu.sg |
+| 6 Joy | Ms Tham Miaw Jeng<br>Mdm Nurul Huda Bte Baharom | tham_miaw_jeng@moe.edu.sg<br>nurul_huda_baharom@moe.edu.sg |
 
 ### **Non-Form Teachers**
 
