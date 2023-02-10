@@ -43,7 +43,13 @@ third_nav_title: Our People
 
 ### **Primary 4 Form Teachers**
 
-
+| Class | Name of Teacher | Email Address |
+|:---:|:---:|:---:|
+|  4 Courage | Mrs Sharon Poh<br>Ms Li Yifei  |  poi_mei_ping_sharon@moe.edu.sg<br>grace_li_yi_fei@moe.edu.sg |
+| 4 Faith  | Mr Kenny Toh<br>Ms Pua Mei Ru  | toh_ghim_yeow@moe.edu.sg<br>phua_mei_ru@moe.edu.sg |
+| 4 Hope | Mdm Cheok Liying<br>Ms Ng Ngin Huay | cheok_liying@moe.edu.sg<br>ng_ngin_huay@moe.edu.sg |
+| 4 Integrity | Ms Ting Pey Chei Jasavelle<br>Ms Yu Kexin | ting_pey_chei_jasavelle@moe.edu.sg<br>yu_kexin@moe.edu.sg |
+| 4 Joy | Mrs Ravel<br>Mr Mohammad Adib  | paraathi_pachimuthu_y@moe.edu.sg<br>mohammad_adib_mohammad_suhaimi@moe.edu.sg |
 
 ### **Primary 5 Form Teachers**
 
