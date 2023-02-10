@@ -53,7 +53,13 @@ third_nav_title: Our People
 
 ### **Primary 5 Form Teachers**
 
-
+| Class | Name of Teacher | Email Address |
+|:---:|:---:|:---:|
+|  5 Courage | Ms Ng Li Ping<br>Ms Fiona Koh   | ng_li_ping_b@moe.edu.sg<br>fiona_koh_li_ping@moe.edu.sg  |
+| 5 Faith  | Mr Sivasegaran s/o Seenivasan <br>Ms Karlpana D/O G Selvaraj  | sivasegaran_seenivasan@moe.edu.sg<br>karlpana_g_selvaraj@moe.edu.sg  |
+| 5 Hope | Mr Teo Guan Te<br>Ms Shivani Shanker | teo_guan_te@moe.edu.sg<br>shivani_shanker@moe.edu.sg |
+| 5 Integrity | Mr Nurshahin Bin Sarry<br>Mr Danial | nurshahin_sarry@moe.edu.sg<br>noh_danial_abdul_hamid_a@moe.edu.sg |
+| 5 Joy | Ms Vikneshwari D/O Kunusegaran<br>Ms Zheng Yue | vikneshwari_kunusegaran@moe.edu.sg<br>zheng_yue@moe.edu.sg |
 
 ### **Primary 6 Form Teachers**
 
