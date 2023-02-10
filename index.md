@@ -14,5 +14,4 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/MakerEducationProgramme/
-      background: /images/Homepage/Hero pictures/HERO (1200 × 630 px) (1).gif
 ---
