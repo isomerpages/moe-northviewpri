@@ -27,7 +27,7 @@ third_nav_title: Our People
 | 2 Hope | Ms Chan Ho Lai, Grace<br>Mr Habib Nasiruddin  | grace_chan_ho_lai@moe.edu.sg<br>habib_nasiruddin@moe.edu.sg |
 | 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br>Ms Ng Mui Hiok | zunaidah_abdul_rahman@moe.edu.sg<br>ng_mui_hiok@moe.edu.sg |
 | 2 Joy | Ms Sharmila<br>Ms Chua Pey Wen | sharmila_balakrishnan@moe.edu.sg<br>chua_pey_wen@moe.edu.sg |
-| 2 Respect | Ms Hong Li Xuan<br>Mdm Ashedah | hong_li_xuan@moe.edu.sg |
+| 2 Respect | Ms Hong Li Xuan<br>Mdm Shedah | hong_li_xuan@moe.edu.sg |
 | 2 Unity  |  Ms Dionne Teo<br>Ms Khairunnisa | teo_lien_dionne@moe.edu.sg<br>khairunnisa_mohd_akip@moe.edu.sg |
 
 ### **Primary 3 Form Teachers**
