@@ -29,4 +29,4 @@ Click [here](https://northviewpri.moe.edu.sg/qql/slot/u179/Cyberwellness/NVPS_Sa
 
 Apart from the FTGP lessons, there are school wide activities such as assembly programmes and Cyber Wellness Week planned out for them as well! Here are some pictures taken from the Cyber Wellness Week!
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS83Wmw4rsKzt0QIV1dXjmGPN-1EEWDUBO9ex7ANGfWRYdSvsDZwtK36Hnc087BmV6RACpVdUVbBLQS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzGSsvO-qJMwpLch-jIn6DI02v39PGxyHPzQdxSofNV1o0YpFeibn5MEBMKldpH6gK6M_TcFhLMkjq/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
