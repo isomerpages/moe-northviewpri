@@ -1,6 +1,6 @@
 ---
 title: Information Communication Technology (ICT)
-permalink: /curriculum/Information-Communication-Technology-ICT
+permalink: /curriculum/Information-Communication-Technology-ICT/
 description: ""
 ---
 #### **Department Overview**
@@ -50,4 +50,4 @@ We also follow closely to the MOE Cyber Wellness framework and educate North Vie
 *   Cyber Wellness FTGP Sharing by Cyber Wellness Ambassadors
 *   Cyber Wellness week
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHKNvcRcoxsd_hkMT-Q6bmeYl5d9IKmW9K0cjMon4is8SPGYDv-LFUSzsOsw_UxsLXZs7L-MDWFMm6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDDxUnaNp_sJ-ZeFbRyqf6_7vS3_QQRVHiAUlrWLyWbZDo6unKguOsoazP16DeIe8vMGNYI8TMOwtH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
