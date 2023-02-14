@@ -22,4 +22,4 @@ NVPS Cub Scouts aims to provide a group environment which is intellectually stim
 |  	| Ms Shivani 	|
 
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4ygPfIbuKzEFPPLs2GOmWyFxk_rqZDq8G-6gcQXdLYAqrqevAI2dwBJ9FusYfAYrMLE6IkbCZFOet/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUeZ3si4I0OPgFQvMZUIqooip9oD7vDIHAnb83esGetkJV109By1mi3_xr-XUjqSafJH9QWKF6SCI0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
