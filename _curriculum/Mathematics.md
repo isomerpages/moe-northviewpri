@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /curriculum/Mathematics
+permalink: /curriculum/Mathematics/
 description: ""
 ---
 #### **Department Overview**
@@ -80,7 +80,7 @@ The tool has been developed by our school teachers, with reference to George Pol
 
 *   Financial Literacy Programme for Primary 5 students (conducted by external trainers)
 
-<iframe allowfullscreen="true" height="250" width="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlSTP6TylHsbC2iAQ_QmA01DUyX9ov2DULcNTFwJ8YmsII4xKcHGhFwqwEJAeMEtDNiar_h3qxy-I7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSd3G_4bNCeBpee6V5RQmK7pkSxGvj9byOshaF-5kCNa2quXaDZmS58zHwb2_MLbKVT7rjhQeb8XCH2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 **Math Literature Programme**
 
