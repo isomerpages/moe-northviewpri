@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /curriculum/Science
+permalink: /curriculum/Science/
 description: ""
 ---
 ### **Department Overview**
@@ -30,4 +30,4 @@ The curriculum design seeks to enable students to view the pursuit of science as
 *   Young Scientist Badge Scheme for Primary 3 and 5
 *   Every Child a Seed Programme (NParks) for Primary 3
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9sRJOBJKfddyT4XV0iMcVhtkdV152G8W7wIr7pVUagBPLbYMGM7CVn_nTNxdWJMDlHJT1H35_ktOp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTIBBkBmiWv-0V_QStBruWkEJ6to6FJ-0AlQeLKYMtQwoRCZCTD5feoF9tK3nz099PYnfBsQVpeYUFU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
