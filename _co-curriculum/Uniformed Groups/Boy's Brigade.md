@@ -49,4 +49,4 @@ The BB Share-a-Gift project is an annual national community service project that
 
 Mr Su Tow Keong (OIC)
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCF270ZOCVF00guqifvDiYynwTWEjUioi8r2O85CqKl6My6FBU8G8R_7d1AbWFSebnbWDso4ewlgjq/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqGnlSx9J49YrTQcse9zhL4i4QJC1k3bBqmf90i4LMZyRGLhrqYyQszyXjK91YZ16UdsRoNu_HktRM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
