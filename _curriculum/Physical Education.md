@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /curriculum/Physical-Education
+permalink: /curriculum/Physical-Education/
 description: ""
 ---
 ## **Department Overview**
@@ -165,4 +165,4 @@ PE teachers will be briefed at the beginning of the year on expectations and del
 
 Teachers will use both formal and informal assessment. Informal assessment is used very frequently to provide necessary correction and refinement to movements. Formal assessment will be carried out using a set of rubrics to inform parents’ about their child’s progress through the Semester Holistic Report Checklist for P1 and P2
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJLoo3gPApOVR1jheKLxnqCakLmYrEFYP0dT2ha8c-apLLfE1h5tuuxSvMYby2e2S2qDPJ502GnPtw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSo40kSa8DwOlx69oN1fqCaKQ17wEn-IeGB0vJj3rCbwbB7fynhGPJUAcEDCCHUMkafdZZUAdf-iQ97/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
