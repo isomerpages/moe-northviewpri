@@ -23,7 +23,7 @@ third_nav_title: Our People
 |:---:|:---:|:---:|
 |  2 Courage |  Mdm Norilah Bte Abdullah<br>Ms Rebecca Anne Tay  |  norilah_abdullah@moe.edu.sg<br>rebecca_anne_tay_kay@moe.edu.sg |
 |  2 Empathy | Nadirah Binte Jani<br>Mdm Rhoda Tan  | nadirah_jani@moe.edu.sg<br>rhoda_tan@moe.edu.sg  |
-|  2 Faith | Ms Aisyah Bte SamatMrs Kurup  | aisyah_samat@moe.edu.sg<br>suseela_kurup@moe.edu.sg  |
+|  2 Faith | Ms Aisyah Bte Samat<br>Mrs Kurup  | aisyah_samat@moe.edu.sg<br>suseela_kurup@moe.edu.sg  |
 | 2 Hope | Ms Chan Ho Lai, Grace<br>Mr Habib Nasiruddin  | grace_chan_ho_lai@moe.edu.sg<br>habib_nasiruddin@moe.edu.sg |
 | 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br>Ms Ng Mui Hiok | zunaidah_abdul_rahman@moe.edu.sg<br>ng_mui_hiok@moe.edu.sg |
 | 2 Joy | Ms Sharmila<br>Ms Chua Pey Wen | sharmila_balakrishnan@moe.edu.sg<br>chua_pey_wen@moe.edu.sg |
