@@ -23,7 +23,7 @@ Our curriculum and pedagogy approach is built on the guiding principles of the E
 
   
 
-<img style="width:50%;height:50%" src="/images/Curriculum/English/STELLAR%202%200.png">
+<img src="/images/Curriculum/English/STELLAR%202%200.png" style="width:50%;height:50%">
 
 
 
@@ -101,4 +101,4 @@ The annual English Language Fiesta (ELF) hopes to provide the avenue for student
 
 The Creative Writing Programme is offered to selected P4 and P5 students. It seeks to enhance students' literary understanding of the styles and traditions of both prose and poetry through the application of critical and theoretical approaches to the reading and analysis of literary texts. Students become more confident in expressing themselves in the written form through the use of appropriate word choices and a distinct writer’s ‘voice’.
 
-<iframe allowfullscreen="true" height="370" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjYt_ETXntzrjEfVvcwAlqcef1nw3WghDyWRX736mEiZ2S0qYrormPgGILXLNbr2kD5vNTrGLRZrNN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRgd6xINm-YCvw3-o25VDVnR_AyoFFwfRnCNjVCRZ8mCMYKr089jmTVvDUUF_FXwpWFlSv5rCrP59h/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
