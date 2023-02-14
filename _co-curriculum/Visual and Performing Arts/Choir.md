@@ -47,4 +47,4 @@ Items required:
 2.  Black file with A4 clear pockets – to hold music scores
 3.  Water bottle
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLW5DXXATyTWVi3IcTfWPSJ1oDI0rPgFfSEOXlKhl6o_BEARj5JLY3LnAkUY2BpqT3e1jxucsvmreA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5TvO2AKUy5tFJrmbUqy8DfQw0_T_YNQLoJHlpk7ktv4BThf7HYEb-_XIOYxvcY6j7YtUNHnIhi-_a/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
