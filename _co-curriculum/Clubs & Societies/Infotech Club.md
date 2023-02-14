@@ -1,6 +1,6 @@
 ---
 title: Infotech Club
-permalink: /co-curriculum/Clubs-and-Societies/Infotech-Club
+permalink: /co-curriculum/Clubs-and-Societies/Infotech-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
@@ -33,4 +33,4 @@ HACK@CODE 2021 – Most Aesthetically Designed Award
 |                           |   Mr Teo Guan Te  |
 |                           |    Mdm Roslinda   |
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLuv8AYXyn-9oInTdsuB-ShPTLVztM0ZD7sfDnQBDlVaxpyWYAZR0ADQHLxQE0Fo1mj-0bRCbWRYLg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVJp2wLUiNMcV0jr81D2DVGOJ_Dry59kTIjZc0IqM54fhEX00q5BCNBK3DemdY4DzcDYq-K6nVwO41/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
