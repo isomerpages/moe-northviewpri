@@ -1,6 +1,6 @@
 ---
 title: Student Leadership Committee
-permalink: /co-curriculum/Student-Leadership/Student-Leadership-Committee
+permalink: /co-curriculum/Student-Leadership/Student-Leadership-Committee/
 description: ""
 third_nav_title: Student Leadership
 ---
@@ -81,4 +81,4 @@ Every year, prefects will have the opportunities to undergo leadership-training 
 
 *   Appreciating Our Unsung Heroes
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIjk6Z_YuP7b4y9yziu_VNDzI5Y59JTOV_N4NYnRsgecN7OaOZizc1WPxbvnSzO3Uqi498nx7VTCwr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSh6DYOZDjn7vz-hfLaw467NAuJYZdSvvTtKzn5jVQorJt6C33PA5uyP3-bBEPdKfaF6j_3kYtAECnd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
