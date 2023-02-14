@@ -31,4 +31,4 @@ We are happy for their hard-earned achievements. We will continue to seek for op
 | Teachers in-charge 	| Ms Li Yifei,  Ms Tan Yi Xiu |
 |
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXnjXIgBWRsQmRSPyJXBgZjMkLGcUc14cjps_zf2Wr0WgjV_a-7Z9FFtetYH5GEFlrD8svPr4gUs3N/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnls6KitkGAQ3QIpd1qOCtBqmPOI8-o1Qf2t18CaBtKNybXVAgtEQnxcc2px30-o6fFB5E80s7v4qJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
