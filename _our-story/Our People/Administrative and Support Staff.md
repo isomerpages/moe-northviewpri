@@ -1,12 +1,12 @@
 ---
 title: Administrative and Support Staff
-permalink: /our-story/Our-People/Administrative-and-Support-Staff
+permalink: /our-story/Our-People/Administrative-and-Support-Staff/
 description: ""
 third_nav_title: Our People
 ---
 | Designation 	| Name of Teacher 	| Email Address 	|
 |:---:	|:---:	|:---:	|
-| Administration Manager 	| Mr Frank Tan 	| tan_yoke_jin@moe.edu.sg 	|
+|
 | Administration Manager 	| Mdm Nadzirah  	| nadzirah_azman@moe.edu.sg 	|
 | Administration Manager 	| Mdm Rachel Loo  	| rachel_loo@moe.edu.sg 	|
 | Administration Executive 	| Mdm Catherine Cheong  	| cheong_siew_yun@moe.edu.sg 	|
