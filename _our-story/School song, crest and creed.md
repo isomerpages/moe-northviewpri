@@ -77,7 +77,7 @@ Citizens of tomorrow ready to serve.
 
 ![](/images/Our%20Story/School%20Song%20Crest%20and%20Creed/Capture1.png)
 
-School Creed
+**School Creed**
 
 The North View Way                                                                                  
 Doing it right, doing it well <br>At North View Primary School                          <br>We pursue excellence in character and performance                                   <br>We honour each other by being respectful, kind and honest                          <br>We take pride in all we do                                                                                  <br>We love and appreciate each other's differences                                             <br>We give our best in and outside the classroom and workplace
