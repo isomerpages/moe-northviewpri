@@ -79,11 +79,4 @@ Citizens of tomorrow ready to serve.
 
 School Creed
 
-The North View Way 
-Doing it right, doing it well 
-At North View Primary School 
-We pursue excellence in character and performance 
-We honour each other by being respectful, kind and honest 
-We take pride in all we do 
-We love and appreciate each other's differences 
-We give our best in and outside the classroom and workplace
+The North View Way                                                                                         Doing it right, doing it well                                                                                     At North View Primary School                                                                                We pursue excellence in character and performance                                        We honour each other by being respectful, kind and honest                            We take pride in all we do                                                                                    We love and appreciate each other's differences                                               We give our best in and outside the classroom and workplace
