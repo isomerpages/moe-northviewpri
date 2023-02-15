@@ -77,7 +77,7 @@ Citizens of tomorrow ready to serve.
 
 ![](/images/Our%20Story/School%20Song%20Crest%20and%20Creed/Capture1.png)
 
-**School Creed **
+School Creed
 
 The North View Way 
 Doing it right, doing it well 
@@ -86,4 +86,4 @@ We pursue excellence in character and performance
 We honour each other by being respectful, kind and honest 
 We take pride in all we do 
 We love and appreciate each other's differences 
-We give our best in and outside the classroom and workplace 
+We give our best in and outside the classroom and workplace
