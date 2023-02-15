@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /curriculum/Mother-Tongue-Languages
+permalink: /curriculum/Mother-Tongue-Languages/
 description: ""
 ---
 #### **Department Overview**
@@ -59,3 +59,4 @@ ICT platforms such as SLS, iMTL portal and various ICT tools are used to ensure 
 
 CL/ML/TL : [www.mtl.moe.edu.sg](http://www.mtl.moe.edu.sg/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/prxrPaOISgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
