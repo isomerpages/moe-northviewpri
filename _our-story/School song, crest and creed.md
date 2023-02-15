@@ -1,6 +1,6 @@
 ---
 title: School song, crest and creed
-permalink: /our-story/Our-People/School-song-crest-and-creed
+permalink: /our-story/Our-People/School-song-crest-and-creed/
 description: ""
 ---
 <img style="width:70%;height:50%" src="/images/Homepage/School%20logo%20v3.png">
@@ -77,4 +77,13 @@ Citizens of tomorrow ready to serve.
 
 ![](/images/Our%20Story/School%20Song%20Crest%20and%20Creed/Capture1.png)
 
-![](/images/Our%20Story/School%20Song%20Crest%20and%20Creed/Capture2.png)
+**School Creed **
+
+The North View Way 
+Doing it right, doing it well 
+At North View Primary School 
+We pursue excellence in character and performance 
+We honour each other by being respectful, kind and honest 
+We take pride in all we do 
+We love and appreciate each other's differences 
+We give our best in and outside the classroom and workplace 
