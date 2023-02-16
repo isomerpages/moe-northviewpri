@@ -3,7 +3,6 @@ title: Privacy Statement
 permalink: /privacy/
 description: ""
 ---
-  
 1.    This is a North View Primary School website. Thank you for examining our privacy statement.  
        
 2    If you are only browsing this website, we do not capture data that allows us to identify you individually.  
@@ -15,3 +14,9 @@ description: ""
 5.    To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.  
         
 6.    This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+
+Publicity 
+
+Photographs or video images of students or their legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels. If parents/ guardians do not wish their child's/ ward's images to be captured, please write in to the school to request for exemption.   
+  
+In view of the Personal Data Protection Act (PDPA), please also refrain from posting photos which you may have taken during our school activities/ events on public media platforms as they may contain images of other students.
