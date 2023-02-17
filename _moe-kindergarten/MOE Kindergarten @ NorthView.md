@@ -97,3 +97,36 @@ Our operating hours are:
   </tr>
 </tbody>
 </table>
+
+**For further information please contact us at:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zr06">Phone:</th>
+    <th class="tg-zr06">+65 6759 3235</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Fax:</td>
+    <td class="tg-zr06">+65 6759 3237</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Email:</td>
+    <td class="tg-zr06">nvps@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Address:</td>
+    <td class="tg-zr06">210 Yishun Ave 6, Singapore 768960</td>
+  </tr>
+</tbody>
+</table>
