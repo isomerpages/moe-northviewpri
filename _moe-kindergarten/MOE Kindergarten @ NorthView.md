@@ -139,6 +139,6 @@ Please visit the MOE website at [here](https://www.moe.gov.sg/preschool/moe-kin
 
 [Application for New Authorisation Pass](https://form.gov.sg/61c91791369b3a00130dc29c)  
 
-[KCare\_North View Slides for K1 Orientation](https://northviewpri.moe.edu.sg/qql/slot/u179/MK/KCare_North%20View%20Slides%20for%20K1%20Orientation_2023%20Cohort.pdf)  
+[KCare\_North View Slides for K1 Orientation](/files/MOE%20Kindergarten/KCare_North%20View%20Slides%20for%20K1%20Orientation_2023%20Cohort.pdf)
 
-[MK Slides for K1 Orientation](https://northviewpri.moe.edu.sg/qql/slot/u179/MK/MK%20Slides%20for%20K1%20Orientation_2023%20Cohort.pdf)
+[MK Slides for K1 Orientation](/files/MOE%20Kindergarten/MK%20Slides%20for%20K1%20Orientation_2023%20Cohort.pdf)
