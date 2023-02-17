@@ -27,3 +27,30 @@ Important Information on Registration:
 If you missed the online registration exercise, please contact us directly.  
 
 **MK collaborates with the following Early Years Centre:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f4yw">Collaborating EYC</th>
+    <th class="tg-f4yw">EYC Address &amp; Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f4yw">PCF Sparkletots Preschool<br>@ Nee Soon Link Blk 408</td>
+    <td class="tg-f4yw">Blk 408 Blk 408 Yishun Avenue 6<br>#01-1264 Singapore 760408<br>Tel: 6753 7449</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">PCF Sparkletots Preschool<br>@ Nee Soon Link Blk 461</td>
+    <td class="tg-f4yw">Blk 461 Blk 461 Yishun Avenue 6<br>#02-01 Singapore 760461<br>Tel: 6235 0930</td>
+  </tr>
+</tbody>
+</table>
