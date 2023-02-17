@@ -54,3 +54,11 @@ If you missed the online registration exercise, please contact us directly.
   </tr>
 </tbody>
 </table>
+
+**Important Information on EYC Registration:**
+
+Parents are to use the appropriate forms when applying for MK@NorthView. EYC parents are to use the registration link given by the EYC. Other applicants are to use the registration link on the MOE-MK website. EYC parents should approach their EYC directly if they have misplaced the notification letter and require the registration link for their online application. This is to ensure that they have confirmed the eligibility of the EYC children before providing parents with the registration link.
+
+**Programme & Operating Hours**
+
+Our operating hours are:
