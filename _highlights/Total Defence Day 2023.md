@@ -11,6 +11,4 @@ As NVPS remembers the sacrifices of our fallen heroes 81 years ago, Northviewans
 
 “Together, We Keep Singapore Strong”
 
-![](/images/Homepage/Highlights/TDD2023.jpeg)
-
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTDu4xL48Afv2U0ezsb3z4RlLjexZEsZRs4vr7_9D2kAqrLNE_lbBTU07YxGHHM0X0cDMIuWueIL8qS/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
