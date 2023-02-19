@@ -10,3 +10,5 @@ The police officers from Yishun North NPC also visited us and answered the pleth
 As NVPS remembers the sacrifices of our fallen heroes 81 years ago, Northviewans learned to not take for granted our peace and security. We recognise the everyday things we can do to actively contribute to Total Defence!
 
 “Together, We Keep Singapore Strong”
+
+![](/images/Homepage/Highlights/TDD2023.jpeg)
