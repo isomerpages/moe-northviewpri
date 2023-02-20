@@ -1,0 +1,16 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Aesthetics (Arts Music).md
+      - Information Communication Technology (ICT).md
+      - Physical Education.md
+      - CCE/Character and Citizenship education.md
+      - CCE/Programme for Active Learning.md
+      - CCE/Sexuality Education.md
+      - CCE/Cyber Wellness Programme.md
+      - CCE/.keep
