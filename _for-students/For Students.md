@@ -5,7 +5,7 @@ description: ""
 ---
 *   [Home-Based Learning](https://sites.google.com/moe.edu.sg/northviewprimary/home)
 *   [Student Learning Space (SLS)](https://northviewpri.moe.edu.sg/useful-links/for-students/Student-Learning-Space-SLS)
-*   [Student iCON](https://northviewpri.moe.edu.sg/useful-links/for-students/student-icon) - 
+*   [Student iCON](https://northviewpri.moe.edu.sg/useful-links/for-students/student-iCON) 
 *   [Scholastic](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/student/SGP5W4P)
 *   [E-zhishi](https://www.ezhishi.net/Contents/)
 *   [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
