@@ -36,7 +36,7 @@ links:
       - title: School Bag
         url: https://www.schoolbag.edu.sg/
       - title: Cyber Wellness
-        url: https://northviewpri.moe.edu.sg/useful-links/for-parents/cyber-wellness
+        url: /for-parents/Cyber-Wellness/
       - title: Parents' Handbook
         url: /for-parents/Parents-Handbook
       - title: Service Providers
@@ -49,7 +49,7 @@ links:
       - title: Home-Based Learning
         url: https://sites.google.com/moe.edu.sg/northviewprimary/home
       - title: Student Learning Space (SLS)
-        url: /for-students/Student-Learning-Space-SLS
+        url: /for-students/Student-Learning-Space-SLS/
       - title: Student iCON
         url: /for-students/Student-iCON/
       - title: Scholastic
@@ -68,9 +68,9 @@ links:
     url: /for-teachers/For-Teachers
     sublinks:
       - title: MOE Intranet
-        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/moe-intranet
+        url: /for-teachers/MOE-Intranet/
       - title: ICON
-        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/icon
+        url: /for-teachers/ICON
       - title: OPAL 2.0
         url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/opal-2-0
       - title: SC Mobile
@@ -86,7 +86,7 @@ links:
       - title: Workplace
         url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/workplace
       - title: NVPS One Stop ICT portal
-        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/nvps-one-stop-ict-portal
+        url: /for-teachers/NVPS-One-stop-ICT-portal
       - title: Relief Request Form
         url: https://docs.google.com/forms/d/e/1FAIpQLSfEhMYF9_IhcPZ8BLt7-Rs2AHi5kozBx1F5pyNyK1H1AyzP3Q/viewform
   - title: MOE KINDERGARTEN @ NORTHVIEW

@@ -1,6 +1,6 @@
 ---
 title: MOE Intranet
-permalink: /for-teachers/MOE-Intranet
+permalink: /for-teachers/MOE-Intranet/
 description: ""
 ---
-[MOE Intranet](https://northviewpri.moe.edu.sg/useful-links/for-teachers/moe-intranet)
+[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
