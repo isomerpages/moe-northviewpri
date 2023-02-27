@@ -3,8 +3,7 @@ title: Principal's message
 permalink: /our-story/Our-People/Principals-message/
 description: ""
 ---
-**Passionate Learners and Caring Leaders 
-in North View Primary & MK@North View**
+#### **Passionate Learners and Caring Leaders in North View Primary & MK@North View**
 
 Welcome to North View Primary School! 
 Our school vision is **“Passionate Learners, Caring Leaders”** and as a school community we are firmly anchored in our core values of **R**esilience, **R**espect, **R**esponsibility, **I**ntegrity and **G**raciousness **(R³InG)**, as we prepare Northviewians not just for today but for the future.  
