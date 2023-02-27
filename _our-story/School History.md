@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /our-story/Our-People/School-History
+permalink: /our-story/Our-People/School-History/
 description: ""
 ---
 North View Primary School (NVPS) was established in 1995 with our founding Principal Mr Lawrence Chong. Its official opening was held on 2 August 1997 and graced by Associate Professor Ho Peng Kee, then Member of Parliament for Sembawang GRC.
