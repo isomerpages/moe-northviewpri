@@ -1,7 +1,0 @@
-collections:
-  announcements:
-    output: true
-    order:
-      - Meet the Parents Slides.md
-      - School Facebook Page.md
-      - Teachers' Awards Nomination.md
