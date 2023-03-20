@@ -1,9 +1,11 @@
 ---
 title: Total Defence Day 2023
-permalink: /highlights/permalink/TDD2023/
+permalink: /highlights/events/permalink/
+date: 2023-03-14
+layout: post
 description: ""
+image: ""
 ---
-
 In the lead-up to Total Defence Day on 15 Feb 2023, NVPS commemorated Total Defence Day through our School Assembly Talk, having our Annual Fire and Evacuation drill, and having our very own Junior Civil Defence Lionhearters showcase basic first aid to fellow Northviewans!
 
 The police officers from Yishun North NPC also visited us and answered the plethora of questions asked by our Northviewans!

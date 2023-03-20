@@ -1,8 +1,12 @@
 ---
-title: Teachers' Awards Nomination
-permalink: /announcements/teacher-awards/
+title: Nomination for Teacher's Awards
+permalink: /highlights/announcements/permalink/
+date: 2023-03-14
+layout: post
 description: ""
+image: ""
 ---
+
 The school would  like to invite parents and students to submit nominations for our well-deserved teachers for the following awards:
 
 1. Most Inspiring Tamil Teachers’ (MITT) Award 2023 (Nomination period: 30 Jan - 10 Apr)

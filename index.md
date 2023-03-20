@@ -7,12 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/SchoolFacebookPage/
-        - title: Highlights
-          description: ""
-          url: /highlights/MakerEducationProgramme/
       background: /images/Homepage/Hero pictures/Add a heading (1200 × 630 px) (1).gif
+  - resources:
+      title: Highlights
+      button: View More
 ---

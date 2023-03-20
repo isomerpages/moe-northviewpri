@@ -14,8 +14,9 @@ third_nav_title: Our People
 | Vice Principal (Admin) | Mr Patrick Chan | nvps@moe.edu.sg |
 | School Staff Developer | Ms Tan Li Cheng Melissa | tan_li_cheng_a@moe.edu.sg |
 | Year Head (1-2) | Ms Christina Hoon | hoon_christina@moe.edu.sg |
-| Year Head (3-4) | Ms Ong Hui Ling Junice | ong_hui_ling_junice@moe.edu.sg |
+| Year Head (3-4) | Ms Ong Hui Ling Junice | ong_hui_ling_junice@moe.edu.sg 
 | Year Head (5-6) | Mdm Krishnaveni D/O Narayanasamy | krishnaveni_narayanasamy@moe.edu.sg |
+|Assistant Year Head - internal|Ms Tan Yi Xiu|tan_yi_xiu@moe.edu.sg
 | HOD(ICT) | Ms Nazrah Bte Mohd Latiff | nazrah_mohamad_latiff@moe.edu.sg |
 | HOD(MATH)  | Mr Xie Jialun | xie_jia_lun@moe.edu.sg |
 | HOD(MTL) | Mdm Tan Soh Leng | tan_soh_leng@moe.edu.sg |

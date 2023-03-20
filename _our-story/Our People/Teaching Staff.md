@@ -25,28 +25,28 @@ third_nav_title: Our People
 |  2 Empathy | Nadirah Binte Jani<br>Mdm Rhoda Tan  | nadirah_jani@moe.edu.sg<br>rhoda_tan@moe.edu.sg  |
 |  2 Faith | Ms Aisyah Bte Samat<br>Mrs Kurup  | aisyah_samat@moe.edu.sg<br>suseela_kurup@moe.edu.sg  |
 | 2 Hope | Ms Chan Ho Lai, Grace<br>Mr Habib Nasiruddin  | grace_chan_ho_lai@moe.edu.sg<br>habib_nasiruddin@moe.edu.sg |
-| 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br>Ms Ng Mui Hiok | zunaidah_abdul_rahman@moe.edu.sg<br>ng_mui_hiok@moe.edu.sg |
+| 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br>| zunaidah_abdul_rahman@moe.edu.sg<br> |
 | 2 Joy | Ms Sharmila<br>Ms Chua Pey Wen | sharmila_balakrishnan@moe.edu.sg<br>chua_pey_wen@moe.edu.sg |
 | 2 Respect | Ms Hong Li Xuan<br>Mdm Shedah | hong_li_xuan@moe.edu.sg |
-| 2 Unity  |  Ms Dionne Teo<br>Ms Khairunnisa | teo_lien_dionne@moe.edu.sg<br>khairunnisa_mohd_akip@moe.edu.sg |
+| 2 Unity  |  Mr Betrand Sng<br>Ms Khairunnisa | betrand_sng_wen_wei@moe.edu.sg<br>khairunnisa_mohd_akip@moe.edu.sg |
 
 ### **Primary 3 Form Teachers**
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-|  3 Courage | Mr Poh Gim Siong<br>Ms Poh Yun Xuan  | poh_gim_siong@moe.edu.sg<br>poh_yun_xuan@moe.edu.sg  |
+|  3 Courage | Mdm Ashedah<br>Ms Poh Yun Xuan  | -<br>poh_yun_xuan@moe.edu.sg  |
 | 3 Empathy   | Ms Darleana Bte Daut<br> Mr Molawari  | darleana_daut@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg   |
-| 3 Faith  | Mr Yeo Chee Keong, Spencer<br>Ms Tian Xiao  | yeo_chee_keong_a@moe.edu.sg<br>tian_xiao@moe.edu.sg  |
+| 3 Faith  | Ms Ng Mui Hiok<br>Ms Tian Xiao  | ng_mui_hiok@moe.edu.sg<br>tian_xiao@moe.edu.sg  |
 | 3 Hope | Ms Png Sok Cheng Chermaine<br>Mr Yap Kian Hua | Png_Sok_Cheng_Chermaine@moe.edu.sg<br>yap_kian_hua@moe.edu.sg |
-| 3 Integrity  | Ms Norafidah bte Othman<br>Mdm Lee Soek Noi  | norafidah_othman@moe.edu.sg<br>lee_seok_noi@moe.edu.sg  |
+| 3 Integrity  | Ms Norafidah bte Othman<br>Mdm Lee Seok Noi  | norafidah_othman@moe.edu.sg<br>lee_seok_noi@moe.edu.sg  |
 | 3 Joy | Mdm Nazreen<br>Mrs Kumar  | nazreen_parveen_abdul_azeez@moe.edu.sg<br>prema_latha@moe.edu.sg |
 
 ### **Primary 4 Form Teachers**
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-|  4 Courage | Mrs Sharon Poh<br>Ms Li Yifei  |  poi_mei_ping_sharon@moe.edu.sg<br>grace_li_yi_fei@moe.edu.sg |
-| 4 Faith  | Mr Kenny Toh<br>Ms Pua Mei Ru  | toh_ghim_yeow@moe.edu.sg<br>phua_mei_ru@moe.edu.sg |
+|  4 Courage | Ms Tan Yi Hui<br>Ms Li Yifei  |  tan_yi_hui_g@moe.edu.sg<br>grace_li_yi_fei@moe.edu.sg |
+| 4 Faith  | Ms Asvin Kaur<br>Ms Pua Mei Ru  | asvin_kaur@moe.edu.sg<br>phua_mei_ru@moe.edu.sg |
 | 4 Hope | Mdm Cheok Liying<br>Ms Ng Ngin Huay | cheok_liying@moe.edu.sg<br>ng_ngin_huay@moe.edu.sg |
 | 4 Integrity | Ms Ting Pey Chei Jasavelle<br>Ms Yu Kexin | ting_pey_chei_jasavelle@moe.edu.sg<br>yu_kexin@moe.edu.sg |
 | 4 Joy | Mrs Ravel<br>Mr Mohammad Adib  | paraathi_pachimuthu_y@moe.edu.sg<br>mohammad_adib_mohammad_suhaimi@moe.edu.sg |

@@ -1,7 +1,10 @@
 ---
 title: Stretching our Young Minds
-permalink: /announcements/StretchingourYoungMinds/
+permalink: /highlights/signature-programmes/permalink/
+date: 2023-03-14
+layout: post
 description: ""
+image: ""
 ---
 # Stretching our Young Minds
 ![](/images/Homepage/e8ac17915_3192.png)
