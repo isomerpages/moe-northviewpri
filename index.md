@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/Hero pictures/Add a heading (1200 × 630 px) (1).gif
       key_highlights:
-        - title: aPPLIED LEARNING programme
+        - title: Applied Learning Programme
           description: Sustainable Living
           url: https://sites.google.com/moe.edu.sg/nvpsmakereducation/home
   - resources:
