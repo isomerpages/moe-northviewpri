@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: aPPLIED LEARNING programme
           description: Sustainable Living
-          url: https://sites.google.com/moe.edu.sg/nvpsmakereducation/home)
+          url: https://sites.google.com/moe.edu.sg/nvpsmakereducation/home
   - resources:
       title: Highlights
       button: View More
