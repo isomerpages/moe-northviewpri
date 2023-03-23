@@ -1,11 +1,12 @@
 ---
 title: Nomination for Teacher's Awards
-permalink: /highlights/announcements/permalink/
+permalink: /highlights/announcements/nominations-for-teachers-awards/
 date: 2023-03-14
 layout: post
 description: ""
 image: ""
 ---
+
 
 The school would  like to invite parents and students to submit nominations for our well-deserved teachers for the following awards:
 

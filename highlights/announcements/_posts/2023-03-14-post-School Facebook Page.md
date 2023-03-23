@@ -1,11 +1,12 @@
 ---
 title: School Facebook Page
-permalink: /highlights/announcements/permalink/
+permalink: /highlights/announcements/school-facebook-page/
 date: 2023-03-14
 layout: post
 description: ""
 image: /images/Highlights/NVPS FB.png
 ---
+
 
 
 

@@ -1,11 +1,12 @@
 ---
 title: MK Chinese New Year Celebrations 2023
-permalink: /highlights/events/permalink/
+permalink: /highlights/events/mk-chinese-new-year-celebrations-2023/
 date: 2023-03-14
 layout: post
 description: ""
 image: ""
 ---
+
 
 It was a pleasant sight to see the children coming to school dressed in their Chinese ethnic costume or festive wear to celebrate Chinese New Year at MK!
 
