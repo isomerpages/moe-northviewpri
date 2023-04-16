@@ -14,3 +14,4 @@ Participating students stand a chance to win prizes and teams from each category
 
 Please refer to the poster for more information. If you have any queries, please approach your child’s Mother Tongue teacher for more details.
 
+![](/images/Highlights/mtls%20challenge%202023.jpg)
