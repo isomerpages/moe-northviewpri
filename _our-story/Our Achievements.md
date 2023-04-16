@@ -5,7 +5,7 @@ description: ""
 ---
 ### **2023**
 
-| Department | Achievement | Students |
+| Department | Achievement | Participants |
 | -------- | -------- | -------- |
 | Girls' Brigade     | National Drill Competition 2023 - Silver Award     |-      |
 
