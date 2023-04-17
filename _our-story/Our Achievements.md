@@ -3,6 +3,16 @@ title: Our Achievements
 permalink: /our-story/Our-Achievements/
 description: ""
 ---
+### **2023**
+
+| Department | Achievement | Participants |
+| -------- | -------- | -------- |
+| Girls' Brigade     | National Drill Competition 2023 - Silver Award     |-      |
+
+
+
+
+
 ### **2022**
 
 ![](/images/Our%20Story/Our%20Achievements/pic1.png)
