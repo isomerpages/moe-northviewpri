@@ -4,15 +4,13 @@ permalink: /co-curriculum/student-leadership/student-affairs-committee/
 description: ""
 third_nav_title: Student Affairs Committee
 ---
-#### **Department Overview**
+#### **Overview**
 
+The Student Leadership Programme in North View Primary School aims to nurture every student to be a Caring Leader. All students will be given the opportunities to be developed as leaders and be equipped with the basic leadership skills to lead oneself first before leading others.
 
-The Student Leadership Committee aims to develop every student to be a Caring Leader. The committee believes that leadership can be nurtured and all students have the potential to be developed as leaders. Every student will be equipped with the basic leadership skills to lead oneself first before leading others.
+#### **Approach**
 
-#### **Curriculum and pedagogy / Approach**
-
-
-Our school’s student leadership development approach is "Lead Self and Lead Others". All students will undergo a whole-school leadership programme. This programme leverages on Form Teacher Guidance Period (FTGP) to educate and nurture our students to develop the following Social and Emotional Learning (SEL) competencies:
+The School’s Student Leadership Development approach is "**Lead Self** **and Lead Others**". All students will undergo a whole-school leadership programme. This programme leverages on Form Teacher Guidance Period (FTGP) to educate and nurture our students to develop the following Social and Emotional Learning (SEL) competencies:
 
 ![](/images/Co%20Curriculum/Students%20Leader%20Committee/1%20Student%20Leadership%20Development%20Approach.png)
 
