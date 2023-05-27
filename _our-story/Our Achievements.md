@@ -8,6 +8,8 @@ description: ""
 | Department | Achievement | Participants |
 | -------- | -------- | -------- |
 | Girls' Brigade     | National Drill Competition 2023 - Silver Award     |-      |
+Boys' Brigade | JM Fraser Award - High Distinction     | -      |
+Basketball | National Sports Game - Sportsmanship Medal     | Hana      |
 
 
 
