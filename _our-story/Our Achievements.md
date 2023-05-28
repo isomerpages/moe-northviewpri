@@ -10,9 +10,9 @@ description: ""
 | Girls' Brigade     | 83rd Company - Gold Award (2022)  |-      |
 |   | National Drill Competition 2023 - Silver Award     |-      |
 Boys' Brigade | JM Fraser Award - High Distinction (2022)     | -      |
-Basketball | National Sports Game - Sportsmanship Medal     | Hana      |
-Taekwondo | National Sports Game - Poomsae Individual Blue 3-1st position      | Adette Lee, 2U|
-Taekwondo | National Sports Game - Poomsae Individual Red 2-1st position      | Adelle Lee, 4C|
+Basketball | National Sports Games - Sportsmanship Medal     | Hana      |
+Taekwondo | National Sports Games - Poomsae Individual Blue 3-1st position      | Adette Lee, 2U|
+| | National Sports Games - Poomsae Individual Red 2-1st position      | Adelle Lee, 4C|
 
 
 
