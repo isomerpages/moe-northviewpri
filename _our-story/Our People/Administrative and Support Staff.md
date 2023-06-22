@@ -12,7 +12,7 @@ third_nav_title: Our People
 | Administration Executive 	| Mdm Catherine Cheong  	| cheong_siew_yun@moe.edu.sg 	|
 | Administration Execuive 	| Ms Serene Lim 	| lim_su_jiun@moe.edu.sg 	|
 | Management Support Officer 	| Mdm Linah 	| mislinah_bakar@moe.edu.sg 	|
-| ICT Associate 	| Mr Edward Tan 	| tan_full_chang@moe.edu.sg 	|
+| ICT Manager 	| Mr Edward Tan 	| tan_full_chang@moe.edu.sg 	|
 | Operation Manager 	| Mr Ahmad  	| ahmad_zahir_saini@moe.edu.sg 	|
 | Operation Manager 	| Mr Riduan  	| riduan_rahmat@moe.edu.sg 	|
 | Operation Support Officer 	| Mdm Valar 	| valarmadi_elanko@moe.edu.sg 	|
