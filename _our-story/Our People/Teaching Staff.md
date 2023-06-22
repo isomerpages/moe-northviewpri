@@ -22,23 +22,23 @@ third_nav_title: Our People
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
 |  2 Courage |  Mdm Norilah Bte Abdullah<br>Ms Rebecca Anne Tay  |  norilah_abdullah@moe.edu.sg<br>rebecca_anne_tay_kay@moe.edu.sg |
-|  2 Empathy | Nadirah Binte Jani<br>Mdm Rhoda Tan  | nadirah_jani@moe.edu.sg<br>rhoda_tan@moe.edu.sg  |
+|  2 Empathy | Ms Martha<br>Mdm Rhoda Tan  | -<br>rhoda_tan@moe.edu.sg  |
 |  2 Faith | Ms Aisyah Bte Samat<br>Mrs Kurup  | aisyah_samat@moe.edu.sg<br>suseela_kurup@moe.edu.sg  |
-| 2 Hope | Ms Chan Ho Lai, Grace<br>Mr Habib Nasiruddin  | grace_chan_ho_lai@moe.edu.sg<br>habib_nasiruddin@moe.edu.sg |
-| 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br>| zunaidah_abdul_rahman@moe.edu.sg<br> |
+| 2 Hope | Ms Chan Ho Lai, Grace<br>Ms Christina Wong  | grace_chan_ho_lai@moe.edu.sg<br>wong_poh_ling_christina@moe.edu.sg |
+| 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br> Mdm Ng Mui Hiok| zunaidah_abdul_rahman@moe.edu.sg<br> ng_mui_hiok@moe.edu.sg |
 | 2 Joy | Ms Sharmila<br>Ms Chua Pey Wen | sharmila_balakrishnan@moe.edu.sg<br>chua_pey_wen@moe.edu.sg |
-| 2 Respect | Ms Hong Li Xuan<br>Mdm Shedah | hong_li_xuan@moe.edu.sg |
+| 2 Respect | Ms Hong Li Xuan<br>Mdm Syazwani | hong_li_xuan@moe.edu.sg <br>sri_syazwani_mohd_yazid@moe.edu.sg |
 | 2 Unity  |  Mr Betrand Sng<br>Ms Khairunnisa | betrand_sng_wen_wei@moe.edu.sg<br>khairunnisa_mohd_akip@moe.edu.sg |
 
 ### **Primary 3 Form Teachers**
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-|  3 Courage | Mdm Ashedah<br>Ms Poh Yun Xuan  | -<br>poh_yun_xuan@moe.edu.sg  |
+|  3 Courage | Mdm Ashedah<br>Ms Poh Yun Xuan  | noor_ashedah_sarbini@moe.edu.sg <br>poh_yun_xuan@moe.edu.sg <br>   |
 | 3 Empathy   | Ms Darleana Bte Daut<br> Mr Molawari  | darleana_daut@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg   |
-| 3 Faith  | Ms Ng Mui Hiok<br>Ms Tian Xiao  | ng_mui_hiok@moe.edu.sg<br>tian_xiao@moe.edu.sg  |
+| 3 Faith  | Ms Chua Li Chian <br>Ms Tian Xiao  | - <br>tian_xiao@moe.edu.sg  |
 | 3 Hope | Ms Png Sok Cheng Chermaine<br>Mr Yap Kian Hua | Png_Sok_Cheng_Chermaine@moe.edu.sg<br>yap_kian_hua@moe.edu.sg |
-| 3 Integrity  | Ms Norafidah bte Othman<br>Mdm Lee Seok Noi  | norafidah_othman@moe.edu.sg<br>lee_seok_noi@moe.edu.sg  |
+| 3 Integrity  | Ms Norafidah bte Othman<br>Ms Yvonne  | norafidah_othman@moe.edu.sg<br>tay_hui_shan_yvonne@moe.edu.sg  |
 | 3 Joy | Mdm Nazreen<br>Mrs Kumar  | nazreen_parveen_abdul_azeez@moe.edu.sg<br>prema_latha@moe.edu.sg |
 
 ### **Primary 4 Form Teachers**
