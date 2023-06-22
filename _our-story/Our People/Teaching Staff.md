@@ -49,7 +49,7 @@ third_nav_title: Our People
 | 4 Faith  | Ms Asvin Kaur<br>Ms Pua Mei Ru  | asvin_kaur@moe.edu.sg<br>phua_mei_ru@moe.edu.sg |
 | 4 Hope | Mdm Cheok Liying<br>Ms Ng Ngin Huay | cheok_liying@moe.edu.sg<br>ng_ngin_huay@moe.edu.sg |
 | 4 Integrity | Ms Ting Pey Chei Jasavelle<br>Ms Yu Kexin | ting_pey_chei_jasavelle@moe.edu.sg<br>yu_kexin@moe.edu.sg |
-| 4 Joy | Mrs Ravel<br>Mr Mohammad Adib  | paraathi_pachimuthu_y@moe.edu.sg<br>mohammad_adib_mohammad_suhaimi@moe.edu.sg |
+| 4 Joy | Mrs Ravel<br>Mr Quek Joon Meng  | paraathi_pachimuthu_y@moe.edu.sg<br>- |
 
 ### **Primary 5 Form Teachers**
 
@@ -58,7 +58,7 @@ third_nav_title: Our People
 |  5 Courage | Ms Ng Li Ping<br>Ms Fiona Koh   | ng_li_ping_b@moe.edu.sg<br>fiona_koh_li_ping@moe.edu.sg  |
 | 5 Faith  | Mr Sivasegaran s/o Seenivasan <br>Ms Karlpana D/O G Selvaraj  | sivasegaran_seenivasan@moe.edu.sg<br>karlpana_g_selvaraj@moe.edu.sg  |
 | 5 Hope | Mr Teo Guan Te<br>Ms Shivani Shanker | teo_guan_te@moe.edu.sg<br>shivani_shanker@moe.edu.sg |
-| 5 Integrity | Mr Nurshahin Bin Sarry<br>Mr Danial | nurshahin_sarry@moe.edu.sg<br>noh_danial_abdul_hamid_a@moe.edu.sg |
+| 5 Integrity | Mr Nurshahin Bin Sarry<br>Ms Danielle Neo | nurshahin_sarry@moe.edu.sg<br>neo_khai_ling@moe.edu.sg |
 | 5 Joy | Ms Vikneshwari D/O Kunusegaran<br>Ms Zheng Yue | vikneshwari_kunusegaran@moe.edu.sg<br>zheng_yue@moe.edu.sg |
 
 ### **Primary 6 Form Teachers**
@@ -82,13 +82,15 @@ third_nav_title: Our People
 | Mdm Tan Soh Leng | Chinese Language | tan_soh_leng@moe.edu.sg |
 | Ms Melissa Tan | Art | tan_li_cheng_a@moe.edu.sg |
 | Mr Or Boon Chun | Science | or_boon_chun@moe.edu.sg |
-| Ms Danielle Neo Khai Ling | English<br>Social Studies  | neo_khai_ling@moe.edu.sg |
-| Ms Junice Ong | English | ong_hui_ling_junice@moe.edu.sg |
+ Ms Junice Ong | English | ong_hui_ling_junice@moe.edu.sg |
 | Mdm Krishnaveni | English | krishnaveni_narayanasamy@moe.edu.sg |
 | Ms Christina Hoon | English<br>Math | hoon_christina@moe.edu.sg |
 |  Mr Xie Jialun  | Math <br>English  | xie_jialun@moe.edu.sg  |
 |  Mr Sim Jia Hong | Math  | sim_jia_hong@moe.edu.sg  |
 | Ms Goh Li Li  | Math   | goh_li_li_a@moe.edu.sg  |
+|Mr Noh Danial|Malay Language|noh_danial_abdul_hamid_a@moe.edu.sg|
+|Mdm Lee Seok Noi| Math| lee_seok_noi@moe.edu.sg
+|Mdm Lei Xuemei| Chinese Language| lei_xuemei@moe.edu.sg
 
 ### **Special Education Needs Officers**
 
