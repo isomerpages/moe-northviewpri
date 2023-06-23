@@ -23,11 +23,12 @@ third_nav_title: Our People
 | Level Head (EL)  | Mr Koh Ye Hong Kenneth | koh_ye_hong_kenneth@moe.edu.sg |
 | Subject Head (PE&CCA)  | Mr Hafeez  | mohammed_hafeez_mohd_kassi@moe.edu.sg |
 | Subject Head (CCE)  | Ms Neo Khai Ling | neo_khai_ling@moe.edu.sg  |
-| Level Head (SCI) | Mr Kenny Toh Ghim Yeow | toh_ghim_yeow@moe.edu.sg |
+| Level Head (SCI) | Or Boon Chun  | or_boon_chun@moe.edu.sg | 
+| Level Head (SCI)-internal | Mrs Ravel| paraathi_pachimuthu_y@moe.edu.sg
 | HOD (Student Affairs) | Mr Sim Jia Hong | sim_jia_hong@moe.edu.sg |
 | Level Head (EL) - Internal | Vikneshwari D/o Kunusegaran | vikneshwari_kunusegaran@moe.edu.sg |
 | Level Head (Malay Language) - Internal | Ms Nor Shahila | nor_shahila_mohammed@moe.edu.sg   |
-| Level Head (SCI)  | Mr Or Boon Chun  | or_boon_chun@moe.edu.sg |
-| Subject Head (AES) | Mdm Norilah   | norilah_abdullah@moe.edu.sg  |
+ Subject Head (AES) | Mdm Norilah   | norilah_abdullah@moe.edu.sg  |
 |  Subject Head (TL&ML)  | Mrs Prasad   | sreelathaa_pillai@moe.edu.sg  |
 | Subject Head (Student Affairs)   | Ms Karen Lim  | karen_lim_wei_tze@moe.edu.sg |
+|Suject Head (Student Managment) - internal | Mr Roy Too| too_thiam_siew@moe.edu.sg|
