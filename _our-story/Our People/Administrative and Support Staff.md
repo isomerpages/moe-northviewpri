@@ -18,8 +18,9 @@ third_nav_title: Our People
 | Operation Support Officer 	| Mr Ibrahim  	| ibrahim_mohamed_shariff@moe.edu.sg 	|
 | Operation Support Office 	| Mdm Alice  	| wong_lee_chin@moe.edu.sg 	|
 Operation Support Officer 	| Mr Seah  	| seah_teck_seng@moe.edu.sg 	|
+|Operation Support Staff| Mdm Nur Aisyah | nur_aisyah_chumali@moe.edu.sg
 | Librarian 	| Mdm Aishah  	| aishah.alang@staff.spydus.com.sg 	||
 | Lab Assistant 	| Mdm Sumi 	| suminam_sahid@moe.edu.sg 	|
 | Receptionist 	| Mdm Subaida 	| subaida_salim@moe.edu.sg 	|
-| Desktop Engineer 	| Mr Tan Jun Hao <br> Mr Zulhisham	| NA 	|
+| Desktop Engineers 	| Mr Tan Jun Hao <br> Mr Zulhisham	| NA 	|
 | School Counsellors 	| Mrs Rama <br>  Ms Nicole Tham 	| vejaya_kumari_s_katamuthu@moe.edu.sg tham_yehui_nicole@moe.edu.sg 	|
