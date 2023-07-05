@@ -18,7 +18,7 @@ third_nav_title: Our People
 | Year Head (5-6) | Mdm Krishnaveni D/O Narayanasamy | krishnaveni_narayanasamy@moe.edu.sg |
 |Assistant Year Head - internal|Ms Tan Yi Xiu|tan_yi_xiu@moe.edu.sg
 | HOD(ICT) | Ms Nazrah Bte Mohd Latiff | nazrah_mohamad_latiff@moe.edu.sg |
-| HOD(MATH)  | Mr Xie Jialun | xie_jia_lun@moe.edu.sg |
+| HOD(MATH)  | Mr Xie Jialun | xie_jialun@moe.edu.sg |
 | HOD(MTL) | Mdm Tan Soh Leng | tan_soh_leng@moe.edu.sg |
 | Level Head (EL)  | Mr Koh Ye Hong Kenneth | koh_ye_hong_kenneth@moe.edu.sg |
 | Subject Head (PE&CCA)  | Mr Hafeez  | mohammed_hafeez_mohd_kassi@moe.edu.sg |
