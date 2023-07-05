@@ -3,8 +3,9 @@ title: MOE Kindergarten @ NorthView
 permalink: /MOE-Kindergarten-NorthView/
 description: ""
 ---
-#####**Programme &amp; Operating Hours**
+## Programme &amp; Operating Hours
 
+![](/images/MOE%20Kindergarten/mk%201st%20page.png)
 Our operating hours are:
 
 <style type="text/css">
