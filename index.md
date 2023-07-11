@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Hero pictures/2023 virtual open house motd (4).png
+      background: /images/Homepage/Hero pictures/HERO (1200 × 630 px) (1).gif
   - resources:
       title: Highlights
       button: View More
