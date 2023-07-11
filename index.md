@@ -11,4 +11,9 @@ sections:
   - resources:
       title: Highlights
       button: View More
+  - infopic:
+      title: NVPS OPEN HOUSE
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
