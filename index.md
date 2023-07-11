@@ -11,4 +11,9 @@ sections:
   - resources:
       title: Highlights
       button: View More
+  - infopic:
+      title: "Join us in our virtual open house! "
+      description: 17 July - 21 July 2023
+      image: /images/Homepage/Hero pictures/2023 virtual open house motd (4).png
+      alt: Image alt text
 ---
