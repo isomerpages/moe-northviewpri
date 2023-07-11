@@ -11,5 +11,5 @@ sections:
   - resources:
       title: Highlights
       button: View More
-      subtitle: "Virtual Open Hose "
+      subtitle: Virtual Open Hose
 ---
