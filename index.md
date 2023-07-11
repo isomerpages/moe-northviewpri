@@ -12,6 +12,7 @@ sections:
       title: JOIN US IN OUR VIRTUAL OPEN HOUSE!
       description: 17 July - 21 July 2023
       alt: Image alt text
+      image: /images/Homepage/Hero pictures/open hse.jpeg
   - resources:
       title: Highlights
       button: View More
