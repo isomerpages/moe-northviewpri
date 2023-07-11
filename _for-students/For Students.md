@@ -9,5 +9,5 @@ description: ""
 *   [Scholastic](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/student/SGP5W4P)
 *   [E-zhishi](https://www.ezhishi.net/Contents/)
 *   [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
-*   [NVPS School Library](https://schoolibrary.moe.edu.sg/northviewpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+* [NVPS School Library](https://schoolibrary.moe.edu.sg/northviewpri/  )  
 *   [School e-Resource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)

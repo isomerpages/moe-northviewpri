@@ -55,15 +55,13 @@ links:
       - title: Scholastic
         url: https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/student/SGP5W4P
       - title: E-zhishi
-        url: https://northviewpri.moe.edu.sg/useful-links/for-students/e-zhishi
-      - title: iMTL
-        url: /permalink
+        url: https://www.ezhishi.net/Contents/
       - title: My Skills Future
-        url: https://northviewpri.moe.edu.sg/useful-links/for-students/my-skills-future
+        url: https://www.myskillsfuture.gov.sg/content/student/en/primary.html
       - title: NVPS School Library
-        url: https://northviewpri.moe.edu.sg/useful-links/for-students/nvps-school-library
-      - title: "School e-Resource Repository "
-        url: https://northviewpri.moe.edu.sg/useful-links/for-students/school-e-resource-repository-serr
+        url: https://schoolibrary.moe.edu.sg/northviewpri/
+      - title: School e-Resource Repository
+        url: https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
   - title: Teachers
     url: /for-teachers/For-Teachers
     sublinks:
