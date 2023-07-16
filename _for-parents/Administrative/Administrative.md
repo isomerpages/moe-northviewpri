@@ -10,4 +10,4 @@ third_nav_title: Administrative
 *   [Primary School Transfer Service](https://www.moe.gov.sg/primary/transfers)
 *   [POSB Smart Buddy](/for-parents/Administrative/POSB-Smart-Buddy)
 *   [Application for Com Care Financial Assistance](/for-parents/Administrative/Application-for-Com-Care-Financial-Assistance)
-*   [Digital Access@Home](www.digitalaccess.gov.sg)
+*   [Digital Access@Home](/for-parents/Administrative/digitalaccesshome)
