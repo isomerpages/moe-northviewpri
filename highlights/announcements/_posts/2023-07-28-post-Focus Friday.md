@@ -6,3 +6,4 @@ layout: post
 description: General Office closes at 4pm
 image: ""
 ---
+General Office closes at 4pm.
