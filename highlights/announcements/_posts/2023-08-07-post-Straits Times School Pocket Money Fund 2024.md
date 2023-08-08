@@ -23,6 +23,7 @@ f) Has not been a STSPMF beneficiary for 24 months for the whole schooling years
 and secondary school and 48 months for post-secondary school.  <br>
 
 Successful applicants / beneficiaries enrolled in primary school will receive S$65 per month in 2024.
-Application Form
 
 Applications for STSPMF 2024 is now open for Primary 1 to Primary 5 students. Please submit the duly completed application form and the relevant documents to the General Office for processing by **31 August 2023.**
+
+[Application Form](/files/stspmf%202024%20application%20form.pdf)
