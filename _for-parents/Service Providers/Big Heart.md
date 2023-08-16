@@ -1,9 +1,15 @@
 ---
 title: Big Heart
-permalink: /for-parents/Service-Providers/Big-Heart
+permalink: /for-parents/Service-Providers/Big-Heart/
 description: ""
 third_nav_title: Service Providers
 ---
+
+
+![](/images/bh%20registration%20infographics%20for%20school%20website.png)
+Interest registration link: [https://bigheartstudentcare.com/interest](https://bigheartstudentcare.com/interest/)
+
+
 **INTRODUCTION**
 
   
@@ -46,7 +52,7 @@ Inspiring Minds, Touching Hearts
 
   
 
-**Integrity:** We act with integrity by always doing the right thing, even when nobody is watching.
+**Integrity:**&nbsp;We act with integrity by always doing the right thing, even when nobody is watching.
 
   
 
@@ -54,15 +60,15 @@ Inspiring Minds, Touching Hearts
 
   
 
-**Adaptability:** We are flexible in responding to the diversity of our students and to the changes around us.
+**Adaptability:**&nbsp;We are flexible in responding to the diversity of our students and to the changes around us.
 
   
 
-**Responsibility:** We acknowledge ownership and take personal responsibility for our commitments, actions and results.
+**Responsibility:**&nbsp;We acknowledge ownership and take personal responsibility for our commitments, actions and results.
 
   
 
-**Excellence:** We strive for the highest professional standards in our work and aim to deliver the best in everything we do.
+**Excellence:**&nbsp;We strive for the highest professional standards in our work and aim to deliver the best in everything we do.
 
   
 
@@ -84,7 +90,7 @@ _\*Full day surcharge applicable._
 
   
 
-Do be informed that parents are **not allowed** to enter the school’s premises. Please wait at the designated **dismissal** area near the **security guard counter** for your child.
+Do be informed that parents are&nbsp;**not allowed**&nbsp;to enter the school’s premises. Please wait at the designated&nbsp;**dismissal**&nbsp;area near the&nbsp;**security guard counter**&nbsp;for your child.
 
   
 
@@ -94,7 +100,7 @@ Do be informed that parents are **not allowed** to enter the school’s premis
 
   
 
-E-Mail: [northview@shgstudentcare.com.sg](mailto:northview@shgstudentcare.com.sg)
+E-Mail:&nbsp;[northview@shgstudentcare.com.sg](mailto:northview@shgstudentcare.com.sg)
 
   
 
