@@ -20,5 +20,5 @@ Operation Support Officer 	| Mr Seah  	| seah_teck_seng@moe.edu.sg 	|
 | Librarian 	| Mdm Aishah  	| aishah.alang@staff.spydus.com.sg 	||
 | Lab Assistant 	| Mdm Sumi 	| suminam_sahid@moe.edu.sg 	|
 | Receptionist 	| Mdm Subaida 	| subaida_salim@moe.edu.sg 	|
-| Desktop Engineers 	| Mr Tan Jun Hao <br> Mr Zulhisham	| NA 	|
+| Desktop Engineers 	| Mr Jun Hao <br> Mr Sham	| NA 	|
 | School Counsellors 	| Mrs Rama <br>  Ms Nicole Tham 	| vejaya_kumari_s_katamuthu@moe.edu.sg tham_yehui_nicole@moe.edu.sg 	|
