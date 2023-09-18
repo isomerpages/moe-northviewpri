@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our People
 ---
 | Designation 	| Name of Staff	| Email Address 	|
-|:---:	|:---:	|:---:	|
 | Administration Manager 	| Mdm Nadzirah  	| nadzirah_azman@moe.edu.sg 	|
  Administration Executive 	| Mdm Catherine Cheong  	| cheong_siew_yun@moe.edu.sg 	|
 | Administration Executive 	| Ms Serene Lim 	| lim_su_jiun@moe.edu.sg 	|
