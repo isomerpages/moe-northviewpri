@@ -14,7 +14,6 @@ third_nav_title: Our People
 | Management Support Officer 	| Mdm Linah 	| mislinah_bakar@moe.edu.sg 	|
 | ICT Manager 	| Mr Edward Tan 	| tan_full_chang@moe.edu.sg 	|
 | Operation Manager 	| Mr Ahmad  	| ahmad_zahir_saini@moe.edu.sg 	|
-| Operation Manager 	| Mr Riduan  	| riduan_rahmat@moe.edu.sg 	|
 | Operation Support Officer 	| Mdm Valar 	| valarmadi_elanko@moe.edu.sg 	|
 | Operation Support Officer 	| Mr Ibrahim  	| ibrahim_mohamed_shariff@moe.edu.sg 	|
 | Operation Support Office 	| Mdm Alice  	| wong_lee_chin@moe.edu.sg 	|
