@@ -14,6 +14,7 @@ sections:
       button: Click here to apply!
       url: https://bigheartstudentcare.com/interest/
       image: /images/Announcements/bh registration infographics for school website.png
+      alt: BH application
   - resources:
       title: Highlights
       button: View More
