@@ -22,7 +22,7 @@ third_nav_title: Our People
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
 |  2 Courage |  Mdm Norilah Bte Abdullah<br>Ms Rebecca Anne Tay  |  norilah_abdullah@moe.edu.sg<br>rebecca_anne_tay_kay@moe.edu.sg |
-|  2 Empathy | Ms Martha<br>Mdm Rhoda Tan  | -<br>rhoda_tan@moe.edu.sg  |
+|  2 Empathy | Ms Martha<br>Mdm Rhoda Tan  | martha_gretchin_morais@moe.edu.sg <br>rhoda_tan@moe.edu.sg  |
 |  2 Faith | Ms Aisyah Bte Samat<br>Mrs Kurup  | aisyah_samat@moe.edu.sg<br>suseela_kurup@moe.edu.sg  |
 | 2 Hope | Ms Chan Ho Lai, Grace<br>Ms Christina Wong  | grace_chan_ho_lai@moe.edu.sg<br>wong_poh_ling_christina@moe.edu.sg |
 | 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br> Mdm Ng Mui Hiok| zunaidah_abdul_rahman@moe.edu.sg<br> ng_mui_hiok@moe.edu.sg |
@@ -36,7 +36,7 @@ third_nav_title: Our People
 |:---:|:---:|:---:|
 |  3 Courage | Mdm Ashedah<br>Ms Poh Yun Xuan  | noor_ashedah_sarbini@moe.edu.sg <br>poh_yun_xuan@moe.edu.sg <br>   |
 | 3 Empathy   | Ms Darleana Bte Daut<br> Mr Molawari  | darleana_daut@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg   |
-| 3 Faith  | Ms Chua Li Chian <br>Ms Tian Xiao  | - <br>tian_xiao@moe.edu.sg  |
+| 3 Faith  | Ms Chua Li Chian <br>Ms Tian Xiao  | chua_li_chian@moe.edu.sg <br>tian_xiao@moe.edu.sg  |
 | 3 Hope | Ms Png Sok Cheng Chermaine<br>Mr Yap Kian Hua | Png_Sok_Cheng_Chermaine@moe.edu.sg<br>yap_kian_hua@moe.edu.sg |
 | 3 Integrity  | Ms Norafidah bte Othman<br>Ms Yvonne  | norafidah_othman@moe.edu.sg<br>tay_hui_shan_yvonne@moe.edu.sg  |
 | 3 Joy | Mdm Nazreen<br>Mrs Kumar  | nazreen_parveen_abdul_azeez@moe.edu.sg<br>prema_latha@moe.edu.sg |
