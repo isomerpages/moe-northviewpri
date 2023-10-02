@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Student Enrolment.md
       - MK Events.md
       - Announcement.md
       - MK Experience.md
