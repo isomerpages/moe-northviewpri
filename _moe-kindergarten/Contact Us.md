@@ -3,8 +3,6 @@ title: Contact Us
 permalink: /moe-kindergarten/permalink/
 description: ""
 ---
-   <!--tr {mso-height-source:auto;} col {mso-width-source:auto;} td {padding-top:1.0px; padding-right:1.0px; padding-left:1.0px; mso-ignore:padding; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; mso-generic-font-family:auto; mso-font-charset:0; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto;} .oa1 {border:1.0pt solid #D6D6D6; vertical-align:top; padding-bottom:3.6pt; padding-left:7.2pt; padding-top:3.6pt; padding-right:7.2pt;} -->
-
 <table border="0" cellpadding="0" cellspacing="0" width="1025" style="border-collapse:
  collapse;width:512pt;mso-yfti-tbllook:1536"><colgroup><col width="239" style="mso-width-source:userset;width:120pt"> <col width="786" style="mso-width-source:userset;width:393pt"></colgroup><tbody><tr height="79" style="mso-height-source:userset;height:39.55pt"><td height="79" class="oa1" width="239" style="height:39.55pt;width:120pt"><p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
   text-align:left;direction:ltr;unicode-bidi:embed;vertical-align:top;
@@ -60,6 +58,3 @@ description: ""
 	
 	
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5798618214603!2d103.84573807588502!3d1.4276213613190347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da14430f46f1c7%3A0x773e384ba3d1a79f!2sNorth%20View%20Primary%20School!5e0!3m2!1sen!2ssg!4v1696216864191!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-
-	
