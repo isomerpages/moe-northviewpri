@@ -22,9 +22,9 @@ description: ""
 <br>[Chinese](https://file.for.edu.sg/mk-brochure-chinese.pdf)
 <br>[Malay](https://file.for.edu.sg/mk-brochure-malay.pdf)
 <br>[Tamil](https://file.for.edu.sg/mk-brochure-tamil.pdf)
-
 <br>
-Programme and Operating Hours
+
+**Programme and Operating Hours**
 <br>Monday - Friday :
 <br>8.00 a.m. – 12.00 p.m. (Morning Session MK@NW)
 <br>1.00 p.m. – 5.00 p.m. (Afternoon Session MK@NW)
