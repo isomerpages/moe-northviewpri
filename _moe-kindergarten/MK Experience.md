@@ -20,15 +20,20 @@ description: ""
 
 <br><br>
 **MOE Kindergarten Brochures**
+	<font size="5">
 <br>[English](https://file.for.edu.sg/mk-brochure-english.pdf)
 <br>[Chinese](https://file.for.edu.sg/mk-brochure-chinese.pdf)
 <br>[Malay](https://file.for.edu.sg/mk-brochure-malay.pdf)
 <br>[Tamil](https://file.for.edu.sg/mk-brochure-tamil.pdf)
 <br>
-
+<font size="6">
+		
+		
 **Programme and Operating Hours**
-<br>Monday - Friday :
+<br>
+	<font size="5">
+	Monday - Friday :
 <br>8.00 a.m. – 12.00 p.m. (Morning Session MK@NW)
 <br>1.00 p.m. – 5.00 p.m. (Afternoon Session MK@NW)
 <br>7.00 a.m. - 7.00 p.m.    (KCare@NW)
-<br>Closed on Saturday &amp; Sunday</font></font></font>
+<br>Closed on Saturday &amp; Sunday</font></font></font></font></font></font>
