@@ -12,5 +12,4 @@ The PAM department planned and worked together as a team, building on the strong
 
 Our Northviewans had a fun time while also learning about healthy lifestyles and bonding as One.
 
-Click on the [link](https://fb.watch/nBARIajGym/) to find out more! 
-
+Click on the [link](https://fb.watch/nBARIajGym/) to find out more!
