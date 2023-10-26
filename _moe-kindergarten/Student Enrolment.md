@@ -7,14 +7,15 @@ description: ""
 * The school will contact you once a vacancy is available for your child.
 
 
-<table border="1">
-	<tbody><tr>
-		<td>001</td>
-		<td>002</td>
-	</tr>
-	<tr>
-		<td>100</td>
+| Item | Information |
+| -------- | -------- |
+| Application for Giro     | To apply for GIRO, please submit the original completed form to the General Office. [GIRO Application Form for MK Fee Payment](https://punggolviewpri.moe.edu.sg/qql/slot/u315/a) MK2021/useful forms and links/GIRO for payment of MK fee non-DBSPOSBacct.pdf)
 
 
 
-</tr></tbody></table>
+
+
+
+
+
+
