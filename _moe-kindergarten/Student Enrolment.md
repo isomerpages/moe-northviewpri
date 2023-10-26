@@ -7,14 +7,6 @@ description: ""
 * The school will contact you once a vacancy is available for your child.
 
 
-<table border="1">
-	<tbody><tr>
-		<td>001</td>
-		<td>002</td>
-	</tr>
-	<tr>
-		<td>100</td>
-
-
-
-</tr></tbody></table>
+| Item | Information |
+| -------- | -------- |
+| **Application for Authorisation Pass** <br>Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit another form, subject to approval.| [MOE Kindergarden@North View Authorisation Pass Application](https://go.gov.sg/mkpvap)
