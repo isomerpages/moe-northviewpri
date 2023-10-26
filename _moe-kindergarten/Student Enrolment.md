@@ -9,13 +9,4 @@ description: ""
 
 | Item | Information |
 | -------- | -------- |
-| Application for Giro     | To apply for GIRO, please submit the original completed form to the General Office. [GIRO Application Form for MK Fee Payment](https://punggolviewpri.moe.edu.sg/qql/slot/u315/a) MK2021/useful forms and links/GIRO for payment of MK fee non-DBSPOSBacct.pdf)
-
-
-
-
-
-
-
-
-
+| **Application for Authorisation Pass** <br>Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit another form, subject to approval.| [MOE Kindergarden@North View Authorisation Pass Application](https://go.gov.sg/mkpvap)
