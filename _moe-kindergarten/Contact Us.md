@@ -3,8 +3,6 @@ title: Contact Us
 permalink: /moe-kindergarten/permalink/
 description: ""
 ---
-
-
 | Address: | 210 Yishun Ave 6, Singapore 768960 |
 | -------- | -------- | 
 |Telephone: | +65 6759 3235 | 
