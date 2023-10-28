@@ -1,6 +1,6 @@
 ---
 title: MK Experience
-permalink: /moe-kindergarten/permalink/
+permalink: /moe-kindergarten/experience/
 description: ""
 ---
 <font size="6">**Our Classrooms**

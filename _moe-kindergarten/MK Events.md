@@ -1,5 +1,5 @@
 ---
 title: MK Events
-permalink: /moe-kindergarten/permalink/
+permalink: /moe-kindergarten/events/
 description: ""
 ---

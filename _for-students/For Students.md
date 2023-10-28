@@ -11,3 +11,5 @@ description: ""
 *   [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 * [NVPS School Library](https://schoolibrary.moe.edu.sg/northviewpri/  )  
 *   [School e-Resource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+*   [Yummy Buddies](https://yummybuddies.moe.edu.sg/)
+*   [Knowgets ](https://www.youtube.com/@knowgets) - Curriculum aligned content in the form of videos, comics, and memes on fun facts about Singapore, Everyday Science, Math Knowgets and life hacks!

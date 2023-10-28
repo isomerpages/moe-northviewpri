@@ -80,10 +80,4 @@ Our operating hours are:
 
 Please visit the MOE website at&nbsp;[here](https://www.moe.gov.sg/preschool/moe-kindergarten)
 
-[North View MK Waitlist Application Form](https://www.form.gov.sg/63d9f5420447a00011dbfa80)  
-
-[Application for New Authorisation Pass](https://form.gov.sg/61c91791369b3a00130dc29c)  
-
-[KCare\_North View Slides for K1 Orientation](/files/MOE%20Kindergarten/KCare_North%20View%20Slides%20for%20K1%20Orientation_2023%20Cohort.pdf)
-
-[MK Slides for K1 Orientation](/files/MOE%20Kindergarten/MK%20Slides%20for%20K1%20Orientation_2023%20Cohort.pdf)
+![](/images/MOE%20Kindergarten/mk%20orientation%20day%202024.png)
