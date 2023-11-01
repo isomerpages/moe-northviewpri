@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Educational Websites.md
       - For Students.md
       - Home Based Learning.md
       - Student Learning Space (SLS).md
@@ -11,3 +10,4 @@ collections:
       - My Skills Future.md
       - NVPS School Library.md
       - School eResource Repository.md
+      - Educational Websites.md
