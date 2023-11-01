@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Educational Websites.md
       - For Students.md
       - Home Based Learning.md
       - Student Learning Space (SLS).md
