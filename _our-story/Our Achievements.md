@@ -20,6 +20,7 @@ Taekwondo | National Sports Games - Poomsae Individual Blue 3- 1st position     
 Floorball |National Sports Games Sportsmanship Award <br> Floorball Junior Team <br> Floorball Senior Team |<br> Muhammad Faris Mirzan <br>Muhamad Firman Zailani
 |Science Club| Stem Playground Challenge - 4th position|P3-P6 members 
 |Math|RI Primary Mathematics World Contest 2023 (RIPMWC) | Dan Wei Tong, 5J<br>Ng Yee  Teng, 5j<br>Ariel Tham Yu Han, 6J<br>Sendevan Mayan, 6J<br> Sofia Eliza, 6J<br>Zachary, 6J
+||Primary Mathematics Project Competition 2023 (organised by MOE Gifted Education Branch and NUS High) |Commendation Award - Tu Hao Ming
 
 
 
