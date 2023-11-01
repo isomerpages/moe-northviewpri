@@ -62,10 +62,8 @@ links:
         url: https://schoolibrary.moe.edu.sg/northviewpri/
       - title: School e-Resource Repository
         url: https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-      - title: Yummy Buddies
-        url: https://yummybuddies.moe.edu.sg/
-      - title: Knowgets
-        url: https://www.youtube.com/@knowgets
+      - title: Educational Websites
+        url: /for-students/educationalwebsites/
   - title: Teachers
     url: /for-teachers/For-Teachers
     sublinks:
