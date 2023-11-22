@@ -2,6 +2,7 @@
 title: Our Achievements
 permalink: /our-story/Our-Achievements/
 description: ""
+variant: markdown
 ---
 ### **2023**
 
@@ -18,10 +19,12 @@ Taekwondo | National Sports Games - Poomsae Individual Blue 3- 1st position     
 | | National Sports Games - Poomsae Individual Red 2-1st position  | Adelle Lee, 4C| 
 ||Sportsmanship Award - Poomsae|Megan Goo Jia Xuan|
 Floorball |National Sports Games Sportsmanship Award <br> Floorball Junior Team <br> Floorball Senior Team |<br> Muhammad Faris Mirzan <br>Muhamad Firman Zailani
-|Science Club| Stem Playground Challenge - 4th position|P3-P6 members 
+|Science Club| Stem Playground Challenge - 4th position|P3-P6 members
+|Infotech Club|North Zone Hackathon 2023<br>Pope Francis Award  - Most Functional Design and Product<br>Montford Award-Best Overall Project<br>Hack@Code 2023- Best Content Award |<br>Tan Han Xi, 5J<br><br>Javen Loh, 5J<br><br>Tyler Ong Kaile, 4F
+|Creative Hands |Singapore Youth Festival 2023 Category B Certificate of Recognition|Janelle Wong, 4J<br>Zoelle Koh, 4H<br>Nur Aishah Athirah, 4H<br>Medha, 4F<br>Ma'isyah Sufia, 4C<br>Nur Tiara , 3C<br>Charlotte Sim, 3I 
 |Math|RI Primary Mathematics World Contest 2023 (RIPMWC) | Dan Wei Tong, 5J<br>Ng Yee  Teng, 5j<br>Ariel Tham Yu Han, 6J<br>Sendevan Mayan, 6J<br> Sofia Eliza, 6J<br>Zachary, 6J
 ||Primary Mathematics Project Competition 2023 (organised by MOE Gifted Education Branch and NUS High) |Commendation Award - Tu Hao Ming
-
+||National Mathematical Olympiad of Singapore<br>Honorouble Mention<br>Bronze <br><br><br>Silver|<br><br>Ye Chengyu, 5J<br>Allen Xiao, 5J<br>Piyush Routray, 5J<br>Soh Jia Yuan, 5J<br>Kayden Teng, 5J<br>Tee Xu Heng, 5J<br>Walter Ung, 5J
 
 
 
