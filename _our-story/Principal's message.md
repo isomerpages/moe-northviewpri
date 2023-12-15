@@ -2,26 +2,27 @@
 title: Principal's message
 permalink: /our-story/Our-People/Principals-message/
 description: ""
+variant: markdown
 ---
-#### **Passionate Learners and Caring Leaders in North View Primary & MK@North View**
+#### **Nurturing Passionate Learners, Cultivating Caring Leaders **
 
-Welcome to North View Primary School! 
-Our school vision is **“Passionate Learners, Caring Leaders”** and as a school community we are firmly anchored in our core values of **R**esilience, **R**espect, **R**esponsibility, **I**ntegrity and **G**raciousness **(R³InG)**, as we prepare Northviewians not just for today but for the future.  
+It is with great pleasure and enthusiasm that I extend a warm welcome to all members of the North View family—students, parents, educators, and community partners. As we embark on another exciting academic year, it is essential to reflect on the core values and vision that define us as a school community.
 
-We enter 2023 with much gratitude. I am exceedingly proud of the strength and fortitude our North View Primary community demonstrated these past three years as they cared for each other and ensured that learning continued unabated. 
+At North View Primary School, our vision is to nurture "Passionate Learners, Caring Leaders," a commitment that resonates deeply within our school community. As we collectively strive towards this vision, we are firmly anchored in our core values of Resilience, Respect, Responsibility, Integrity, and Graciousness (R³InG). These values serve as our guiding principles, shaping the character of our students and preparing them not only for the challenges of today but also for the opportunities and responsibilities that lie ahead in the future.
 
-School life at NVPS is not just returning to pre-COVID vibrancy but has been transformed for the better. Our school facilities have been enhanced significantly with the completion of PERI upgrading. We now have a new 5-storey building with an indoor sports hall, a synthetic school field, outdoor learning centres, a better equipped Media Resource Library (MRL), etc., to support holistic education. We are also going to have our own MakerSpace to support sustainability education and renovation is underway.
+Our commitment to the principle of "Student First, Staff is Key" underscores our dedication to holistic student development. We believe in fostering an environment where our students can thrive academically, socially, and emotionally. We also believe that an enabling learning environment is built on a foundation of quality teaching, and as such, we prioritize the cultivation of a robust teaching force. Our educators play a pivotal role in shaping the minds and character of our students, and we are devoted to providing them with the support and autonomy they need to excel in their roles.
 
-But a school is not just about its “hardware”.  What is more important is its “heartware”.  This is why NVPS will continue to actively build and promote a **Positive School Culture**. In 2022, we launched a **Gratitude Project** among the Primary 5 Northviewans. When we read the heartwarming notes of appreciation written by our students, we knew the pilot was successful. The **Gratitude Project** will be launched school-wide this year. Through sharing of school values-based stories, we want to inspire our students and staff to show care and respect using positive and affirmative language, to people in their lives.  
+One of the cornerstones of our academic offerings is our Applied Learning Programme (ALP), **Sustainable Living Starts with Me**, aims to equip Northviewans with the knowledge and skills needed to address sustainability issues. Through this program, students will engage in critical thinking and leverage innovation skills, employing Design Thinking to provide solutions for sustainable living.
 
-NVPS is also equally focused on enhancing “headware”, especially that which is future-oriented. At the end of 2022, our school obtained approval for our **Applied Learning Programme (ALP), “Sustainable Living Starts with Me”**. Through this ALP, Northviewans will have the opportunity to gain awareness about sustainability issues, develop critical thinking and leverage on innovation skills through Design Thinking to provide solutions for sustainable patterns of living. This ALP is a complement to our **Learning for Life Programme (LLP), “Confidence through Performing Arts”**, which provides Northviewians with exposure to different genres of dances and musical instruments. These experiences build confidence in communication and expression through experimentation with the different arts forms. These two signature programmes integrated into the school curriculum will greatly enrich Northviewans’ learning experiences and provide platforms to spark passion in learning. 
+Complementing the ALP is our Learning for Life Programme (LLP), **Confidence through Performing Arts**. This initiative exposes Northviewans to various genres of dance and musical instruments, fostering confidence and creativity through the performing arts.
 
-There is much in the future that is challenging but it is precisely in this VUCA context that we need to shine a stronger spotlight on our humanness. At NVPS, we are acutely aware that while we cannot predict the future of life and work for our Northviewians, we can do our best to develop the right “heartware” and “headware” to prepare them for that world. 
+North View Primary School is not merely an institution; it is a vibrant community woven together by dedicated educators, supportive parents, and collaborative community partners. Together, we emphasize the significance of a positive school culture—one that nurtures growth, fosters learning, and celebrates achievements.
 
-NVPS enters 2023 with hope because together with our community of stakeholders, I am confident that we will foster a vibrant and caring learning environment to empower all Northviewans to aspire, grow and excel. 
+As we embark on another academic year, let us continue to work hand in hand, ensuring that North View Primary School remains a place where passion for learning is ignited, caring leaders are cultivated, and a bright future is crafted.
 
+Thank you for being part of the North View family.
 
-  
+Warm regards,
 
-Mrs Soh Mei Foong  
-Principal
+Mrs Grace Chua
+Principal 
