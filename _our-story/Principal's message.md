@@ -4,7 +4,8 @@ permalink: /our-story/Our-People/Principals-message/
 description: ""
 variant: markdown
 ---
-Nurturing Passionate Learners, Cultivating Caring Leaders 
+
+**Nurturing Passionate Learners, Cultivating Caring Leaders**
 
 It is with great pleasure and enthusiasm that I extend a warm welcome to all members of the North View family—students, parents, educators, and community partners. As we embark on another exciting academic year, it is essential to reflect on the core values and vision that define us as a school community.
 
