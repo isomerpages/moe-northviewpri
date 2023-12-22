@@ -25,11 +25,11 @@ variant: markdown
 |  2 Courage |  Mdm Wong Oi Lai<br>Mdm Prema Latha (Mrs Kumar)  |  Wong_Oi_Lai@moe.edu.sg<br>Prema_Latha@moe.edu.sg |
 |  2 Empathy | Ms Tan Tze Yan Sylvia<br>Mrs Suseela M Kurup  | Tan_Tze_Yan_Sylvia@moe.edu.sg <br>Suseela_Kurup@moe.edu.sg  |
 |  2 Faith | Mdm See Bee Pang<br>Mdm Sindhu Rathakrishnan  | See_Bee_Pang@moe.edu.sg<br>Sindhu_Rathakrishnan@moe.edu.sg  |
-| 2 Hope | Ms Chan Ho Lai, Grace<br>Ms Christina Wong  | grace_chan_ho_lai@moe.edu.sg<br>wong_poh_ling_christina@moe.edu.sg |
-| 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br> Mdm Ng Mui Hiok| zunaidah_abdul_rahman@moe.edu.sg<br> ng_mui_hiok@moe.edu.sg |
-| 2 Joy | Ms Sharmila<br>Ms Chua Pey Wen | sharmila_balakrishnan@moe.edu.sg<br>chua_pey_wen@moe.edu.sg |
-| 2 Respect | Ms Hong Li Xuan<br>Mdm Syazwani | hong_li_xuan@moe.edu.sg <br>sri_syazwani_mohd_yazid@moe.edu.sg |
-| 2 Unity  |  Mr Betrand Sng<br>Ms Khairunnisa | betrand_sng_wen_wei@moe.edu.sg<br>khairunnisa_mohd_akip@moe.edu.sg |
+| 2 Hope | Mdm Kartini Bte Mohd Yusof<br>Mr Yong Xiang (Sem 1)<br>Ms Bhanu D/O Krishnasamy ( Sem 2)  | Kartini_Mohamed_Yusof@moe.edu.sg<br>nvps@moe.edu.sg<br>nvps@moe.edu.sg |
+| 2 Integrity | Ms Leow Rui Qing<br>Asha Nurdiana Binte Ab Rahim| leow_rui_qing@moe.edu.sg<br> nvps@moe.edu.sg |
+| 2 Joy | Mdm Ng Lee Yen Lyanna<br>Dwi Idayuny Binte Jumadi | Ng_Lee_Yen@moe.edu.sg<br>nvps@moe.edu.sg |
+| 2 Respect | Ms Tse Kan Ming<br>Mdm Jiang Hong | Tse_Kan_Ming@moe.edu.sg <br>Jiang_Hong@moe.edu.sg |
+| 2 Unity  |  Mdm Goh Li Li<br>Ms Zhou Mingxina | Goh_Li_Li_A@moe.edu.sg<br>nvps@moe.edu.sg |
 
 ### **Primary 3 Form Teachers**
 
