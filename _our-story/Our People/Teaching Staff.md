@@ -3,13 +3,14 @@ title: Teaching Staff
 permalink: /our-story/Our-People/Teaching-Staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### **Primary 1 Form Teachers**
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-|  1 Courage |  Mdm Sheetal Kumari D/O Heirda Singh<br>Ms Siti Nor Amilin Binte Haji |  sheetal_kumari_heirda_singh@moe.edu.sg<br>siti_nor_amilin_haji@moe.edu.sg |
-| 1 Empathy  | Ms Tan Tze Yan Sylvia<br> Mdm Wong Oi Lai  | tan_tze_yan_sylvia@moe.edu.sg<br>wong_oi_lai@moe.edu.sg  |
+|  1 Courage |  Ms Png Sok Cheng Chermaine<br>Ms Ng Mui Hiok |  png_sok_cheng_chermaine@moe.edu.sg<br>ng_mui_hiok@moe.edu.sg |
+| 1 Empathy  | Mdm Zunaidah Bte Abd Rahman<br> Mr Molawari Bin Abdul Jaffar<br>Mdm Roslinda bte Umar  | Zunaidah_Abdul_Rahman@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg<br>Roslinda_Umar@moe.edu.sg  |
 |  1 Faith | Mrs Sindhu Thiagesh<br>Mdm See Bee Pang  |  sindhu_rathakrishnan@moe.edu.sg<br>see_bee_pang@moe.edu.sg |
 | 1 Hope | Mdm Kartini Bte Mohd Yusof<br>Mrs Sreelathaa Prasad | kartini_mohamed_yusof@moe.edu.sg<br>sreelathaa_pillai@moe.edu.sg |
 |  1 Integrity | Mrs Latha <br>Mdm Siti Nabilah   | latha_rama_raj@moe.edu.sg<br>siti_nabilah_othman@moe.edu.sg  |
