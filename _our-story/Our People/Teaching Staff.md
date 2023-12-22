@@ -57,11 +57,11 @@ variant: markdown
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-|  5 Courage | Ms Ng Li Ping<br>Ms Fiona Koh   | ng_li_ping_b@moe.edu.sg<br>fiona_koh_li_ping@moe.edu.sg  |
-| 5 Faith  | Mr Sivasegaran s/o Seenivasan <br>Ms Karlpana D/O G Selvaraj  | sivasegaran_seenivasan@moe.edu.sg<br>karlpana_g_selvaraj@moe.edu.sg  |
-| 5 Hope | Mr Teo Guan Te<br>Ms Shivani Shanker | teo_guan_te@moe.edu.sg<br>shivani_shanker@moe.edu.sg |
-| 5 Integrity | Mr Nurshahin Bin Sarry<br>Ms Danielle Neo | nurshahin_sarry@moe.edu.sg<br>neo_khai_ling@moe.edu.sg |
-| 5 Joy | Ms Vikneshwari D/O Kunusegaran<br>Ms Zheng Yue | vikneshwari_kunusegaran@moe.edu.sg<br>zheng_yue@moe.edu.sg |
+|  5 Courage | Mr Lim Joo Ghee<br>Mrs Sreelathaa Pillai (Mrs Prasad)   | lim_joo_ghee@moe.edu.sg<br>Sreelathaa_Pillai@moe.edu.sg  |
+| 5 Faith  |Mdm Pearly Yeo  <br>Mdm Khairunnisa Bte Mohd Akip | nvps@moe.edu.sg<br>khairunnisa_mohd_akip@moe.edu.sg  |
+| 5 Hope | Mrs Tan - Lim Lay Quan Jeslyn<br>Ms Lim Wei Tze Karen | Lim_Lay_Quan@moe.edu.sg<br>Karen_Lim_Wei_Tze@moe.edu.sg |
+| 5 Integrity |Mdm Paraathi d/o Pachaimuthu Y<br>Mdm Usha d/o Krishnasamy | Paraathi_Pachimuthu_Y@moe.edu.sg<br>Usha_KRISHNASAMY@moe.edu.sg |
+| 5 Joy | Ms Latha d/o Rama Raj <br>Ms Li Yi Fei | Latha_Rama_Raj@moe.edu.sg<br>Li_Yi_Fei_Gracee@moe.edu.sg |
 
 ### **Primary 6 Form Teachers**
 
