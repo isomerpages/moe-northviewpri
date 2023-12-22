@@ -22,9 +22,9 @@ variant: markdown
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-|  2 Courage |  Mdm Norilah Bte Abdullah<br>Ms Rebecca Anne Tay  |  norilah_abdullah@moe.edu.sg<br>rebecca_anne_tay_kay@moe.edu.sg |
-|  2 Empathy | Ms Martha<br>Mdm Rhoda Tan  | martha_gretchin_morais@moe.edu.sg <br>rhoda_tan@moe.edu.sg  |
-|  2 Faith | Ms Aisyah Bte Samat<br>Mrs Kurup  | aisyah_samat@moe.edu.sg<br>suseela_kurup@moe.edu.sg  |
+|  2 Courage |  Mdm Wong Oi Lai<br>Mdm Prema Latha (Mrs Kumar)  |  Wong_Oi_Lai@moe.edu.sg<br>Prema_Latha@moe.edu.sg |
+|  2 Empathy | Ms Tan Tze Yan Sylvia<br>Mrs Suseela M Kurup  | Tan_Tze_Yan_Sylvia@moe.edu.sg <br>Suseela_Kurup@moe.edu.sg  |
+|  2 Faith | Mdm See Bee Pang<br>Mdm Sindhu Rathakrishnan  | See_Bee_Pang@moe.edu.sg<br>Sindhu_Rathakrishnan@moe.edu.sg  |
 | 2 Hope | Ms Chan Ho Lai, Grace<br>Ms Christina Wong  | grace_chan_ho_lai@moe.edu.sg<br>wong_poh_ling_christina@moe.edu.sg |
 | 2 Integrity | Mdm Zunaidah Bte Abd Rahman<br> Mdm Ng Mui Hiok| zunaidah_abdul_rahman@moe.edu.sg<br> ng_mui_hiok@moe.edu.sg |
 | 2 Joy | Ms Sharmila<br>Ms Chua Pey Wen | sharmila_balakrishnan@moe.edu.sg<br>chua_pey_wen@moe.edu.sg |
