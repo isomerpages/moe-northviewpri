@@ -11,7 +11,7 @@ variant: markdown
 |:---:|:---:|:---:|
 |  1 Courage |  Ms Png Sok Cheng Chermaine<br>Ms Ng Mui Hiok |  png_sok_cheng_chermaine@moe.edu.sg<br>ng_mui_hiok@moe.edu.sg |
 | 1 Empathy  | Mdm Zunaidah Bte Abd Rahman<br> Mr Molawari Bin Abdul Jaffar<br>Mdm Roslinda bte Umar  | Zunaidah_Abdul_Rahman@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg<br>Roslinda_Umar@moe.edu.sg  |
-|  1 Faith | Mdm Rhoda Tan<br>Mdm Sharini Binte Mohd Sahin  | Rhoda_Tan@moe.edu.sg<br>nvps@moe.edu.sg |
+|  1 Faith | Mdm Rhoda Tan (Term 1)<br>Mdm Sharini Binte Mohd Sahin  | Rhoda_Tan@moe.edu.sg<br>nvps@moe.edu.sg |
 | 1 Hope | Ms Ng Ngin Huay<br>Mdm Nadirah binte Jani | Ng_Ngin_Huay@moe.edu.sg<br>Nadirah_Jani@moe.edu.sg |
 |  1 Integrity | Ms Chan Ho Lai Grace <br>Mdm Kho Yen Ling Florence   | Grace_Chan_Ho_Lai@moe.edu.sg<br>Kho_Yen_Ling@moe.edu.sg  |
 | 1 Joy | Ms Wong Poh Ling, Christina<br>Mrs Wee Li Chian  | Wong_Poh_Ling_Christina@moe.edu.sg <br>nvps@moe.edu.sg  |
@@ -36,10 +36,10 @@ variant: markdown
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
 |  3 Courage | Mdm Martha Gretchin Morais<br>Ms Rebecca Anne Tay Kay Shyn  | Martha_Gretchin_Morais@moe.edu.sg <br>Rebecca_Anne_Tay_Kay@moe.edu.sg <br>   |
-| 3 Empathy   | Ms Darleana Bte Daut<br> Mr Molawari  | darleana_daut@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg   |
-| 3 Faith  | Ms Chua Li Chian <br>Ms Tian Xiao  | chua_li_chian@moe.edu.sg <br>tian_xiao@moe.edu.sg  |
-| 3 Hope | Ms Png Sok Cheng Chermaine<br>Mr Yap Kian Hua | Png_Sok_Cheng_Chermaine@moe.edu.sg<br>yap_kian_hua@moe.edu.sg |
-| 3 Integrity  | Ms Norafidah bte Othman<br>Ms Yvonne  | norafidah_othman@moe.edu.sg<br>tay_hui_shan_yvonne@moe.edu.sg  |
+| 3 Empathy   | Mr Sulthan Harrish Faroz<br> Ms Siti Sabarina Binte Jaini   | Sulthan_Harrish_Faroz@moe.edu.sg<br>Siti_Sabarina_Jaini@moe.edu.sg   |
+| 3 Faith  | Ms Yu KeXin <br>Ms Cheok Liying  | Yu_Kexin@moe.edu.sg <br>Cheok_Liying@moe.edu.sg  |
+| 3 Hope | Ms Poh Yun Xuan<br>Ms Aisyah Binte Samat (Term 1)<br>Ms Ting Pey Chei Jasavelle  | Poh_Yun_Xuan@moe.edu.sg<br>Aisyah_Samat@moe.edu.sg<br>Ting_Pey_Chei_Jasavelle@moe.edu.sg |
+| 3 Integrity  | Mr Betrand Sng Wen Wei<br>Ms Shivani Shanker    | Betrand_Sng_Wen_Wei@moe.edu.sg<br>shivani_shanker@moe.edu.sg  |
 | 3 Joy | Mdm Nazreen<br>Mrs Kumar  | nazreen_parveen_abdul_azeez@moe.edu.sg<br>prema_latha@moe.edu.sg |
 
 ### **Primary 4 Form Teachers**
