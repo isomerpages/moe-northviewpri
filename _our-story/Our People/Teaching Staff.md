@@ -35,7 +35,7 @@ variant: markdown
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-|  3 Courage | Mdm Ashedah<br>Ms Poh Yun Xuan  | noor_ashedah_sarbini@moe.edu.sg <br>poh_yun_xuan@moe.edu.sg <br>   |
+|  3 Courage | Mdm Martha Gretchin Morais<br>Ms Rebecca Anne Tay Kay Shyn  | Martha_Gretchin_Morais@moe.edu.sg <br>Rebecca_Anne_Tay_Kay@moe.edu.sg <br>   |
 | 3 Empathy   | Ms Darleana Bte Daut<br> Mr Molawari  | darleana_daut@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg   |
 | 3 Faith  | Ms Chua Li Chian <br>Ms Tian Xiao  | chua_li_chian@moe.edu.sg <br>tian_xiao@moe.edu.sg  |
 | 3 Hope | Ms Png Sok Cheng Chermaine<br>Mr Yap Kian Hua | Png_Sok_Cheng_Chermaine@moe.edu.sg<br>yap_kian_hua@moe.edu.sg |
