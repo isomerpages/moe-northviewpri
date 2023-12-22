@@ -67,12 +67,12 @@ variant: markdown
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-| 6 Courage  | Mr Lim Joo Ghee<br>Shahila Bte Mohammed  | lim_joo_ghee@moe.edu.sg<br>nor_shahila_mohammed@moe.edu.sg  |
-|  6 Faith | Mr Too Thiam Siew Roy<br>Mdm Png Suat Kheng  | too_thiam_siew@moe.edu.sg<br>png_suat_kheng@moe.edu.sg  |
-| 6 Hope | Ms Tan Yi Xiu<br>Ms Lim Wei Tze Karen | tan_yi_xiu@moe.edu.sg<br>karen_lim_wei_tze@moe.edu.sg |
-| 6 Integrity 1 | Mr Choon Siong<br>Ms Leow Rui Qing | low_choon_siong@moe.edu.sg<br>leow_rui_qing@moe.edu.sg |
-| 6 Integrity 2 | Mr Su Tow Keong<br>Mdm Usha Krishnasamy | su_tow_keong@moe.edu.sg<br>usha_krishnasamy@moe.edu.sg |
-| 6 Joy | Ms Tham Miaw Jeng<br>Mdm Nurul Huda Bte Baharom | tham_miaw_jeng@moe.edu.sg<br>nurul_huda_baharom@moe.edu.sg |
+| 6 Courage  | Mdm Ng Li Ping<br>Ms Jennie Teo (Term 1)<br>Ms Fiona Koh Li Ping (Term 2 onwards)  | Ng_LI_PING_B@moe.edu.sg<br>nvps@moe.edu.sg<br>Fiona_Koh_Li_Ping@moe.edu.sg  |
+|  6 Faith | Mr Sivasegaran S/O Seenivasan<br>Ms Siti Nor Amilin Binte Haji  | Sivasegaran_Seenivasan@moe.edu.sg<br>Siti_Nor_Amilin_Haji@moe.edu.sg  |
+| 6 Hope | Mr Teo Guan Te<br>Mdm Nor Shahila Bte Mohammed | Teo_Guan_Te@moe.edu.sg<br>nor_shahila_mohammed@moe.edu.sg |
+| 6 Integrity 1 | Mr Nurshahin Bin Sarry<br>Mdm Png Suat Kheng | Nurshahin_Sarry@moe.edu.sg<br>Png_Suat_Kheng@moe.edu.sg |
+| 6 Integrity 2 | Mr Su Tow Keong<br>Ms Nurul Huda Bte Baharom  | su_tow_keong@moe.edu.sg<br>Nurul_Huda_Baharom@moe.edu.sg |
+| 6 Joy | Ms Vikneshwari d/o Kunusegaran (Term 2 onwards)<br>Mdm Zheng Yue | Vikneshwari_Kunusegaran@moe.edu.sg<br>Zheng_Yue@moe.edu.sg |
 
 ### **Non-Form Teachers**
 
