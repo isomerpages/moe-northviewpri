@@ -14,9 +14,9 @@ variant: markdown
 |  1 Faith | Mdm Rhoda Tan<br>Mdm Sharini Binte Mohd Sahin  | Rhoda_Tan@moe.edu.sg<br>nvps@moe.edu.sg |
 | 1 Hope | Ms Ng Ngin Huay<br>Mdm Nadirah binte Jani | Ng_Ngin_Huay@moe.edu.sg<br>Nadirah_Jani@moe.edu.sg |
 |  1 Integrity | Ms Chan Ho Lai Grace <br>Mdm Kho Yen Ling Florence   | Grace_Chan_Ho_Lai@moe.edu.sg<br>Kho_Yen_Ling@moe.edu.sg  |
-| 1 Joy | Mdm Lyanna Ng<br>Mdm  Florence  | ng_lee_yen@moe.edu.sg <br>kho_yen_ling@moe.edu.sg  |
-| 1 Respect | Ms Tse Kan Ming<br>Mdm Jiang Hong | tse_kan_ming@moe.edu.sg<br>jiang_hong@moe.edu.sg |
-| 1 Unity | Mr Sulthan Harrish Faroz <br>Ms Pang Chong Lei | sulthan_harrish_faroz@moe.edu.sg<br>pang_chong_lei@moe.edu.sg |
+| 1 Joy | Ms Wong Poh Ling, Christina<br>Mrs Wee Li Chian  | Wong_Poh_Ling_Christina@moe.edu.sg <br>nvps@moe.edu.sg  |
+| 1 Respect | Ms Hong Li Xuan<br>Mdm Sri Syazwani Bte Md Yazid | Hong_Li_Xuan@moe.edu.sg<br>sri_syazwani_mohd_yazid@moe.edu.sg |
+| 1 Unity | Ms Poi Mei Ping Sharon <br>Ms Chua Pey Wen | Poi_Mei_Ping_Sharon@moe.edu.sg<br>Chua_Pey_Wen@moe.edu.sg |
 
 ### **Primary 2 Form Teachers**
 
