@@ -40,7 +40,7 @@ variant: markdown
 | 3 Faith  | Ms Yu KeXin <br>Ms Cheok Liying  | Yu_Kexin@moe.edu.sg <br>Cheok_Liying@moe.edu.sg  |
 | 3 Hope | Ms Poh Yun Xuan<br>Ms Aisyah Binte Samat (Term 1)<br>Ms Ting Pey Chei Jasavelle  | Poh_Yun_Xuan@moe.edu.sg<br>Aisyah_Samat@moe.edu.sg<br>Ting_Pey_Chei_Jasavelle@moe.edu.sg |
 | 3 Integrity  | Mr Betrand Sng Wen Wei<br>Ms Shivani Shanker    | Betrand_Sng_Wen_Wei@moe.edu.sg<br>shivani_shanker@moe.edu.sg  |
-| 3 Joy | Mdm Nazreen<br>Mrs Kumar  | nazreen_parveen_abdul_azeez@moe.edu.sg<br>prema_latha@moe.edu.sg |
+| 3 Joy | Ms Sharmila D/O Balakrishnan<br>Ms Tan Yi Xiu  | Sharmila_Balakrishnan@moe.edu.sg<br>Yi_Xiu_Tan@moe.edu.sg |
 
 ### **Primary 4 Form Teachers**
 
