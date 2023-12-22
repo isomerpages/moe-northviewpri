@@ -11,9 +11,9 @@ variant: markdown
 |:---:|:---:|:---:|
 |  1 Courage |  Ms Png Sok Cheng Chermaine<br>Ms Ng Mui Hiok |  png_sok_cheng_chermaine@moe.edu.sg<br>ng_mui_hiok@moe.edu.sg |
 | 1 Empathy  | Mdm Zunaidah Bte Abd Rahman<br> Mr Molawari Bin Abdul Jaffar<br>Mdm Roslinda bte Umar  | Zunaidah_Abdul_Rahman@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg<br>Roslinda_Umar@moe.edu.sg  |
-|  1 Faith | Mrs Sindhu Thiagesh<br>Mdm See Bee Pang  |  sindhu_rathakrishnan@moe.edu.sg<br>see_bee_pang@moe.edu.sg |
-| 1 Hope | Mdm Kartini Bte Mohd Yusof<br>Mrs Sreelathaa Prasad | kartini_mohamed_yusof@moe.edu.sg<br>sreelathaa_pillai@moe.edu.sg |
-|  1 Integrity | Mrs Latha <br>Mdm Siti Nabilah   | latha_rama_raj@moe.edu.sg<br>siti_nabilah_othman@moe.edu.sg  |
+|  1 Faith | Mdm Rhoda Tan<br>Mdm Sharini Binte Mohd Sahin  | Rhoda_Tan@moe.edu.sg<br>nvps@moe.edu.sg |
+| 1 Hope | Ms Ng Ngin Huay<br>Mdm Nadirah binte Jani | Ng_Ngin_Huay@moe.edu.sg<br>Nadirah_Jani@moe.edu.sg |
+|  1 Integrity | Ms Chan Ho Lai Grace <br>Mdm Kho Yen Ling Florence   | Grace_Chan_Ho_Lai@moe.edu.sg<br>Kho_Yen_Ling@moe.edu.sg  |
 | 1 Joy | Mdm Lyanna Ng<br>Mdm  Florence  | ng_lee_yen@moe.edu.sg <br>kho_yen_ling@moe.edu.sg  |
 | 1 Respect | Ms Tse Kan Ming<br>Mdm Jiang Hong | tse_kan_ming@moe.edu.sg<br>jiang_hong@moe.edu.sg |
 | 1 Unity | Mr Sulthan Harrish Faroz <br>Ms Pang Chong Lei | sulthan_harrish_faroz@moe.edu.sg<br>pang_chong_lei@moe.edu.sg |
