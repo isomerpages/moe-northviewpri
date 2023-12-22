@@ -85,14 +85,15 @@ variant: markdown
 | Ms Melissa Tan | Art | tan_li_cheng_a@moe.edu.sg |
 | Mr Or Boon Chun | Science | or_boon_chun@moe.edu.sg |
  Ms Junice Ong | English | ong_hui_ling_junice@moe.edu.sg |
-| Mdm Krishnaveni | English | krishnaveni_narayanasamy@moe.edu.sg |
 | Ms Christina Hoon | English<br>Math | hoon_christina@moe.edu.sg |
 |  Mr Xie Jialun  | Math <br>English  | xie_jialun@moe.edu.sg  |
 |  Mr Sim Jia Hong | Math  | sim_jia_hong@moe.edu.sg  |
 | Ms Goh Li Li  | Math   | goh_li_li_a@moe.edu.sg  |
 |Mr Noh Danial|Malay Language|noh_danial_abdul_hamid_a@moe.edu.sg|
 |Mdm Lee Seok Noi| Math| lee_seok_noi@moe.edu.sg
-|Mdm Lei Xuemei| Chinese Language| lei_xuemei@moe.edu.sg
+|Mdm Lei Xuemei| Chinese Language| lei_xuemei@moe.edu.sg|
+|Ms Rizwana Begum|English |nvps@moe.edu.sg|
+
 
 ### **Special Education Needs Officers**
 
@@ -101,4 +102,5 @@ variant: markdown
 |:---:|:---:|
 | Ms Aisyah Nur Shalin Binte Roslan | aisyah_nur_shalin_roslan@moe.edu.sg |
 | Ms Noraimye Binte Mohamad Yasin | noraimye_mohamad_yasin@moe.edu.sg |
-| Ms Siti Hawa Binte Amran| siti_hawa_amran@moe.edu.sg
+| Ms Siti Hawa Binte Amran| siti_hawa_amran@moe.edu.sg|
+|Ms Viktoria Tan Xiu Wen |nvps@moe.edu.sg|
