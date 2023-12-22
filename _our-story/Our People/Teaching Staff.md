@@ -49,9 +49,9 @@ variant: markdown
 |  4 Courage | Mr Low Choon Siong<br>Mr Lim Hoei Kee <br>Ms Noor Ashedah Binte Sarbini  | Low_Choon_Siong@moe.edu.sg<br>lim_joo_ghee@moe.edu.sg<br>Noor_Ashedah_Sarbini@moe.edu.sg |
 | 4 Empathy | Ms Darleana Bte Daut<br>Mr Quek Joon Meng <br>Mr Amirul Haziq Bin Mohd Ambran (Term 2) | Darleana_Daut@moe.edu.sg<br>Quek_Joon_Meng@moe.edu.sg <br> nvps@moe.edu.sg |
 | 4 Faith  | Ms Tham Miaw Jeng<br>Ms Pua Mei Ru  | Miaw_Jeng_Tham@moe.edu.sg<br>phua_mei_ru@moe.edu.sg |
-| 4 Hope | Mdm Cheok Liying<br>Ms Ng Ngin Huay | cheok_liying@moe.edu.sg<br>ng_ngin_huay@moe.edu.sg |
-| 4 Integrity | Ms Ting Pey Chei Jasavelle<br>Ms Yu Kexin | ting_pey_chei_jasavelle@moe.edu.sg<br>yu_kexin@moe.edu.sg |
-| 4 Joy | Mrs Ravel<br>Mr Quek Joon Meng  | paraathi_pachimuthu_y@moe.edu.sg<br>- |
+| 4 Hope | Ms Asvin Kaur<br>Mr Yap Kian Hua Matthew | Asvin_Kaur@moe.edu.sg<br>Yap_Kian_Hua@moe.edu.sg |
+| 4 Integrity | Ms Norafidah Binte Othman<br>Ms Tay Hui Shan, Yvonne | Norafidah_Othman@moe.edu.sg<br>Tay_Hui_Shan_Yvonne@moe.edu.sg |
+| 4 Joy | Mdm Nazreen Parveen<br>Mr Too Thiam Siew Roy  | Nazreen_Parveen_Abdul_Azeez@moe.edu.sg<br>too_thiam_siew@moe.edu.sg |
 
 ### **Primary 5 Form Teachers**
 
