@@ -12,4 +12,4 @@ variant: markdown
 *   [Parents' Handbook](/for-parents/Parents-Handbook)
 *   [Service Providers](/for-parents/Service-Providers/Service-Providers)
 *   [Administrative](/for-parents/Administrative/Administrative)
-*   [Booklist & Uniform list](/for-parents/permalink)
+*   [Booklist & Uniform list](/for-parents/booklist)
