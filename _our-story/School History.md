@@ -2,6 +2,7 @@
 title: School History
 permalink: /our-story/Our-People/School-History/
 description: ""
+variant: markdown
 ---
 North View Primary School (NVPS) was established in 1995 with our founding Principal Mr Lawrence Chong. Its official opening was held on 2 August 1997 and graced by Associate Professor Ho Peng Kee, then Member of Parliament for Sembawang GRC.
 
@@ -19,7 +20,12 @@ Our fourth Principal Mdm Tan U-Tong Evelyn has been leading us from 2013 – Dec
 
   
 
-In Dec 2017, we welcomed Mrs Soh Mei Foong as our fifth Principal. Under her leadership, NVPS will continue to develop all our children to their fullest potential.
+Mrs Soh Mei Foong was our fifth Principal from 2017 to 2023. Under her leadership, NVPS focused on the school’s vision and values to develop self-directedly learners who are confident and morally upright and who are active contributors, both to the school and to the larger community. The school successfully completed its PERI upgrading  and welcomed its first cohort of MOE Kindergarten students in 2021.  In 2022, the school was accorded the Applied Learning Programme (ALP) : Sustainable Living Starts with Me.  
+
+
+
+In Dec 2023, we welcomed Mrs Grace Chua as our sixth Principal. North View Primary School will continue our invested efforts in developing every child to their fullest potential.
+
 
 
 
@@ -36,6 +42,16 @@ In Dec 2017, we welcomed Mrs Soh Mei Foong as our fifth Principal. Under her lea
 <figure>
 
 <img src="/images/Our%20Story/School%20History/Pic2.png">
+
+<figcaption> <strong> North View Primary School, 2016</strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+<img src="/images/Our%20Story/School%20History/Pic3.jpg">
 
 <figcaption> <strong> North View Primary School, Present</strong> </figcaption>
 

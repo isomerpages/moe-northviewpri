@@ -3,14 +3,14 @@ title: School Management Committee
 permalink: /our-story/Our-People/School-Management-Committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 **School Leaders, KPs and STs**
 
 | Designation | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-| Principal | Mrs Soh Mei Foong | nvps@moe.edu.sg |
+| Principal | Mrs Lee Lie Kian Grace (Mrs Chua) | nvps@moe.edu.sg |
 | Vice Principal (Acad) | Mr Rajinder Singh Gill | nvps@moe.edu.sg |
-| Vice Principal (Acad) | Mdm Ue-Tay Sze Yin | nvps@moe.edu.sg |
 | Vice Principal (Admin) | Mr Patrick Chan | nvps@moe.edu.sg |
 | School Staff Developer | Ms Tan Li Cheng Melissa | tan_li_cheng_a@moe.edu.sg |
 | Year Head (1-2) | Ms Christina Hoon | hoon_christina@moe.edu.sg |

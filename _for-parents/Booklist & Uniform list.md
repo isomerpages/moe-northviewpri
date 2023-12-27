@@ -1,6 +1,6 @@
 ---
 title: Booklist & Uniform list
-permalink: /for-parents/permalink/
+permalink: /for-parents/booklist/
 variant: tiptap
 description: ""
 ---
