@@ -43,6 +43,16 @@ In Dec 2023, we welcomed Mrs Grace Chua as our sixth Principal. North View Prima
 
 <img src="/images/Our%20Story/School%20History/Pic2.png">
 
+<figcaption> <strong> North View Primary School, 2016</strong> </figcaption>
+
+</figure>
+
+
+
+<figure>
+
+<img src="/images/Our%20Story/School%20History/Pic3.jpg">
+
 <figcaption> <strong> North View Primary School, Present</strong> </figcaption>
 
 </figure>
