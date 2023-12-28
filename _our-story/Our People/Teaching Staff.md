@@ -10,12 +10,12 @@ variant: markdown
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
 |  1 Courage |  Ms Png Sok Cheng Chermaine<br>Ms Ng Mui Hiok |  png_sok_cheng_chermaine@moe.edu.sg<br>ng_mui_hiok@moe.edu.sg |
-| 1 Empathy  | Mdm Zunaidah Bte Abd Rahman<br> Mr Molawari Bin Abdul Jaffar<br>Mdm Roslinda bte Umar  | Zunaidah_Abdul_Rahman@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg<br>Roslinda_Umar@moe.edu.sg  |
+| 1 Empathy  | Mdm Zunaidah Bte Abd Rahman<br> Mr Molawari Bin Abdul Jaffar  | Zunaidah_Abdul_Rahman@moe.edu.sg<br>molawari_abdul_jaffar@moe.edu.sg |
 |  1 Faith | Mdm Rhoda Tan (Term 1)<br>Mdm Sharini Binte Mohd Sahin  | Rhoda_Tan@moe.edu.sg<br>nvps@moe.edu.sg |
 | 1 Hope | Ms Ng Ngin Huay<br>Mdm Nadirah binte Jani | Ng_Ngin_Huay@moe.edu.sg<br>Nadirah_Jani@moe.edu.sg |
 |  1 Integrity | Ms Chan Ho Lai Grace <br>Mdm Kho Yen Ling Florence   | Grace_Chan_Ho_Lai@moe.edu.sg<br>Kho_Yen_Ling@moe.edu.sg  |
 | 1 Joy | Ms Wong Poh Ling, Christina<br>Mrs Wee Li Chian  | Wong_Poh_Ling_Christina@moe.edu.sg <br>nvps@moe.edu.sg  |
-| 1 Respect | Ms Hong Li Xuan<br>Mdm Sri Syazwani Bte Md Yazid | Hong_Li_Xuan@moe.edu.sg<br>sri_syazwani_mohd_yazid@moe.edu.sg |
+| 1 Respect | Ms Hong Li Xuan<br>Mdm Xing Dongme | Hong_Li_Xuan@moe.edu.sg<br>nvps@moe.edu.sg |
 | 1 Unity | Ms Poi Mei Ping Sharon <br>Ms Chua Pey Wen | Poi_Mei_Ping_Sharon@moe.edu.sg<br>Chua_Pey_Wen@moe.edu.sg |
 
 ### **Primary 2 Form Teachers**
