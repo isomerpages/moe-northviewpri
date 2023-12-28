@@ -20,7 +20,7 @@ Our fourth Principal Mdm Tan U-Tong Evelyn has been leading us from 2013 – Dec
 
   
 
-Mrs Soh Mei Foong was our fifth Principal from 2017 to 2023. Under her leadership, NVPS focused on the school’s vision and values to develop self-directedly learners who are confident and morally upright and who are active contributors, both to the school and to the larger community. The school successfully completed its PERI upgrading  and welcomed its first cohort of MOE Kindergarten students in 2021.  In 2022, the school was accorded the Applied Learning Programme (ALP) : Sustainable Living Starts with Me.  
+Mrs Soh Mei Foong was our fifth Principal from 2017 to 2023. Under her leadership, NVPS focused on the school’s vision and values to develop self-directed learners who are confident and morally upright and who are active contributors, both to the school and to the larger community. The school successfully completed its PERI upgrading  and welcomed its first cohort of MOE Kindergarten students in 2021.  In 2022, the school was accorded the Applied Learning Programme (ALP) : Sustainable Living Starts with Me.  
 
 
 
