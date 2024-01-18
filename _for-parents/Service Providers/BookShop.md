@@ -1,8 +1,9 @@
 ---
 title: BookShop
-permalink: /for-parents/Service-Providers/Bookshop
+permalink: /for-parents/Service-Providers/Bookshop/
 description: ""
 third_nav_title: Service Providers
+variant: markdown
 ---
 **Business Hours**
 
@@ -20,4 +21,4 @@ _\*Parents are advised to visit the bookshop from: 11.30 am to 12.00pm and 2.00 
 
 **Contact Number**
 
-64823987
+90919835
