@@ -2,6 +2,7 @@
 title: MOE Kindergarten @ NorthView
 permalink: /MOE-Kindergarten-NorthView/
 description: ""
+variant: markdown
 ---
 ## Programme &amp; Operating Hours
 
@@ -80,4 +81,4 @@ Our operating hours are:
 
 Please visit the MOE website at&nbsp;[here](https://www.moe.gov.sg/preschool/moe-kindergarten)
 
-![](/images/MOE%20Kindergarten/mk%20orientation%20day%202024.png)
+![](/images/MOE%20Kindergarten/MK_Open_House_Poster_2024.png)
