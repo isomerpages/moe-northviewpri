@@ -1,0 +1,15 @@
+collections:
+  our-story:
+    output: true
+    order:
+      - Principal's message.md
+      - School History.md
+      - Vision, mission, values.md
+      - School song, crest and creed.md
+      - Our People/School Management Committee.md
+      - Our People/Teaching Staff.md
+      - Our People/Administrative and Support Staff.md
+      - Our People/.keep
+      - Our Achievements.md
+      - Our Partners/Parent Support Group.md
+      - Our Partners/.keep

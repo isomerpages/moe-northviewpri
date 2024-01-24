@@ -1,0 +1,11 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - About Us.md
+      - MK Experience.md
+      - Announcement.md
+      - MK Events.md
+      - Student Enrolment.md
+      - Contact Us.md
+      - MOE Kindergarten @ NorthView.md

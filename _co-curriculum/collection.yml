@@ -1,0 +1,27 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - CoCurricular Activities.md
+      - Sports/Basketball.md
+      - Sports/Floorball.md
+      - Sports/Soccer.md
+      - Sports/.keep
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/Boy's Brigade.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/.keep
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Creative Hands.md
+      - Visual and Performing Arts/Drama.md
+      - Visual and Performing Arts/International Dance.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Visual and Performing Arts/.keep
+      - Clubs & Societies/Infotech Club.md
+      - Clubs & Societies/Environmental Science.md
+      - Clubs & Societies/ODAC.md
+      - Clubs & Societies/.keep
+      - Student Affairs Committee/.keep
+      - Student Affairs Committee/Student Leadership.md
+      - Student Affairs Committee/Student Management.md

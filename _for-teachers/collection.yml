@@ -1,0 +1,15 @@
+collections:
+  for-teachers:
+    output: true
+    order:
+      - For Teachers.md
+      - MOE Intranet.md
+      - ICON.md
+      - OPAL 2 0.md
+      - SC Mobile.md
+      - iExams2.md
+      - School Cockpit.md
+      - ICT Service Request.md
+      - Resource Booking Service (RBS).md
+      - Workplace.md
+      - NVPS One Stop ICT portal.md

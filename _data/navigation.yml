@@ -1,0 +1,95 @@
+logo: /images/Homepage/logo.png
+links:
+  - title: Our Story
+    url: /our-story/Our-People/Principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /our-story/Our-People/Principals-message
+      - title: School History
+        url: /our-story/Our-People/School-History
+      - title: Vision, Mission, Values
+        url: /our-story/Our-People/Vision-mission-values
+      - title: School song, Crest and Creed
+        url: /our-story/Our-People/School-song-crest-and-creed
+      - title: Our People
+        url: /our-story/Our-People/School-Management-Committee
+      - title: Our Achievements
+        url: /our-story/Our-Achievements
+      - title: Our Partners
+        url: /our-story/Our-Partner/Parent-Support-Group
+  - title: Our Curriculum
+    url: /curriculum/English-Language
+    sublinks:
+      - title: Curriculum
+        url: /curriculum/English-Language
+      - title: Co-Curriculum
+        url: /co-curriculum/Co-Curricular-Activities
+  - title: Parents
+    url: /for-parents/For-Parents
+    sublinks:
+      - title: School Calendar
+        url: /for-parents/School-Calendar
+      - title: Parent Support Group
+        url: https://www.facebook.com/nvpspsg
+      - title: Parents Gateway
+        url: https://pg.moe.edu.sg/
+      - title: School Bag
+        url: https://www.schoolbag.edu.sg/
+      - title: Cyber Wellness
+        url: /for-parents/Cyber-Wellness/
+      - title: Parents' Handbook
+        url: /for-parents/Parents-Handbook
+      - title: Service Providers
+        url: /for-parents/Service-Providers/Service-Providers
+      - title: Administrative
+        url: /for-parents/administrative/permalink/
+      - title: Booklist & Uniform list
+        url: /for-parents/booklist/
+  - title: Students
+    url: /for-students/For-Students
+    sublinks:
+      - title: Home-Based Learning
+        url: https://sites.google.com/moe.edu.sg/northviewprimary/home
+      - title: Student Learning Space (SLS)
+        url: /for-students/Student-Learning-Space-SLS/
+      - title: Student iCON
+        url: /for-students/Student-iCON/
+      - title: Scholastic
+        url: https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/student/SGP5W4P
+      - title: E-zhishi
+        url: https://www.ezhishi.net/Contents/
+      - title: My Skills Future
+        url: https://www.myskillsfuture.gov.sg/content/student/en/primary.html
+      - title: NVPS School Library
+        url: https://schoolibrary.moe.edu.sg/northviewpri/
+      - title: School e-Resource Repository
+        url: https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: Educational Websites
+        url: /for-students/educationalwebsites/
+  - title: Teachers
+    url: /for-teachers/For-Teachers
+    sublinks:
+      - title: MOE Intranet
+        url: /for-teachers/MOE-Intranet/
+      - title: ICON
+        url: /for-teachers/ICON
+      - title: OPAL 2.0
+        url: https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F
+      - title: SC Mobile
+        url: https://scmobile.moe.edu.sg/home
+      - title: iExams2
+        url: /for-teachers/iExams2/
+      - title: School Cockpit
+        url: https://schoolcockpit.moe.gov.sg/
+      - title: ICT Service Request
+        url: https://northviewpri.moe.edu.sg/useful-links/for-teachers/ict-service-request
+      - title: Resource Booking Service (RBS)
+        url: https://rbs.avero-tech.com/
+      - title: Workplace
+        url: https://onepublicservice.workplace.com/work/landing/input/?next=https%3A%2F%2Fonepublicservice.workplace.com%2Fgroups%2F2825705851049469
+      - title: NVPS One Stop ICT portal
+        url: /for-teachers/NVPS-One-stop-ICT-portal
+      - title: Relief Request Form
+        url: https://docs.google.com/forms/d/e/1FAIpQLSfEhMYF9_IhcPZ8BLt7-Rs2AHi5kozBx1F5pyNyK1H1AyzP3Q/viewform
+  - title: MOE KINDERGARTEN @ NORTHVIEW
+    url: /MOE-Kindergarten-NorthView
