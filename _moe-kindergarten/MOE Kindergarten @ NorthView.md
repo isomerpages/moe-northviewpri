@@ -81,4 +81,5 @@ Our operating hours are:
 
 Please visit the MOE website at&nbsp;[here](https://www.moe.gov.sg/preschool/moe-kindergarten)
 
-![](/images/MOE%20Kindergarten/MK_Open_House_Poster_2024.png)
+![](/images/MOE%20Kindergarten/Open_House_Poster_2024_1_Page_1.png)
+![](/images/MOE%20Kindergarten/Open_House_Poster_2024_1_Page_2.png)
