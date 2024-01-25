@@ -22,5 +22,5 @@ description: ""
     <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QXvV21a-TqE?si=Vp-NCq_gdTyu0N-M"></iframe>
 </div>
 <p></p>
-<h4><a href="https://drive.google.com/file/d/1qASmtLJGAkBpbiFTzCelnXF73nrzzsgU/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">KCare@@North View</a></h4>
+<h4><a href="https://drive.google.com/file/d/1qASmtLJGAkBpbiFTzCelnXF73nrzzsgU/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">KCare@North View</a></h4>
 <p></p>
