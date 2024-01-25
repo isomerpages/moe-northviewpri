@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - MK Open House 2024.md
       - About Us.md
       - MK Experience.md
       - Announcement.md
@@ -10,3 +9,4 @@ collections:
       - Student Enrolment.md
       - Contact Us.md
       - MOE Kindergarten @ NorthView.md
+      - MK Open House 2024.md
