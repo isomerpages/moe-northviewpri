@@ -1,6 +1,6 @@
 ---
-title: MOE Kindergarten @ NorthView
-permalink: /MOE-Kindergarten-NorthView/
+title: MOE Kindergarten @ North View
+permalink: /moe-kindergarten-northview/
 description: ""
 variant: markdown
 ---
