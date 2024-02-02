@@ -27,5 +27,7 @@ description: ""
 </div>
 <p></p>
 <h3>KCare @ North View</h3>
-<p><a href="https://drive.google.com/file/d/1qASmtLJGAkBpbiFTzCelnXF73nrzzsgU/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">KCare video</a>
-</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s0PIcGGhBfg?si=qOA35tCMsWDKrHHy"></iframe>
+</div>
+<p></p>
