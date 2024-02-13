@@ -88,7 +88,7 @@ variant: markdown
 |Mr Noh Danial|Malay Language|noh_danial_abdul_hamid_a@moe.edu.sg|
 |Mdm Lee Seok Noi| Math| lee_seok_noi@moe.edu.sg
 |Mdm Lei Xuemei| Chinese Language| lei_xuemei@moe.edu.sg|
-|Ms Rizwana Begum|English |nvps@moe.edu.sg|
+|Mr Amirul Haque |English |nvps@moe.edu.sg|
 
 
 ### **Special Education Needs Officers**
