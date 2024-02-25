@@ -9,9 +9,9 @@ variant: markdown
 
 | Designation | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-| Principal | Mrs Lee Lie Kian Grace (Mrs Chua) | nvps@moe.edu.sg |
-| Vice Principal (Acad) | Mr Rajinder Singh Gill | nvps@moe.edu.sg |
-| Vice Principal (Admin) | Mr Patrick Chan | nvps@moe.edu.sg |
+| Principal | Mrs Lee Lie Kian Grace (Mrs Chua) | Grace_Lee@schools.gov.sg |
+| Vice Principal (Acad) | Mr Rajinder Singh Gill | Rajinder_Singh_Piara_Singh@schools.gov.sg |
+| Vice Principal (Admin) | Mr Patrick Chan | Chan_Soon_Hua@schools.gov.sg |
 | School Staff Developer | Ms Tan Li Cheng Melissa | tan_li_cheng_a@moe.edu.sg |
 | Year Head (1-2) | Ms Christina Hoon | hoon_christina@moe.edu.sg |
 | Year Head (3-4) | Ms Ong Hui Ling Junice | ong_hui_ling_junice@moe.edu.sg 
