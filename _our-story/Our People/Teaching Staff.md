@@ -98,5 +98,3 @@ variant: markdown
 |:---:|:---:|
 | Ms Aisyah Nur Shalin Binte Roslan | aisyah_nur_shalin_roslan@moe.edu.sg |
 | Ms Noraimye Binte Mohamad Yasin | noraimye_mohamad_yasin@moe.edu.sg |
-| Ms Siti Hawa Binte Amran| siti_hawa_amran@moe.edu.sg|
-|Ms Viktoria Tan Xiu Wen |nvps@moe.edu.sg|
