@@ -8,7 +8,11 @@ variant: markdown
 
 | Department | Achievement | Participants |
 | -------- | -------- | -------- |
-| Girls' Brigade     | Junior Brigade Brooch (JB)  |Teo Si Yi Alicia <br>  Claryss Chong Xin Yu <br> Goh Wen Fang Kylie | 
+| Girls' Brigade     | Gold Company Award |-|
+| |Junior Brigade Brooch (JB)  |Teo Si Yi Alicia, 6J <br>  Claryss Chong Xin Yu, 6J <br> Goh Wen Fang Kylie, 6J | 
+Basketball | Singapore Premiere Youth Basketball League- Bronze medal |  Basketball Team (Girls)
+Mother Tongue Language Department | National Bilingual Creative Writing Competition 2023 | Wan Juntong, 5J <br> Xu Yisen, 5J
+Student Affairs Committee| Junior Civil Defence Lionhearter Challenge 2024 - Emergengy Ready Bag winner (Top 10) Civil Defence Ready School Programme certificate | Alhazen Bin Jeffry, 5C <br> Kennice Yong Xi Cheng, 5J <br> Manoharan Sanjana, 5J <br> Lee En Qi Olivia, 5J <br> Mohamed Sharique Bin Mohamed Shariz, 5J|
 
 ### **2023**
 
