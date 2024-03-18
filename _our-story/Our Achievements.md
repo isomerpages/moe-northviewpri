@@ -7,7 +7,7 @@ variant: markdown
 ### **2024**
 | Department | Achievement | Participants |
 | -------- | -------- | -------- |
-| Girls' Brigade     | Junior Brigade Brooch (JB)  |Teo Si Yi Alicia <br>  Claryss Chong Xin Yu <br> Goh Wen Fang Kylie  | 
+| Girls' Brigade     | Junior Brigade Brooch (JB)  |Teo Si Yi Alicia <br>  Claryss Chong Xin Yu <br> Goh Wen Fang Kylie | 
 
 ### **2023**
 
