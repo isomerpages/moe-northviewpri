@@ -26,8 +26,8 @@ variant: markdown
 |  2 Empathy | Ms Tan Tze Yan Sylvia<br>Mdm Roslinda Bte Umar<br>Mrs Suseela M Kurup  | Tan_Tze_Yan_Sylvia@moe.edu.sg <br>roslinda_umar@moe.edu.sg<br>Suseela_Kurup@moe.edu.sg  |
 |  2 Faith | Mdm See Bee Pang<br>Mdm Sindhu Rathakrishnan  | See_Bee_Pang@moe.edu.sg<br>Sindhu_Rathakrishnan@moe.edu.sg  |
 | 2 Hope | Mdm Kartini Bte Mohd Yusof<br>Mr Toh Yong Xiang (Sem 1)<br>Ms Bhanu D/O Krishnasamy ( Sem 2)  | Kartini_Mohamed_Yusof@moe.edu.sg<br>Toh_Yong_Xiang_A@moe.edu.sg<br>nvps@moe.edu.sg |
-| 2 Integrity | Ms Leow Rui Qing<br>Mdm Dwi Idayuny Binte Jumadi<br>Ms Asha Nurdiana Binte Ab Rahim| leow_rui_qing@moe.edu.sg<br> Dwi_Idayuny_Jumadi@moe.edu.sg<br> |
-| 2 Joy | Mdm Ng Lee Yen Lyanna<br>Mdm Dwi Idayuny Binte Jumadi | Ng_Lee_Yen@moe.edu.sg<br>nvps@moe.edu.sg |
+| 2 Integrity | Ms Leow Rui Qing<br>Mdm Dwi Idayuny Binte Jumadi<br>Ms Asha Nurdiana Binte Ab Rahim| leow_rui_qing@moe.edu.sg<br> Dwi_Idayuny_Jumadi@moe.edu.sg<br>nvps@moe.edu.sg |
+| 2 Joy | Mdm Ng Lee Yen Lyanna<br>Mdm Kho Yen Ling Florence | Ng_Lee_Yen@moe.edu.sg<br>Kho_Yen_Ling@moe.edu.sg |
 | 2 Respect | Ms Tse Kan Ming<br>Mdm Jiang Hong | Tse_Kan_Ming@moe.edu.sg <br>Jiang_Hong@moe.edu.sg |
 | 2 Unity  |  Mdm Goh Li Li<br>Ms Zhou Mingxin | Goh_Li_Li_A@moe.edu.sg<br>nvps@moe.edu.sg |
 
