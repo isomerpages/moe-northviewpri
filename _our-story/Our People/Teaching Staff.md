@@ -46,9 +46,9 @@ variant: markdown
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-|  4 Courage | Mr Low Choon Siong<br>Mr Quek Joon Meng (Term 1)<br>Ms Noor Ashedah Binte Sarbini  | Low_Choon_Siong@moe.edu.sg<br>quek_joon_meng@moe.edu.sg<br>Noor_Ashedah_Sarbini@moe.edu.sg |
-| 4 Empathy | Ms Darleana Bte Daut<br>Mr Amirul Haziq (Term 2)<br>Mr Lim Hoei Kee (Term 1) | Darleana_Daut@moe.edu.sg <br> nvps@moe.edu.sg<br>lim_hoei_kee@moe.edu.sg |
-| 4 Faith  | Ms Tham Miaw Jeng<br>Mdm Pearly Yeo <br> Mr Christopher Peh | Miaw_Jeng_Tham@moe.edu.sg<br>pearly_yeo@moe.edu.sg <br> nvps@moe.edu.sg |
+|  4 Courage | Mr Low Choon Siong<br>Ms Noor Ashedah Binte Sarbini  | Low_Choon_Siong@moe.edu.sg<br>Noor_Ashedah_Sarbini@moe.edu.sg |
+| 4 Empathy | Ms Darleana Bte Daut<br>Mr Amirul Haziq | Darleana_Daut@moe.edu.sg <br> Amirul_Haziq_Mohd_Ambran@moe.edu.sg |
+| 4 Faith  | Ms Tham Miaw Jeng<br>Mdm Pearly Yeo <br> Mr Christopher Peh | Miaw_Jeng_Tham@moe.edu.sg<br>pearly_yeo@moe.edu.sg <br> Peh_Chin_Hwi_Christopher_A@moe.edu.sg |
 | 4 Hope | Ms Asvin Kaur<br>Mr Yap Kian Hua Matthew | Asvin_Kaur@moe.edu.sg<br>Yap_Kian_Hua@moe.edu.sg |
 | 4 Integrity | Ms Norafidah Binte Othman<br>Ms Tay Hui Shan, Yvonne | Norafidah_Othman@moe.edu.sg<br>Tay_Hui_Shan_Yvonne@moe.edu.sg |
 | 4 Joy | Mdm Nazreen Parveen<br>Mr Too Thiam Siew Roy  | Nazreen_Parveen_Abdul_Azeez@moe.edu.sg<br>too_thiam_siew@moe.edu.sg |
