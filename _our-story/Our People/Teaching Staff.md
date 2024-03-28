@@ -14,7 +14,7 @@ variant: markdown
 |  1 Faith | Mdm Lu Yueyue<br>Mdm Sharini Binte Mohd Sahin<br>Ms Jennie Teo  | Lu_Yueyue@moe.edu.sg<br>Sharini_Mohamed_Sahib@moe.edu.sg<br>Jennie_Teo_A@moe.edu.sg |
 | 1 Hope | Ms Ng Ngin Huay<br>Mdm Nadirah binte Jani | Ng_Ngin_Huay@moe.edu.sg<br>Nadirah_Jani@moe.edu.sg |
 |  1 Integrity | Ms Chan Ho Lai Grace <br>Ms Nazrah Bte Mohamed Latiff  | Grace_Chan_Ho_Lai@moe.edu.sg<br>Nazrah_Mohamad_Latiff@moe.edu.sg  |
-| 1 Joy | Ms Wong Poh Ling, Christina<br>Mrs Wee Li Chian  | Wong_Poh_Ling_Christina@moe.edu.sg <br>nvps@moe.edu.sg  |
+| 1 Joy | Ms Wong Poh Ling, Christina<br>Mrs Wee Li Chian  | Wong_Poh_Ling_Christina@moe.edu.sg <br>Chua_Li_Chian@moe.edu.sg  |
 | 1 Respect | Ms Hong Li Xuan<br>Mdm Xing Dongme | Hong_Li_Xuan@moe.edu.sg<br>nvps@moe.edu.sg |
 | 1 Unity | Ms Poi Mei Ping Sharon <br>Ms Chua Pey Wen<br>Mr Quek Joon Meng | Poi_Mei_Ping_Sharon@moe.edu.sg<br>Chua_Pey_Wen@moe.edu.sg<br>Quek_Joon_Meng@moe.edu.sg |
 
@@ -25,8 +25,8 @@ variant: markdown
 |  2 Courage |  Mdm Wong Oi Lai<br>Mdm Prema Latha (Mrs Kumar)  |  Wong_Oi_Lai@moe.edu.sg<br>Prema_Latha@moe.edu.sg |
 |  2 Empathy | Ms Tan Tze Yan Sylvia<br>Mdm Roslinda Bte Umar<br>Mrs Suseela M Kurup  | Tan_Tze_Yan_Sylvia@moe.edu.sg <br>roslinda_umar@moe.edu.sg<br>Suseela_Kurup@moe.edu.sg  |
 |  2 Faith | Mdm See Bee Pang<br>Mdm Sindhu Rathakrishnan  | See_Bee_Pang@moe.edu.sg<br>Sindhu_Rathakrishnan@moe.edu.sg  |
-| 2 Hope | Mdm Kartini Bte Mohd Yusof<br>Mr Yong Xiang (Sem 1)<br>Ms Bhanu D/O Krishnasamy ( Sem 2)  | Kartini_Mohamed_Yusof@moe.edu.sg<br>nvps@moe.edu.sg<br>nvps@moe.edu.sg |
-| 2 Integrity | Ms Leow Rui Qing<br>Ms Asha Nurdiana Binte Ab Rahim| leow_rui_qing@moe.edu.sg<br> nvps@moe.edu.sg |
+| 2 Hope | Mdm Kartini Bte Mohd Yusof<br>Mr Toh Yong Xiang (Sem 1)<br>Ms Bhanu D/O Krishnasamy ( Sem 2)  | Kartini_Mohamed_Yusof@moe.edu.sg<br>Toh_Yong_Xiang_A@moe.edu.sg<br>nvps@moe.edu.sg |
+| 2 Integrity | Ms Leow Rui Qing<br>Mdm Dwi Idayuny Binte Jumadi<br>Ms Asha Nurdiana Binte Ab Rahim| leow_rui_qing@moe.edu.sg<br> Dwi_Idayuny_Jumadi@moe.edu.sg<br> |
 | 2 Joy | Mdm Ng Lee Yen Lyanna<br>Mdm Dwi Idayuny Binte Jumadi | Ng_Lee_Yen@moe.edu.sg<br>nvps@moe.edu.sg |
 | 2 Respect | Ms Tse Kan Ming<br>Mdm Jiang Hong | Tse_Kan_Ming@moe.edu.sg <br>Jiang_Hong@moe.edu.sg |
 | 2 Unity  |  Mdm Goh Li Li<br>Ms Zhou Mingxin | Goh_Li_Li_A@moe.edu.sg<br>nvps@moe.edu.sg |
