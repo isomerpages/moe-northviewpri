@@ -36,9 +36,9 @@ variant: markdown
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
 |  3 Courage | Mdm Martha Gretchin Morais<br>Ms Rebecca Anne Tay Kay Shyn  | Martha_Gretchin_Morais@moe.edu.sg <br>Rebecca_Anne_Tay_Kay@moe.edu.sg <br>   |
-| 3 Empathy   | Mr Sulthan Harrish Faroz<br>Mdm Tan Soh Leng <br>Ms Siti Sabarina Binte Jaini   | Sulthan_Harrish_Faroz@moe.edu.sg<br>tan_soh_leng@moe.edu.sg<br>Siti_Sabarina_Jaini@moe.edu.sg   |
-| 3 Faith  | Ms Yu KeXin <br>Ms Nazrah Bte Mohamed Latiff<br>Ms Cheok Liying  | Yu_Kexin@moe.edu.sg <br>nazrah_mohamad_latiff@moe.edu.sg<br>Cheok_Liying@moe.edu.sg  |
-| 3 Hope | Ms Poh Yun Xuan<br>Ms Aisyah Binte Samat (Term 1)<br>Ms Ting Pey Chei Jasavelle (Term 2)  | Poh_Yun_Xuan@moe.edu.sg<br>Aisyah_Samat@moe.edu.sg<br>Ting_Pey_Chei_Jasavelle@moe.edu.sg |
+| 3 Empathy   |Mr Koh Ye Hong Kenneth<br>Mdm Tan Soh Leng <br>Ms Siti Sabarina Binte Jaini   | Koh_Ye_Hong_Kenneth@moe.edu.sg<br>tan_soh_leng@moe.edu.sg<br>Siti_Sabarina_Jaini@moe.edu.sg   |
+| 3 Faith  | Ms Yu KeXin<br>Ms Cheok Liying  | Yu_Kexin@moe.edu.sg <br>Cheok_Liying@moe.edu.sg  |
+| 3 Hope | Ms Poh Yun Xuan<br>Ms Ting Pey Chei Jasavelle  | Poh_Yun_Xuan@moe.edu.sg<br>Ting_Pey_Chei_Jasavelle@moe.edu.sg |
 | 3 Integrity  | Mr Betrand Sng Wen Wei<br>Ms Shivani Shanker<br> Mr Mohd Hafeez Bin Md Kassim    | Betrand_Sng_Wen_Wei@moe.edu.sg<br>shivani_shanker@moe.edu.sg<br> mohammed_hafeez_mohd_kassi@moe.edu.sg |
 | 3 Joy | Ms Sharmila D/O Balakrishnan<br>Ms Tan Yi Xiu  | Sharmila_Balakrishnan@moe.edu.sg<br>Yi_Xiu_Tan@moe.edu.sg |
 
