@@ -67,12 +67,12 @@ variant: markdown
 
 | Class | Name of Teacher | Email Address |
 |:---:|:---:|:---:|
-| 6 Courage  | Mdm Ng Li Ping<br>Ms Jennie Teo (Term 1)<br>Ms Fiona Koh Li Ping (Term 2 onwards)  | Ng_LI_PING_B@moe.edu.sg<br>nvps@moe.edu.sg<br>Fiona_Koh_Li_Ping@moe.edu.sg  |
+| 6 Courage  | Mdm Ng Li Ping<br>Ms Fiona Koh Li Ping | Ng_LI_PING_B@moe.edu.sg<br>Fiona_Koh_Li_Ping@moe.edu.sg  |
 |  6 Faith | Mr Sivasegaran S/O Seenivasan<br>Ms Siti Nor Amilin Binte Haji  | Sivasegaran_Seenivasan@moe.edu.sg<br>Siti_Nor_Amilin_Haji@moe.edu.sg  |
 | 6 Hope | Mr Teo Guan Te<br>Mdm Nor Shahila Bte Mohammed | Teo_Guan_Te@moe.edu.sg<br>nor_shahila_mohammed@moe.edu.sg |
 | 6 Integrity 1 | Mr Nurshahin Bin Sarry<br>Mdm Png Suat Kheng | Nurshahin_Sarry@moe.edu.sg<br>Png_Suat_Kheng@moe.edu.sg |
 | 6 Integrity 2 | Mr Su Tow Keong<br>Ms Nurul Huda Bte Baharom  | su_tow_keong@moe.edu.sg<br>Nurul_Huda_Baharom@moe.edu.sg |
-| 6 Joy | Ms Vikneshwari d/o Kunusegaran (Term 2 onwards)<br>Mdm Zheng Yue<br>Mr Koh Ye Hong Kenneth (Sem 1)<br>Mdm Lu Yueyue | Vikneshwari_Kunusegaran@moe.edu.sg<br><br>Zheng_Yue@moe.edu.sg<br> Koh_Ye_Hong_Kenneth@moe.edu.sg<br>nvps@moe.edu.sg|
+| 6 Joy | Ms Vikneshwari d/o Kunusegaran<br>Mdm Zheng Yue | Vikneshwari_Kunusegaran@moe.edu.sg&lt;<br>Zheng_Yue@moe.edu.sg<br>|
 
 ### **Non-Form Teachers**
 
