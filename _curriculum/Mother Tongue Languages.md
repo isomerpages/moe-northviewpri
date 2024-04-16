@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /curriculum/Mother-Tongue-Languages/
 description: ""
+variant: markdown
 ---
 #### **Department Overview**
 
@@ -36,14 +37,14 @@ ICT platforms such as SLS, iMTL portal and various ICT tools are used to ensure 
 
   
 
-**Enrichment & Experiential Learning Programmes**
+**Enrichment &amp; Experiential Learning Programmes**
 
 *   Mother Tongue Fortnight Programme
 *   P3 Language and Cultural Camp
 *   READ @NVPS
 *   Internal Competitions
-*   Speech and Drama for Primary 1 & Primary 2
-*   Show and Tell for Primary 1 & Primary 2
+*   Speech and Drama for Primary 1 &amp; Primary 2
+*   Show and Tell for Primary 1 &amp; Primary 2
 *   Story Telling Workshop for Primary 3 (CL)
 *   Poetry Recitation for Primary 3 (ML)
 *   Conversational Chinese / Malay Language Programme (CCM)
@@ -57,10 +58,10 @@ ICT platforms such as SLS, iMTL portal and various ICT tools are used to ensure 
 
   
 
-CL/ML/TL : [www.mtl.moe.edu.sg](http://www.mtl.moe.edu.sg/)
+CL/ML/TL :&nbsp;[https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/prxrPaOISgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/prxrPaOISgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe> <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvQorMHQX1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvQorMHQX1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe> <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0eFaQzBym3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0eFaQzBym3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
