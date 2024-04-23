@@ -23,4 +23,4 @@ Operation Support Officer 	| Mr Seah  	| seah_teck_seng@moe.edu.sg 	|
 | Lab Assistant 	| Mdm Sumi 	| suminam_sahid@moe.edu.sg 	|
 | Receptionist 	| Mdm Subaida 	| subaida_salim@moe.edu.sg 	|
 | Desktop Engineers 	| Mr Jun Hao <br> Mr Sham	| NA 	|
-| School Counsellors 	| Mrs Rama <br>	| vejaya_kumari_s_katamuthu@moe.edu.sg  	|
+| School Counsellors 	| Mrs Rama <br>	Thng Wei Kuen| vejaya_kumari_s_katamuthu@moe.edu.sg <br>thng_wei_kuen@schools.gov.sg 	|
