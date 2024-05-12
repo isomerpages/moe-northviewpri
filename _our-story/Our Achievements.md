@@ -8,7 +8,10 @@ variant: markdown
 
 | Department | Achievement | Participants |
 | -------- | -------- | -------- |
-|Chinese Dance | Singapore Youth Festival (SYF) Arts Presentation - Distinction |-|
+|Choir | Singapore Youth Festival (SYF) Arts Presentation - Certificate of Accomplishment |-|
+|Chinese Dance | Singapore Youth Festival (SYF) Arts Presentation - Certificate of Distinction |-|
+|International Dance | Singapore Youth Festival (SYF) Arts Presentation - Certificate of Accomplishment |-|
+|Malay Dance | Singapore Youth Festival (SYF) Arts Presentation - Certificate of Accomplishment |-|
 | Girls' Brigade     | Gold Company Award |-|
 | |Junior Brigade Brooch (JB)  |Teo Si Yi Alicia, 6J <br>  Claryss Chong Xin Yu, 6J <br> Goh Wen Fang Kylie, 6J | 
 Basketball | Singapore Premiere Youth Basketball League- Bronze medal |  Basketball Team (Girls)
