@@ -89,5 +89,42 @@ forge connections.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mathematics/WhatsApp_Image_2024_05_13_at_12_15_38.jpg">
 </div>
+<p>Problem-solving is not just about finding answers; it's about developing
+a systematic approach to tackle complex problems. One effective thinking
+routine is to encourage students to follow a structured process. The problem
+solving thinking tool in North View Primary School has been developed by
+our school teachers, with reference to George Polya’s<a href="https://www.youtube.com/watch?v=uCS7GO0fkc4" rel="noopener noreferrer nofollow" target="_blank">4 principles of problem solving (1945)</a> and
+‘BEST’ checklist (NIE, Dr Joseph Yeo). The purpose of the tool is not about
+the acronyms but the questions embedded that students need to ask themselves
+when attempting a problem sum.</p>
+<p>By practicing this problem-solving routine on a regular basis, students
+not only enhance their mathematical skills but also cultivate critical
+thinking, creativity, and resilience. Through regular application of this
+routine, students become adept problem solvers, equipped to tackle challenges
+across various domains of mathematics and beyond.</p>
+<p></p>
+<p></p>
 <h4><strong>Key programmes</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Play Pedagogy for lower Primary P1 and P2 (The use of “play” activities
+to introduce mathematics concepts to Lower Primary students)</p>
+</li>
+<li>
+<p>Escape Room learning packages for P3 and P4 (the use of gamification to
+sustain interest in mathematics learning)</p>
+</li>
+<li>
+<p>E2K Math for higher ability students (conducted by own school teachers
+after they have undergone training)</p>
+</li>
+<li>
+<p>Math Olympiad Training P4 and P5 for higher ability students (conducted
+by licensed external trainers)</p>
+</li>
+<li>
+<p>Problem Solving Worksheets (Infused with SPARK to develop metacognitive
+thinking)</p>
+</li>
+</ul>
 <p></p>
