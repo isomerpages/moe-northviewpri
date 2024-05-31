@@ -75,7 +75,8 @@ season.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Asvin Kaur, Ms Xing Dongmei</p>
+<p>Ms Asvin Kaur</p>
+<p>Ms Xing Dongmei</p>
 </td>
 </tr>
 </tbody>
