@@ -66,7 +66,8 @@ before self.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zheng Yue, Mdm Lu Yueyue</p>
+<p>Mdm Zheng Yue</p>
+<p>Mdm Lu Yueyue</p>
 </td>
 </tr>
 </tbody>
