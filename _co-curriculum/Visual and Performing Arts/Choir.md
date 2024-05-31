@@ -98,7 +98,8 @@ of Accomplishment</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rebecca Tay, Ms Jennie Teo</p>
+<p>Ms Rebecca Tay</p>
+<p>Ms Jennie Teo</p>
 </td>
 </tr>
 </tbody>
