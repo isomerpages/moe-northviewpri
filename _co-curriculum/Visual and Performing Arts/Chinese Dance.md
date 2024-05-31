@@ -65,7 +65,7 @@ Our members will present their best during every performance.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Kexin,\</p>
+<p>Ms Yu Kexin</p>
 <p>Ms Zhou Mingxin</p>
 </td>
 </tr>
