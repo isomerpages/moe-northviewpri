@@ -23,18 +23,31 @@ overseas coaches.</p>
 <p>All footballers must be in proper training attire, PE/CCA attire with
 school shorts, boots, socks and shin pads for all football trainings.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Mr Lim Joo Ghee (OIC)</p>
-</li>
-<li>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Overall teacher-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Joo Ghee </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Shah</p>
-</li>
-<li>
 <p>Mdm Karlpana</p>
-</li>
-<li>
 <p>Ms Tay Hui Shan, Yvonne</p>
-</li>
-</ol>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
