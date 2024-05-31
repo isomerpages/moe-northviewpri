@@ -77,7 +77,7 @@ potential</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Ngin Huay, Ms Fiona Koh Li Ping</p>
+<p>Mdm Ng Ngin Huay, Ms Fiona Koh Li Ping, Mr Amirul Haziq</p>
 </td>
 </tr>
 </tbody>
