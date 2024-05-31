@@ -74,23 +74,8 @@ service and accomplishment.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shivani, Mr Toh Yong Xiang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Shivani</p>
+<p>Mr Toh Yong Xiang</p>
 </td>
 </tr>
 </tbody>
