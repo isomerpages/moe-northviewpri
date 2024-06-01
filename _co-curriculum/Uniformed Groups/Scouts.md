@@ -14,7 +14,12 @@ hiking, camping and service to others. The highest level of achievement
 is the Akela Award which is awarded to Cubs who demonstrates leadership,
 service and accomplishment.</p>
 <h4><strong>Schedule</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -41,7 +46,11 @@ service and accomplishment.</p>
 </tbody>
 </table>
 <h4><strong>CCA Teachers</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,7 +65,8 @@ service and accomplishment.</p>
 <p>Overall teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siva</p>
+<p><strong>Ms Christina Wong</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,23 +74,8 @@ service and accomplishment.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Li Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Shivani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Toh Yong Xiang</p>
 </td>
 </tr>
 </tbody>

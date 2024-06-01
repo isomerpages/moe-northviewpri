@@ -15,7 +15,12 @@ before self.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curriculum/Girls'%20Brigade/photo_6269085942467899997_w.png">
 </div>
 <h4><strong>Schedule</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -42,7 +47,11 @@ before self.</p>
 </tbody>
 </table>
 <h4><strong>CCA Teachers</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,7 +66,8 @@ before self.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Asvin</p>
+<p>Mdm Zheng Yue</p>
+<p>Mdm Lu Yueyue</p>
 </td>
 </tr>
 </tbody>
