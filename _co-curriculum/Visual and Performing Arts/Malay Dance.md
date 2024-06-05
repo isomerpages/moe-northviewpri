@@ -74,7 +74,6 @@ Hari Raya Performances in 2020 and 2021 and Prize Giving Ceremony in 2021.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri Syazwani Bte Md Yazid</p>
 <p>Ms Siti Sabarina Binte Jaini</p>
-<p>Normah Binte Mohamed Nor</p>
 </td>
 </tr>
 </tbody>
