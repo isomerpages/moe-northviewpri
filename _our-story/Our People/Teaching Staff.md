@@ -628,7 +628,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ng_LI_PING_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_li_ping_b@moe.edu.sg</a> 
-<br><a href="mailto:Fiona_Koh_Li_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fiona_Koh_Li_Ping@moe.edu.sg</a> 
+<br><a href="mailto:Fiona_Koh_Li_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fiona_Koh_Li_Ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -656,7 +656,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Teo_Guan_Te@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Guan_Te@moe.edu.sg</a> 
-<br><a href="mailto:nor_shahila_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_shahila_mohammed@moe.edu.sg</a> 
+<br><a href="mailto:nor_shahila_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_shahila_mohammed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -670,7 +670,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nurshahin_Sarry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurshahin_Sarry@moe.edu.sg</a> 
-<br><a href="mailto:Png_Suat_Kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Png_Suat_Kheng@moe.edu.sg</a> 
+<br><a href="mailto:Png_Suat_Kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Png_Suat_Kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -684,7 +684,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:su_tow_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_tow_keong@moe.edu.sg</a> 
-<br><a href="mailto:Nurul_Huda_Baharom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_Huda_Baharom@moe.edu.sg</a> 
+<br><a href="mailto:Nurul_Huda_Baharom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_Huda_Baharom@moe.edu.sg</a>
 </p>
 </td>
 </tr>
