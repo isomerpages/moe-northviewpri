@@ -212,7 +212,7 @@ variant: tiptap
 <p><a href="mailto:vejaya_kumari_s_katamuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vejaya_kumari_s_katamuthu@moe.edu.sg</a> 
 <br>
 </p>
-<p><a href="mailto:thng_wei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_kuen@schools.gov.sg</a> 
+<p><a href="mailto:thng_wei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_kuen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
