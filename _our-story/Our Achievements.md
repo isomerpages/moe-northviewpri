@@ -8,6 +8,7 @@ variant: markdown
 
 | Department | Achievement | Participants |
 | -------- | -------- | -------- |
+|Scouts| Akela Award | Choo Hao Zhi, Ralston, 6H <br> Tedman Tay Wen Jun, 6F <br> Shabri Amrin Bin Sha'ari, 6I <br> Ryden Ong Yu Le, 6I <br> Soh Jia Yuan Carol, 6J |
 |Choir | Singapore Youth Festival (SYF) Arts Presentation - Certificate of Accomplishment |-|
 |Chinese Dance | Singapore Youth Festival (SYF) Arts Presentation - Certificate of Distinction |-|
 |International Dance | Singapore Youth Festival (SYF) Arts Presentation - Certificate of Accomplishment |-|
