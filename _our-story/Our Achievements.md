@@ -25,21 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Mathematical Olympiad of Singapore (NMOS) 2024
 <br>
-<br>Participation
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p>Honourable Mention
 <br>
 <br>
 <br>
@@ -48,32 +40,17 @@ variant: tiptap
 <br>
 </p>
 <p></p>
-<p>Bronze
-<br>
-</p>
-<p></p>
-<p>Silver
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alethea Tham Yu En,
-<br>Ashton Toh Yu Feng,
-<br>Mika Zuleika Binte Mohammed Zulhilmi,
-<br>Ng Jiun Khai,
-<br>Tan Dong Yun,
-<br>Lee Wen Hui Chariss,
-<br>Lin Xi'en Kaylee,
-<br>Ho Li Ying
-<br>
+<p><u>Honourable Mention</u>
 <br>Chua Xiao Yu Abigail,
 <br>Lau Jia Xu Kingston,
 <br>Manoharan Sanjana,
 <br>Tu Haoming,
 <br>Wang Juntong
-<br>
+<br><u>Bronze</u>
 <br>Kennice Yong Xi Cheng
-<br>
+<br><u>Silver</u>
 <br>Xu Yisen</p>
 </td>
 </tr>
@@ -84,26 +61,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>22nd Elementz Science Project Competition
 <br>
-<br>From Scrap to Salad at the Perfect Time (Participation)
-<br>
-<br>
 <br>Thinking Outside the Fridge - Preserving for a Fresher Future (Bronze
 award)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
-<p></p>
-<p>Hayes Toh, 5J
-<br>Janelle Wong, 5J
-<br>Manoharan Sanjana, 5J
-<br>Wang Juntong, 5J
-<br>Zac Ng, 5J
-<br>
-<br>
-<br>Alethea Tham, 5J
+<p>Alethea Tham, 5J
 <br>Ashton Toh, 5J
 <br>Chong Yu Ning, 5J
 <br>Md Mika Sharique, 5J
