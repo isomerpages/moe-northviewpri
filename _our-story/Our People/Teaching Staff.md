@@ -464,7 +464,7 @@ variant: tiptap
 <br>Mr Yap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
+<p><a href="mailto:nur_hana_sufiyah_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hana_sufiyah_osman@moe.edu.sg</a> 
 <br><a href="mailto:Yap_Kian_Hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_Kian_Hua@moe.edu.sg</a>
 </p>
 </td>
