@@ -36,6 +36,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Kiat Sing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_kiat_sing@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
