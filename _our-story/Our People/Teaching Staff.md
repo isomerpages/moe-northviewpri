@@ -214,7 +214,7 @@ variant: tiptap
 <br>Ms Jasmine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kartini_Mohamed_Yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kartini_Mohamed_Yusof@moe.edu.s</a>
+<p><a href="mailto:Kartini_Mohamed_Yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kartini_Mohamed_Yusof@moe.edu.sg</a>
 </p>
 <p><a href="mailto:Kartini_Mohamed_Yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_tan_soo_yee@moe.edu.sg</a>
 </p>
