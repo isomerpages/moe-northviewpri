@@ -214,8 +214,8 @@ variant: tiptap
 <br>Ms Jasmine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kartini_Mohamed_Yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kartini_Mohamed_Yusof@moe.edu.sg</a> 
-<br>Jasmine_Tan_Soo_Yee@moeedu.sg</p>
+<p><a href="mailto:Kartini_Mohamed_Yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kartini_Mohamed_Yusof@moe.edu.sgjasmine_tan_soo_yee@moe.edu.sg </a>
+</p>
 </td>
 </tr>
 <tr>
@@ -436,9 +436,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Darleana_Daut@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Darleana_Daut@moe.edu.sg</a> 
-<br>
-</p>
-<p><a href="mailto:Amirul_Haziq_Mohd_Ambran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Amirul_Haziq_Mohd_Ambran@moe.edu.sg</a>
+<br><a href="mailto:Amirul_Haziq_Mohd_Ambran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Amirul_Haziq_Mohd_Ambran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
