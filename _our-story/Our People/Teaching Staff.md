@@ -303,12 +303,12 @@ variant: tiptap
 <p>3 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Martha
+<p>Mr Chandran(Term 4)
 <br>Ms Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Martha_Gretchin_Morais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Martha_Gretchin_Morais@moe.edu.sg</a> 
-<br><a href="mailto:Rebecca_Anne_Tay_Kay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rebecca_Anne_Tay_Kay@moe.edu.sg</a> 
+<p></p>
+<p><a href="mailto:Rebecca_Anne_Tay_Kay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rebecca_Anne_Tay_Kay@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -326,7 +326,8 @@ variant: tiptap
 <p><a href="mailto:tan_soh_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soh_leng@moe.edu.sg</a> 
 <br><a href="mailto:Siti_Sabarina_Jaini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Sabarina_Jaini@moe.edu.sg</a>
 </p>
-<p>-</p>
+<p><a href="mailto:goh_siew_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siew_kee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
