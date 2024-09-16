@@ -47,6 +47,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Kiat Sing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_kiat_sing@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,6 +91,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruzaina Kusaini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ruzaina_kusaini@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,6 +131,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ahmad_zahir_saini@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Heikel Bin Maryani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_heikel_maryani@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +204,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Syafiyah</p>
+<p>Mr Mohamad Afif Bin Mohamad Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -225,6 +258,17 @@ variant: tiptap
 </p>
 <p><a href="mailto:thng_wei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_kuen@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Attendant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Diani Wahyuni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>daini_wahyuni@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
