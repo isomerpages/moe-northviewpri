@@ -25,6 +25,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Picture Book Competition 2024 [Bronze]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Erica Yeo, 6J
+<br>Tee Xu Heng, Vinny, 6J
+<br>Tan Lee Ting Melissa, 6F
+<br>Walter Ung Si Jie, 6J</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th National Text Recital Competition [Bronze]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Walter Ung Si Jie, 6J
+<br>Ho Li Ying, 5J</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Bilingual Creative Writing Competition 2024 [Distinction]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tu Haoming, 5J</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
