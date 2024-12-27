@@ -40,8 +40,6 @@ General Office.</p>
 <p>Contact Person: Mr Heikel (OM) / Mr Ahmad (OM)</p>
 </li>
 </ul>
-<p>More information may be found at our school website: (to input later when
-the microsite is available)</p>
 <p>&nbsp;</p>
 <p><strong><u>Application Closing Date</u></strong>
 </p>
