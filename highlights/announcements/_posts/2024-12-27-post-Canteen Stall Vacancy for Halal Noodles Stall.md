@@ -15,7 +15,7 @@ Term 2, 2025. If you know of anyone who is interested, please help us to
 forward this information.</p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
-<p>1. Complete the&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">application form</a> (as
+<p>1. Complete the&nbsp;<a href="https://drive.google.com/file/d/17Dlbg8SScRLCnwtwmMKyNPDL0AvGHHie/view?usp=sharing" rel="noopener nofollow" target="_blank">application form</a> (as
 attached). A hardcopy may also be requested at our School’s General Office.</p>
 <p>2. Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
