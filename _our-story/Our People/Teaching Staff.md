@@ -105,7 +105,10 @@ variant: tiptap
 <br>Ms Siti Nor Amilin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Goh_Li_Li_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Li_Li_A@schools.gov.sg</a>
+<br><a href="mailto:Siti_Nor_Amilin_Haji@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Nor_Amilin_Haji@schools.gov.sg</a>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,12 +116,13 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hong LiXuan
-<br>Mdm Xing</p>
+<p>Ms Karlpana G Selvaraj
+<br>Miss Auni Zafirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Hong_Li_Xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hong_Li_Xuan@moe.edu.sg</a> 
-<br><a href="mailto:xing_dongmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xing_dongmei@moe.edu.sg</a>
+<p><a href="mailto:Karlpana_G_Selvaraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Karlpana_G_Selvaraj@schools.gov.sg</a>
+<br><a href="mailto:Auni_Zafirah_Taufek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Auni_Zafirah_Taufek@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -127,14 +131,15 @@ variant: tiptap
 <p>1 Unity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Poi
-<br>Ms Chua
-<br>Mr Quek</p>
+<p>Ms Audrey Tan
+<br>Mdm See Bee Pang
+<br>Ms Nurul Huda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Poi_Mei_Ping_Sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Poi_Mei_Ping_Sharon@moe.edu.sg</a> 
-<br><a href="mailto:Chua_Pey_Wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Pey_Wen@moe.edu.sg</a> 
-<br><a href="mailto:Quek_Joon_Meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Quek_Joon_Meng@moe.edu.sg</a>
+<p><a href="mailto:Poi_Mei_Ping_Sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Mei_yun_audrey@schools.gov.sg</a>
+<br><a href="mailto:See_Bee_Pang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">See_Bee_Pang@schools.gov.sg</a>
+<br><a href="mailto:Nurul_Huda_Baharom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_Huda_Baharom@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
