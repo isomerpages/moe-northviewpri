@@ -29,12 +29,12 @@ variant: tiptap
 <p>1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Png
-<br>Ms Ng Mui Hiok</p>
+<p>Mdm Kartini
+<br>Ms Zhou Mingxin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:png_sok_cheng_chermaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">png_sok_cheng_chermaine@moe.edu.sg</a>
-<br><a href="mailto:ng_mui_hiok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mui_hiok@moe.edu.sg</a>
+<p><a href="mailto:Kartini_Mohamed_Yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kartini_Mohamed_Yusof@schools.gov.sg</a>
+<br><a href="mailto:Zhou_Mingxin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zhou_Mingxin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -43,12 +43,12 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zunaidah
-<br>Ms Karlpana</p>
+<p>Ms Darleana
+<br>Ms Wong Poh Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Zunaidah_Abdul_Rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zunaidah_Abdul_Rahman@moe.edu.sg</a>
-<br><a href="mailto:Karlpana_G_Selvaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Karlpana_G_Selvaraj@moe.edu.sg</a>
+<p><a href="mailto:Darleana_Daut@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Darleana_Daut@schools.gov.sg</a>
+<br><a href="mailto:Wong_Poh_Ling_Christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Poh_Ling_Christina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -57,14 +57,13 @@ variant: tiptap
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lu Yueyue
-<br>Mdm Sharini
-<br>Ms Jennie Teo</p>
+<p>Miss Nur Hana Sufiyah
+<br>Ms Chua Pey Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lu_Yueyue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lu_Yueyue@moe.edu.sg</a> 
-<br><a href="mailto:Sharini_Mohamed_Sahib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sharini_Mohamed_Sahib@moe.edu.sg</a>
-<a href="mailto:Jennie_Teo_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jennie_Teo_A@moe.edu.sg</a>
+<p><a href="mailto:Latha_Rama_Raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Hana_Sufiyah_Osman@schools.gov.sg</a>
+<br><a href="mailto:Chua_Pey_Wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Pey_Wen@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -73,12 +72,13 @@ variant: tiptap
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng
-<br>Mdm Nadirah</p>
+<p>Ms Latha d/o Rama Raj
+<br>Ms Tan Li Cheng Melissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_Ngin_Huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Ngin_Huay@moe.edu.sg</a> 
-<br><a href="mailto:Nadirah_Jani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nadirah_Jani@moe.edu.sg</a>
+<p><a href="mailto:Latha_Rama_Raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Latha_Rama_Raj@schools.gov.sg</a>
+<br><a href="mailto:Li_ChengA_Tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Li_ChengA_Tan@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -87,12 +87,12 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan
-<br>Ms Nazrah</p>
+<p>Ms Tan Tze Yan Sylvia
+<br>Mdm Kho Yen Ling Florence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Grace_Chan_Ho_Lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Grace_Chan_Ho_Lai@moe.edu.sg</a> 
-<br><a href="mailto:Nazrah_Mohamad_Latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nazrah_Mohamad_Latiff@moe.edu.sg</a>
+<p><a href="mailto:Tan_Tze_Yan_Sylvia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Tze_Yan_Sylvia@schools.gov.sg</a>
+<br><a href="mailto:Kho_Yen_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kho_Yen_Ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -101,13 +101,11 @@ variant: tiptap
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong
-<br>Mrs Wee</p>
+<p>Mdm Goh Li Li
+<br>Ms Siti Nor Amilin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wong_Poh_Ling_Christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Poh_Ling_Christina@moe.edu.sg</a>
-<br><a href="mailto:Chua_Li_Chian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Li_Chian@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
