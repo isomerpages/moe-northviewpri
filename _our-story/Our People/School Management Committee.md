@@ -214,6 +214,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD (CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_osman_rahmat_ali@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD (PE, CCA &amp; Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
