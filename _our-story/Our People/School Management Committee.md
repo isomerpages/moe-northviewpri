@@ -176,7 +176,7 @@ variant: tiptap
 <p>Mr Xie Jialun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xie_jialun@moe.edu.sg</p>
+<p>xie_jialun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ variant: tiptap
 <p>Ms Neo Khai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_khai_ling@moe.edu.sg</p>
+<p>neo_khai_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +264,7 @@ variant: tiptap
 <p>Ms Karen Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>karen_lim_wei_tze@moe.edu.sg</p>
+<p>karen_lim_wei_tze@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +275,7 @@ variant: tiptap
 <p>Ms Nor Shahila</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nor_shahila_mohammed@moe.edu.sg</p>
+<p>nor_shahila_mohammed@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +286,7 @@ variant: tiptap
 <p>Mr Roy Too</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>too_thiam_siew@moe.edu.sg</p>
+<p>too_thiam_siew@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -302,18 +302,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (SCI)-internal</p>
+<p>Subject Head (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ravel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>paraathi_pachimuthu_y@moe.edu.sg</p>
+<p>paraathi_pachimuthu_y@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (MATH) - internal</p>
+<p>Level Head (MATH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Karlpana</p>
@@ -324,13 +324,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (EL) - Internal</p>
+<p>Subject Head (Student Well-Being)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vikneshwari D/o Kunusegaran</p>
+<p>Ms Siti Nor Amilin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>vikneshwari_kunusegaran@moe.edu.sg</p>
+<p>siti_nor_amilin_haji@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
