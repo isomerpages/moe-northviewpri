@@ -49,6 +49,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice Principal (Acad)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Michelle Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ling_sook_leng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,10 +85,10 @@ variant: tiptap
 <p>Year Head (1-2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christina Hoon</p>
+<p>Mrs Cathrine Lam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hoon_christina@moe.edu.sg</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +115,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - internal</p>
+<p>Assistant Year Head (1-2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Latha d/o Rama Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>latha_rama_raj@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (3-4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yi Xiu</p>
@@ -115,13 +137,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head -internal</p>
+<p>Assistant Year Head (5-6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Su Tow Keong</p>
+<p>Mdm Png Suat Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>su_tow_keong@moe.edu.sg</p>
+<p>png_suat_kheng_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
