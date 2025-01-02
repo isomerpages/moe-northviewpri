@@ -77,7 +77,7 @@ variant: tiptap
 <p>Ms Tan Li Cheng Melissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_li_cheng_a@moe.edu.sg</p>
+<p>tan_li_cheng_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ variant: tiptap
 <p>Ms Ong Hui Ling Junice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_hui_ling_junice@moe.edu.sg</p>
+<p>ong_hui_ling_junice@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ variant: tiptap
 <p>Mdm Krishnaveni D/O Narayanasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>krishnaveni_narayanasamy@moe.edu.sg</p>
+<p>krishnaveni_narayanasamy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ variant: tiptap
 <p>Ms Tan Yi Xiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yi_xiu@moe.edu.sg</p>
+<p>tan_yi_xiu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -148,24 +148,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - internal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Png Suat Kheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>png_suat_kheng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nazrah Bte Mohd Latiff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nazrah_mohamad_latiff@moe.edu.sg</p>
+<p>nazrah_mohamad_latiff@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD (21CC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Pei Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_pei_fang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ variant: tiptap
 <p>Mdm Tan Soh Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_soh_leng@moe.edu.sg</p>
+<p>tan_soh_leng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -198,18 +198,29 @@ variant: tiptap
 <p>Mr Koh Ye Hong Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_ye_hong_kenneth@moe.edu.sg</p>
+<p>koh_ye_hong_kenneth@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Student Affairs)</p>
+<p>HOD (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sim Jia Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_jia_hong@moe.edu.sg</p>
+<p>sim_jia_hong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD (PE, CCA &amp; Aesthetics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jenny Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jenny_soh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -220,7 +231,7 @@ variant: tiptap
 <p>Mr Hafeez</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammed_hafeez_mohd_kassi@moe.edu.sg</p>
+<p>mohammed_hafeez_mohd_kassi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
