@@ -280,7 +280,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (ML &amp; TL)</p>
+<p>Level Head (SCI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Or Boon Chun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>or_boon_chun@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (MATH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Karlpana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>karlpana_g_selvaraj@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nor Shahila</p>
@@ -302,17 +324,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (SCI)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Or Boon Chun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>or_boon_chun@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -320,17 +331,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>paraathi_pachimuthu_y@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (MATH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Karlpana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>karlpana_g_selvaraj@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
