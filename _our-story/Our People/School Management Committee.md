@@ -181,6 +181,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD (SCI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ernest Lin Qinghua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lin_qinghua@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD (MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,7 +308,7 @@ variant: tiptap
 <p>Or Boon Chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>or_boon_chun@moe.edu.sg</p>
+<p>or_boon_chun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -319,7 +330,7 @@ variant: tiptap
 <p>Ms Karlpana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>karlpana_g_selvaraj@moe.edu.sg</p>
+<p>karlpana_g_selvaraj@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
