@@ -58,13 +58,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nur Hana Sufiyah
-<br>Ms Chua Pey Wen</p>
+<br>Ms Chua Pey Wen
+<br>Mr M L Thirukumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Latha_Rama_Raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Hana_Sufiyah_Osman@schools.gov.sg</a>
 <br><a href="mailto:Chua_Pey_Wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Pey_Wen@schools.gov.sg</a>
-<br>
-</p>
+<br>nvps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,8 @@ variant: tiptap
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Bhanu
+<br>Ms Jennie Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -195,7 +196,8 @@ variant: tiptap
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Noor Ashedah
+<br>Mdm Lu Yueyue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -206,7 +208,8 @@ variant: tiptap
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nadirah
+<br>Ms Ng Ngin Huay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -217,7 +220,8 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chan Ho Lai Grace
+<br>Mdm Wong Oi Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -228,7 +232,8 @@ variant: tiptap
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nazreen Parveen
+<br>Mrs Wee Li Chian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
