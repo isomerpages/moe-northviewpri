@@ -680,126 +680,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Non-Form Teachers</strong></h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name of Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teaching Subject</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Melissa Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Hui Ling Junice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Krishnaveni D/O Narayanasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kenneth Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sim Jia Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Seok Noi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lei Xuemei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Amirul Haque</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3></h3>
 <h3><strong>Special Education Needs Officers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -817,10 +698,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nurhayati Binte Tahar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nurhayati_Tahar_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -828,7 +709,7 @@ variant: tiptap
 <p>Ms Noraimye Binte Mohamad Yasin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noraimye_mohamad_yasin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraimye_mohamad_yasin@moe.edu.sg</a>
+<p><a href="mailto:noraimye_mohamad_yasin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraimye_mohamad_yasin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
