@@ -204,10 +204,10 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Afif Bin Mohamad Ishak</p>
+<p>Ms Fatin Insyirah Ang Jia Yi Binte Ramdan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>nvps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@ variant: tiptap
 <br>Mr Sham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>nvps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ variant: tiptap
 <br>Mr Valor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vejaya_kumari_s_katamuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vejaya_kumari_s_katamuthu@moe.edu.sg</a> 
+<p><a href="mailto:vejaya_kumari_s_katamuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vejaya_kumari_s_katamuthu@schools.gov.sg</a>
 <br>
 </p>
 <p><a href="mailto:thng_wei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_kuen@schools.gov.sg</a>
