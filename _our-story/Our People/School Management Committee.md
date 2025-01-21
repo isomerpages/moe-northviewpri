@@ -122,7 +122,8 @@ variant: tiptap
 <p>Mdm Krishnaveni D/O Narayanasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>krishnaveni_narayanasamy@schools.gov.sg</p>
+<p><a href="mailto:krishnaveni_narayanasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">krishnaveni_narayanasamy@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
