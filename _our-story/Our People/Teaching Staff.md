@@ -491,7 +491,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yi_Xiu_Tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yi_Xiu_Tan@schools.gov.sg</a>
+<p><a href="mailto:Yi_Xiu_Tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_xiu@schools.gov.sg </a>
 <br><a href="mailto:Sharmila_Balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sharmila_Balakrishnan@schools.gov.sg</a>
 </p>
 </td>
@@ -526,7 +526,7 @@ variant: tiptap
 <br>Mr Mohd Hafeez</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_LI_PING_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_LI_PING_B@schools.gov.sg</a>
+<p><a href="mailto:Ng_LI_PING_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_ping_b@schools.gov.sg</a>
 <br><a href="mailto:mohammed_hafeez_mohd_kassi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_hafeez_mohd_kassi@schools.gov.sg</a>
 </p>
 </td>
@@ -542,7 +542,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Phua_Mei_Ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Phua_Mei_Ru@schools.gov.sg</a>
-<br><a href="mailto:Usha_KRISHNASAMY@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Usha_KRISHNASAMY@schools.gov.sg</a>
+<br><a href="mailto:Usha_KRISHNASAMY@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Usha_krishnasamy@schools.gov.sg</a>
 <br><a href="mailto:Muhammad_Osman_Rahmat_Ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Osman_Rahmat_Ali@schools.gov.sg</a>
 </p>
 </td>
@@ -741,7 +741,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Kwee Fang Mrs Lam Chuan Kiet</p>
+<p>Mrs Catherine Lam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lam_Chuan_Kiet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lam_Chuan_Kiet@schools.gov.sg</a>
@@ -786,7 +786,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Too Thiam Siew Roy</p>
+<p>Mr Roy Too</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:too_thiam_siew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">too_thiam_siew@schools.gov.sg</a>
