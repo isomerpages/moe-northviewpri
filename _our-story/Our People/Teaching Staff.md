@@ -217,7 +217,7 @@ variant: tiptap
 <br>Ms Ng Ngin Huay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nadzirah_AZMAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadzirah_AZMAN@schools.gov.sg</a>
+<p><a href="mailto:Nadzirah_AZMAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadirah_Jani@schools.gov.sg</a>
 <br><a href="mailto:Ng_Ngin_Huay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Ngin_Huay@schools.gov.sg</a>
 </p>
 </td>
