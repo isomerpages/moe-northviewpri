@@ -64,7 +64,7 @@ Award</p>
 <p>Overall teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sivasegaran S/O Seenivasan</strong>
+<p><strong>Mr Nurshahin</strong>
 </p>
 </td>
 </tr>
@@ -73,8 +73,8 @@ Award</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Li Li
-<br>Mrs Sreelathaa Pillai (Mrs Prasad)</p>
+<p>Mrs Sreelathaa Pillai (Mrs Prasad)</p>
+<p>Mdm Goh Li Li</p>
 </td>
 </tr>
 </tbody>
