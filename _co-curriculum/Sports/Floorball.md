@@ -70,7 +70,7 @@ sportsmanship.</p>
 <p>Teachers in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hong Li Xuan (2IC)</p>
+<p>Ms Hong Li Xuan</p>
 <p>Ms Nurul Huda</p>
 <p>Miss Auni Zafirah</p>
 </td>
