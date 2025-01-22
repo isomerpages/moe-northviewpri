@@ -66,7 +66,7 @@ Our members will present their best during every performance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yu Kexin</p>
-<p>Ms Zhou Mingxin</p>
+<p>Ms Kim Liu Pai</p>
 </td>
 </tr>
 </tbody>
