@@ -61,7 +61,8 @@ sportsmanship.</p>
 <p>Overall teacher in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Kian Hua</p>
+<p><strong>Mr Yap Kian Hua</strong>
+</p>
 </td>
 </tr>
 <tr>
