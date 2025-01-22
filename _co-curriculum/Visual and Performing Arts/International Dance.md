@@ -60,8 +60,7 @@ appreciation, love and passion for dance confidence and poise.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tse Kan Ming
-<br>Mdm Dwi Idayuny Binte Jumadi</p>
+<p>Ms Tse Kan Ming</p>
 </td>
 </tr>
 </tbody>
