@@ -141,9 +141,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MOE%20Kindergarten/music%20room.png">
 </div>
+<p></p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4tHGIm9uIk8?si=wLYrnUPqFQHtMZi3"></iframe>
 </div>
+<p></p>
 <p><strong>MOE Kindergarten Brochures</strong>
 <br><a href="https://file.for.edu.sg/mk-brochure-english.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
 <br><a href="https://file.for.edu.sg/mk-brochure-chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a>
