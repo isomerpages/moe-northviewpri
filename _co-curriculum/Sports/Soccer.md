@@ -34,7 +34,7 @@ school shorts, boots, socks and shin pads for all football trainings.</p>
 <p>Overall teacher-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lim Joo Ghee </strong>
+<p><strong>Mr Lim Joo Ghee</strong>
 </p>
 </td>
 </tr>
@@ -43,9 +43,9 @@ school shorts, boots, socks and shin pads for all football trainings.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shah</p>
-<p>Mdm Karlpana</p>
-<p>Ms Tay Hui Shan, Yvonne</p>
+<p>Mr Sivasegaran</p>
+<p>Ms Bhanu</p>
+<p>Ms Tan Yi Xiu</p>
 </td>
 </tr>
 </tbody>
