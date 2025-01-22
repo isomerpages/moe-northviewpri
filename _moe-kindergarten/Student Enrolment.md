@@ -2,10 +2,32 @@
 title: Student Enrolment
 permalink: /moe-kindergarten/student-enrolment/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-* From 1st of February 2024, If you wish to enrol your child to MOE Kindergarten@North View, please submit a [Waitlist Application Form](https://form.gov.sg/65b6f0d73f3702432b9d08c2) by scanning or clicking the QR code below. Vacancies are subject to availability.
-* The school will contact you once a vacancy is available for your child.
-
-![MK Waiting Application Form](/images/MOE%20Kindergarten/mkwlf2024.png)
-[MK Waitlist Application Form Guide](/files/MOE%20Kindergarten/A2___MK_Waitlist_Application_Form_Guide.pdf)
+<h4><strong>2025 MK Registration Exercise</strong></h4>
+<p>The 2025 MK Registration Exercise is open to SC and PR children born between
+2 January 2021 and 1 January 2022, both dates inclusive.</p>
+<ul>
+<li>
+<p>Parents can register their child for admission to an MK via the MK website
+(<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/mk</u></a>),
+from 9am on 7 February 2025 to 4pm on 17 February 2025.</p>
+</li>
+<li>
+<p>Parents will be informed of the registration outcome by 15 April 2025.</p>
+</li>
+<li>
+<p>Outside this registration period, parents can seek admission to K1 or
+K2 for their child by contacting the MK directly to check if there are
+vacancies.</p>
+</li>
+</ul>
+<p>For more information on the 2025 MK Open House and Registration Exercise,
+please visit <a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/preschool/moe-kindergarten</u></a>.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="MK Waiting Application Form" src="/images/MOE%20Kindergarten/mkwlf2024.png">
+</div>
+<p><a href="/files/MOE%20Kindergarten/A2___MK_Waitlist_Application_Form_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application Form Guide</a>
+</p>
