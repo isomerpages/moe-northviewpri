@@ -96,7 +96,8 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nvps@moe.edu.sg</p>
+<p><a href="mailto:northview@edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_northview@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
