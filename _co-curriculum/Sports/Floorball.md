@@ -60,17 +60,18 @@ sportsmanship.</p>
 <th rowspan="1" colspan="1">
 <p>Overall teacher in-charge</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Mdm Siti Nor Amilin</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mr Yap Kian Hua</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Teachers in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Kian Hua</p>
-<p>Ms Hong Li Xuan</p>
+<p>Ms Hong Li Xuan (2IC)</p>
+<p>Ms Nurul Huda</p>
+<p>Miss Auni Zafirah</p>
 </td>
 </tr>
 </tbody>
