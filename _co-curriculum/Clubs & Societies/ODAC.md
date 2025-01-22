@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:40%;height:50%" height="auto" width="100%" src="/images/Co%20Curriculum/ODAC/ODAC%201.png">
 </div>
-<p><strong> Courtesy of Mr Koh Kim Chay</strong>
+<p><strong>Courtesy of Mr Koh Kim Chay</strong>
 </p>
 <p>ODAC aims to provide opportunities for students to realise and develop
 their self-identity and importance in the community. It facilitates a student’s
@@ -79,8 +79,8 @@ others.</p>
 <p>Teachers in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Poh Yun Xuan</p>
-<p>Ms Bhanu</p>
+<p>Ms Tay Hui Shan, Yvonne</p>
+<p>Mdm Jiang Hong</p>
 </td>
 </tr>
 </tbody>
