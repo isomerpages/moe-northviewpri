@@ -90,7 +90,7 @@ of Accomplishment</p>
 <p>Overall teacher-in-charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Leow Rui Qing</p>
+<p>Ms Tham Miaw Jeng</p>
 </th>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rebecca Tay</p>
-<p>Ms Jennie Teo</p>
+<p>Mr M L Thirukumaran</p>
 </td>
 </tr>
 </tbody>
