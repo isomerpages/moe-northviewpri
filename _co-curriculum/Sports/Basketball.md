@@ -74,7 +74,8 @@ characters.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Guan Te</p>
-<p>Ms Tan Yi Xiu</p>
+<p>Mr R Vasanthaan</p>
+<p>Ms Poh Yun Xuan</p>
 </td>
 </tr>
 </tbody>

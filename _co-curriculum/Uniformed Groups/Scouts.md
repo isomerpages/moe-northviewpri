@@ -75,7 +75,8 @@ service and accomplishment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shivani</p>
-<p>Mr Toh Yong Xiang</p>
+<p>Miss Nur Hana Sufiyah</p>
+<p>Ms Erica Foo Jin Min (Term 2)</p>
 </td>
 </tr>
 </tbody>
