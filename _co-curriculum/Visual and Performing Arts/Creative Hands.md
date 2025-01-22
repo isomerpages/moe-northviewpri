@@ -68,18 +68,18 @@ potential</p>
 <th rowspan="1" colspan="1">
 <p>Overall teacher-in-charge</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Mdm Tham Miaw Jeng</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Fiona Koh Li Ping</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Ngin Huay</p>
-<p>Ms Fiona Koh Li Ping</p>
-<p>Mr Amirul Haziq</p>
+<p>Ms Jennie Teo</p>
+<p>Mr Amirul Haque</p>
 </td>
 </tr>
 </tbody>
