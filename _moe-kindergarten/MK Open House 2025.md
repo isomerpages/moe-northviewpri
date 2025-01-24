@@ -25,6 +25,9 @@ registering their child. See you there!</p>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SPYzWRrAf38?si=W5JoTPblpOw4piGh"></iframe>
+</div>
 <h3></h3>
 <p></p>
 <h3>MK Curriculum Video</h3>
