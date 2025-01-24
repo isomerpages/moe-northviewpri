@@ -20,9 +20,7 @@ register for the Open House!</p>
 learning environments and facilities,as well as speak to our MK Educators.
 The MK Open House will allow parents to better understand our MK before
 registering their child. See you there!</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -45,17 +43,17 @@ registering their child. See you there!</p>
 </div>
 <h3></h3>
 <p></p>
-<h3>MK Curriculum Video</h3>
+<h4>MK Curriculum Video</h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/podTR7qDTZM?si=Odf72F_rgSAH-PXl"></iframe>
 </div>
 <h4></h4>
-<h3>A day at MOE Kindergarten</h3>
+<h4>A day at MOE Kindergarten</h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QXvV21a-TqE?si=Vp-NCq_gdTyu0N-M"></iframe>
 </div>
 <p></p>
-<h3>KCare @ North View</h3>
+<h4>KCare @ North View</h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s0PIcGGhBfg?si=qOA35tCMsWDKrHHy"></iframe>
 </div>
