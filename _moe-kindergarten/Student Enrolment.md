@@ -26,6 +26,10 @@ vacancies.</p>
 please visit <a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/preschool/moe-kindergarten</u></a>.
 <br>
 </p>
+<h4><strong>MK Enrollment for 2025 Intake</strong></h4>
+<p>Open to Singapore Citizen and Permanent Resident children age 5 and 6
+years old. If you are interested in enrolling your child to MK@ North View
+(for this year's intake), please scan the QR Code below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="MK Waiting Application Form" src="/images/MOE%20Kindergarten/mkwlf2024.png">
 </div>
