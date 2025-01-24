@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /moe-kindergarten/about-us/
+permalink: /moe-kindergarten-northview/
 description: ""
 variant: tiptap
 ---
