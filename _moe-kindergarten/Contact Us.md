@@ -31,7 +31,7 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mk_northview@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_northview@moe.edu.sg</a> 
+<p><a href="mailto:mk_northview@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_northview@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Bus Service:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>806, 807, 860 861</p>
+<p>806, 807, 860, 861</p>
 </td>
 </tr>
 <tr>
