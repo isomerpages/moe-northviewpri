@@ -39,22 +39,22 @@ registering their child. See you there!</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SPYzWRrAf38?si=W5JoTPblpOw4piGh"></iframe>
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SPYzWRrAf38?si=W5JoTPblpOw4piGh"></iframe>
 </div>
 <h3></h3>
 <p></p>
 <h4>MK Curriculum Video</h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/podTR7qDTZM?si=Odf72F_rgSAH-PXl"></iframe>
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/podTR7qDTZM?si=Odf72F_rgSAH-PXl"></iframe>
 </div>
 <h4></h4>
 <h4>A day at MOE Kindergarten</h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QXvV21a-TqE?si=Vp-NCq_gdTyu0N-M"></iframe>
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QXvV21a-TqE?si=Vp-NCq_gdTyu0N-M"></iframe>
 </div>
 <p></p>
 <h4>KCare @ North View</h4>
 <div class="iframe-wrapper">
-<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M7WJn9zhHao"></iframe>
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M7WJn9zhHao"></iframe>
 </div>
 <p></p>
