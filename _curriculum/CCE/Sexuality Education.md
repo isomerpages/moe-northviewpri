@@ -71,8 +71,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Sexual Education/P6_SE.png">
 </div>
-<p><strong><br></strong>
-</p>
+<p></p>
 <h3><strong>Information for Parents</strong></h3>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education lessons, and/or supplementary Sexuality Education
