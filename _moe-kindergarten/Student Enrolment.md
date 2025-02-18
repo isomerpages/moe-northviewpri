@@ -29,6 +29,6 @@ please visit <a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollo
 <h4><strong>MK Enrolment for 2025 Intake</strong></h4>
 <p>Open to Singapore Citizen and Permanent Resident children age 5 and 6
 years old. If you are interested in enrolling your child to MK@ North View
-(for this year's intake), please wait for further information.</p>
+(for this year's intake), please fill in this <a href="https://form.gov.sg/67b2ea2ae42750452f85bce7" rel="noopener nofollow" target="_blank">form</a>.</p>
 <p><a href="/files/MOE%20Kindergarten/A2___MK_Waitlist_Application_Form_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application Form Guide</a>
 </p>
