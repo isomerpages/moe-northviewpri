@@ -334,13 +334,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sim Jia Hong
-<br>Mr R Vasanthaan
 <br>Ms Kim Liu Pai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_jia_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_jia_hong@schools.gov.sg</a>
-<br><a href="mailto:R_Vasanthaan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">R_Vasanthaan@schools.gov.sg</a>
-<br><a href="mailto:nvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nvps@moe.edu.sg</a>
+<br><a href="liu_pai@schools.gov.sg" rel="noopener nofollow" target="_blank">liu_pai@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -350,13 +348,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tay Hui Shan, Yvonne
-<br>Mr Amirul Haque
 <br>Ms Erica Foo Jin Min (Term 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tay_Hui_Shan_Yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_Hui_Shan_Yvonne@schools.gov.sg</a>
-<br><a href="mailto:Amirul_Haque_Yahya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Amirul_Haque_Yahya@schools.gov.sg</a>
-<br><a href="mailto:nvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nvps@moe.edu.sg</a>
+<br><a href="erica_foo_jin_min@schools.gov.sg" rel="noopener nofollow" target="_blank">erica_foo_jin_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
