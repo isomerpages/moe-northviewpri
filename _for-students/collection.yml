@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - MIMS Self Reset Password.md
       - For Students.md
       - Home Based Learning.md
       - Student Learning Space (SLS).md
