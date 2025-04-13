@@ -11,4 +11,4 @@ variant: markdown
 *   [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 * [NVPS School Library](https://schoolibrary.moe.edu.sg/northviewpri/  )  
 *   [School e-Resource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
-*  [MIMS Password Self-Reset ](/files/Posters_MIMS_SSPR_Guide.pdf) 
+*  [MIMS Password Self-Reset ](/files/Posters_MIMS_SSPR_Guide.pdf)
