@@ -54,8 +54,6 @@ links:
         url: /for-students/Student-Learning-Space-SLS/
       - title: Student iCON
         url: /for-students/Student-iCON/
-      - title: Scholastic
-        url: https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/student/SGP5W4P
       - title: E-zhishi
         url: https://www.ezhishi.net/Contents/
       - title: My Skills Future
@@ -66,6 +64,8 @@ links:
         url: https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       - title: Educational Websites
         url: /for-students/educationalwebsites/
+      - title: MIMS Self Reset Password
+        url: /mims-self-reset-password/
   - title: Teachers
     url: /for-teachers/For-Teachers
     sublinks:
