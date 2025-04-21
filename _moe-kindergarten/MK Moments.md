@@ -1,5 +1,6 @@
 ---
-title: MK Events
+title: MK Moments
 permalink: /moe-kindergarten/events/
 description: ""
+variant: tiptap
 ---
