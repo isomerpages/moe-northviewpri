@@ -1,5 +1,5 @@
 ---
-title: April Highlights
+title: April Highlights 2025
 permalink: /april-highlights/
 date: 2025-05-02
 layout: post
@@ -13,6 +13,6 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Apr_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/April_2.jpg">
 </div>
 <p></p>

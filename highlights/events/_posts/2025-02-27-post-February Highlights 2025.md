@@ -1,5 +1,5 @@
 ---
-title: February Highlights
+title: February Highlights 2025
 permalink: /february-highlights/
 date: 2025-02-27
 layout: post
