@@ -45,7 +45,7 @@ school shorts, boots, socks and shin pads for all football trainings.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Sivasegaran</p>
 <p>Ms Bhanu</p>
-<p>Ms Tan Yi Xiu</p>
+<p>Ms Maryam Bte Moiz</p>
 </td>
 </tr>
 </tbody>
