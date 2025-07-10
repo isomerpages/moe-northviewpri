@@ -74,8 +74,8 @@ characters.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Guan Te (2IC)</p>
-<p>Mr R Vasanthaan</p>
 <p>Ms Poh Yun Xuan</p>
+<p>Ms. Farisha Amira Bte Faisal</p>
 </td>
 </tr>
 </tbody>
