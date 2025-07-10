@@ -73,7 +73,7 @@ characters.</p>
 <p>Teachers in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Guan Te</p>
+<p>Mr Teo Guan Te (2IC)</p>
 <p>Mr R Vasanthaan</p>
 <p>Ms Poh Yun Xuan</p>
 </td>
