@@ -56,8 +56,7 @@ Science begins in our Environmental Science Club!</p>
 <p>Overall teacher in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Darleana</strong>
-</p>
+<p>Ms Latha d/o Rama Raj</p>
 </td>
 </tr>
 <tr>
@@ -65,8 +64,9 @@ Science begins in our Environmental Science Club!</p>
 <p>Teachers in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Or Boon Chun (Term 1
-<br>Mrs Tan - Lim Lay Quan Jeslyn (Term 2)</p>
+<p>Ms. Lim Lay Teng</p>
+<p>Miss Siti Hajar
+<br>Mdm Faridah Banu d/o Raiuddin</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ Science begins in our Environmental Science Club!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Latha d/o Rama Raj</p>
+<p></p>
 </td>
 </tr>
 <tr>
