@@ -8,8 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
-</div>
+<blockquote>
+<p>Click on the image below to access the Virtual Open House:</p>
+</blockquote><a class="isomer-image-wrapper" href="https://www.thinglink.com/scene/1997122585095082661"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_11_153327.png"></a>
 <p></p>
