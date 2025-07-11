@@ -8,6 +8,14 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yk1gZjaaHf0?si=LIypz5GdvAdg9HT2"></iframe>
+</div>
+<p></p>
 <blockquote>
 <p>Click on the image below to access the Virtual Open House:</p>
 </blockquote><a class="isomer-image-wrapper" href="https://www.thinglink.com/scene/1997122585095082661"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_11_153327.png"></a>
