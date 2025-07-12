@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yk1gZjaaHf0?si=LIypz5GdvAdg9HT2"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GmpRyZP88zQ?si=suQzm93wZ0bWXRTn"></iframe>
 </div>
 <p></p>
 <blockquote>
