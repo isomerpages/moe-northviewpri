@@ -12,8 +12,8 @@ sections:
       title: Highlights
       button: View More
   - infopic:
-      title: NVPS Virtual Open House 2025
-      subtitle: Check it out!
+      title: Virtual Open House 2025
+      subtitle: find out more about nvps!
       id: infopic
       description: 14 July to 28 July 2025
       button: Click here
