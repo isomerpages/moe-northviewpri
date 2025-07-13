@@ -17,7 +17,7 @@ sections:
       id: infopic
       description: 14 July to 28 July 2025
       button: Click here
-      url: virtual-open-house-2025-14-july-to-28-july/
+      url: https://www.northviewpri.moe.edu.sg/virtual-open-house-2025-14-july-to-28-july/
       image: /images/2.jpg
       alt: Image alt text
 ---
