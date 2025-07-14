@@ -124,10 +124,8 @@ Mohamed Raqeeb, Jayden The and Avenia Derish</p>
 <p>Lensa Si Cilik - Gold Award (Top 5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aniq Adryan (5 Integrity)</p>
-<p>Arissa Shakira (5 Joy)</p>
-<p>Nur Tiara D'Melda (5 Courage)</p>
-<p>Muhammad Qalish Iman (5 Faith)</p>
+<p>Aniq Adryan (5I), Arissa Shakira (5J), Nur Tiara D'Melda (5C), Muhammad
+Qalish Iman (5F)</p>
 </td>
 </tr>
 </tbody>
