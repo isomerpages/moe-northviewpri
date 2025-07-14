@@ -26,13 +26,49 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Youth Festival 2025 Art. Category A. Exhibition Certificates
+of Recognition, and a few awarded 'Special Mention' status</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Category A (Primary 1 &amp; 2 students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games- Tier 2 Champions National School Games- 4th Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Senior Girls</p>
 <p></p>
+<p>Basketball Senior Boys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award - High Distinction (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG) - 1st Position in Poom 1 Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adelle Lee (5 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -40,10 +76,56 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>National School Games (NSG) - 1st Position in Blue 4 Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aden Fung (4 Joy)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>National School Games (NSG) - 2nd Position in Poom 1 Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adette Lee (4 Hope)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG) - Top 10 Position in Red 2 Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audrie Xie (5 Joy)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Scout's Award (Cub Scout) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stacey Teo, Megat Altamis Adel, Shakira Aliya, Nur Syazana, Kyara Lim,
+Mohamed Raqeeb, Jayden The and Avenia Derish</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lensa Si Cilik - Gold Award (Top 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aniq Adryan (5I), Arissa Shakira (5J), Nur Tiara D'Melda (5C), Muhammad
+Qalish Iman (5F)</p>
 </td>
 </tr>
 </tbody>
