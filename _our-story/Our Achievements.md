@@ -118,6 +118,17 @@ Mohamed Raqeeb, Jayden The and Avenia Derish</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
