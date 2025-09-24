@@ -139,6 +139,21 @@ Mohamed Raqeeb, Jayden The and Avenia Derish</p>
 Qalish Iman (5F)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th National Text Recital Competition (Preliminary Round)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Lower Primary (Individual)</u>
+<br>Silver: GAN HAO CHUN LAWSON (3I)
+<br>Bronze: ANGELIA NG (3I)</p>
+<p><u>Upper Primary(Individual</u>) Certificate of Participation : OU ZHIQING
+(5J) Certificate of Participation : YE XINTONG (5J)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>2024</strong></h3>
