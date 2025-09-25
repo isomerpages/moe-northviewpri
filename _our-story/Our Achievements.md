@@ -34,6 +34,13 @@ of Recognition, and a few awarded 'Special Mention' status</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Category A (Primary 1 &amp; 2 students)</p>
+<p>Hira Darina (P1 Integrity)</p>
+<p>Muhammad Rayyan Asfa (P1 Courage)</p>
+<p>Lai Qing Wu (P2 Empathy)</p>
+<p>Yuen Tong En (P2 Empathy)</p>
+<p>Choke Yean Lok Ellson (P2 Faith)</p>
+<p>Emma Minxi Sohrbeck (P2 Faith)</p>
+<p>Poh Yi Fei (P2 Faith)</p>
 </td>
 </tr>
 <tr>
@@ -41,23 +48,68 @@ of Recognition, and a few awarded 'Special Mention' status</p>
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games- Tier 2 Champions National School Games- 4th Place</p>
+<p>National School Games- Tier 2 Champions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Senior Girls</p>
-<p></p>
-<p>Basketball Senior Boys</p>
+<p>ELVY NUR ALVYN (P6 Courage)</p>
+<p>SERI NUR ISABELLA (P6 Courage)</p>
+<p>AURA NURMELISSA (P6 Courage)</p>
+<p>KUA JADYN (P6 Courage)</p>
+<p>CHONG YU NING (P6 Joy)</p>
+<p>LEE WEN HUI CHARISS (P6 Joy)</p>
+<p>WONG YEE TONG (P6 Joy)</p>
+<p>ADELLE LEE RONG EN (P6 Joy)</p>
+<p>AZELEA NUR DANISYA (P6 Empathy)</p>
+<p>NG KAI LING, KAALYN (P6 Hope)</p>
+<p>CHONG XUE QI, JASLYN (P6 Integrity)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys Brigade</p>
+<p>Track and Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JM Fraser Award - High Distinction (2024)</p>
+<p>1st Position Overall for National School Games Track and Field (Junior
+Girls 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Megan Goo (5J)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Position for National School Games (Junior Girls) Tier 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vivienne Yeo (5J)</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Position for National School Games (Junior Girls) Tier 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheah Zhong Han (5J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Position for National School Games (Junior Boys) Tier 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Hui Ying (4J)</p>
 </td>
 </tr>
 <tr>
@@ -106,14 +158,77 @@ of Recognition, and a few awarded 'Special Mention' status</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls' Brigade Company Gold award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls' Brigade GBFD award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls' Brigade Drill Competition award - Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Brigade Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIN XI EN 6 Joy</p>
+<p>ALIYAH BINTE MUHAMMAD MULYADI 6J</p>
+<p>ALYSSA BINTE MUHAMMAD MULYADI 6J</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award - High Distinction (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chief Scout's Award (Cub Scout) 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stacey Teo, Megat Altamis Adel, Shakira Aliya, Nur Syazana, Kyara Lim,
-Mohamed Raqeeb, Jayden The and Avenia Derish</p>
+<p>1. Nur Syazana Bibi (6E)</p>
+<p>2. Kyara Lim (6F)</p>
+<p>3. Megat Altamis Adel (6F)</p>
+<p>4. Mohamed Raqueeb (6F)</p>
+<p>5. Jayden Teh Zhijie (6H)</p>
+<p>6. Teo Xin Jie Stacy (6H)</p>
+<p>7. Shakira Aliyah (6I)</p>
+<p>8. Avenia Derish Yharainara Setyahadi (6J)</p>
 </td>
 </tr>
 <tr>
@@ -137,6 +252,48 @@ Mohamed Raqeeb, Jayden The and Avenia Derish</p>
 <td rowspan="1" colspan="1">
 <p>Aniq Adryan (5I), Arissa Shakira (5J), Nur Tiara D'Melda (5C), Muhammad
 Qalish Iman (5F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pidato (Public Speaking)- Top 10 Award Recipient</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHAIR ZAFRAN (5 Joy)</p>
+<p>NUR QAIREEN (6 Hope)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th National Text Recital Competition (Preliminary Round)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Lower Primary (Individual)</u>
+<br>Silver: GAN HAO CHUN LAWSON (3I)
+<br>Bronze: ANGELIA NG (3I)</p>
+<p><u>Upper Primary(Individual</u>) Certificate of Participation : OU ZHIQING
+(5J) Certificate of Participation : YE XINTONG (5J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth STEM Fair (SYSF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award cum Best Video Presentation Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG RYU HANK (5 Hope)</p>
+<p>EDITH NG SEE YUAN (5 Joy)</p>
+<p>OU ZHIQING (5 Joy)</p>
+<p>CHONG JIA EN, EDLYN (5 Joy)</p>
+<p>LEE ROU XUAN, JOYCE (5 Joy)</p>
 </td>
 </tr>
 </tbody>
