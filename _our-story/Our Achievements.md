@@ -29,7 +29,7 @@ variant: tiptap
 <p>Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2025 Category A. Certificate of Recognition.</p>
+<p>Singapore Youth Festival 2025 Category A Certificate of Recognition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hira Darina (P1 Integrity)</p>
@@ -46,21 +46,21 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games- Tier 2 Champions</p>
+<p>National School Games - Tier 2 Champions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Senior Girls</p>
-<p>ELVY NUR ALVYN (P6 Courage)</p>
-<p>SERI NUR ISABELLA (P6 Courage)</p>
-<p>AURA NURMELISSA (P6 Courage)</p>
-<p>KUA JADYN (P6 Courage)</p>
-<p>CHONG YU NING (P6 Joy)</p>
-<p>LEE WEN HUI CHARISS (P6 Joy)</p>
-<p>WONG YEE TONG (P6 Joy)</p>
-<p>ADELLE LEE RONG EN (P6 Joy)</p>
-<p>AZELEA NUR DANISYA (P6 Empathy)</p>
-<p>NG KAI LING, KAALYN (P6 Hope)</p>
-<p>CHONG XUE QI, JASLYN (P6 Integrity)</p>
+<p>Elvy Nur Alvyn (P6 Courage)</p>
+<p>Seri Nur Isabella (P6 Courage)</p>
+<p>Aura Nurmelissa (P6 Courage)</p>
+<p>Kua Jadyn(P6 Courage)</p>
+<p>Chong Yu Ning (P6 Joy)</p>
+<p>Lee Wen Hui (P6 Joy)</p>
+<p>Wong Yee Tong (P6 Joy)</p>
+<p>Adelle Lee (P6 Joy)</p>
+<p>Azelea Nur Danisya(P6 Empathy)</p>
+<p>Ng Kai Ling (P6 Hope)</p>
+<p>Chong Xue Qi (P6 Integrity)</p>
 </td>
 </tr>
 <tr>
