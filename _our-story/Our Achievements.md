@@ -29,11 +29,9 @@ variant: tiptap
 <p>Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2025 Art. Category A. Exhibition Certificates
-of Recognition, and a few awarded 'Special Mention' status</p>
+<p>Singapore Youth Festival 2025 Category A. Certificate of Recognition.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Category A (Primary 1 &amp; 2 students)</p>
 <p>Hira Darina (P1 Integrity)</p>
 <p>Muhammad Rayyan Asfa (P1 Courage)</p>
 <p>Lai Qing Wu (P2 Empathy)</p>
