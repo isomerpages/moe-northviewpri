@@ -222,7 +222,7 @@ Girls 2)</p>
 <p>Nur Syazana Bibi (6 Empathy)</p>
 <p>Kyara Lim (6 Faith)</p>
 <p>Megat Altamis Adel (6 Faith)</p>
-<p>Mohamed Raqueeb (6 Faith)</p>
+<p>Mohamed Raqeeb (6 Faith)</p>
 <p>Jayden Teh Zhijie (6 Hope)</p>
 <p>Teo Xin Jie Stacy (6 Hope)</p>
 <p>Shakira Aliyah (6 Integrity)</p>
@@ -250,7 +250,8 @@ Girls 2)</p>
 <td rowspan="1" colspan="1">
 <p>Aniq Adryan (5 Integrity)</p>
 <p>Arissa Shakira (5 Joy)</p>
-<p>Nur Tiara D'Melda (5 Courage) Muhammad Qalish Iman (5 Faith)</p>
+<p>Nur Tiara D'Melda (5 Courage)</p>
+<p>Muhammad Qalish Iman (5 Faith)</p>
 </td>
 </tr>
 <tr>
@@ -276,8 +277,8 @@ Girls 2)</p>
 <p><u>Lower Primary (Individual)</u>
 <br>Silver: Gan Hao Lawson (3 Integrity)
 <br>Bronze: Angelia Ng (3 Integrity)</p>
-<p><u>Upper Primary(Individual</u>) Certificate of Participation : Ou Zhiqing
-(5 Joy)</p>
+<p><u>Upper Primary(Individual</u>) Certificate of Participation :</p>
+<p>Ou Zhiqing (5 Joy)</p>
 <p>Ye Xintong (5Joy)</p>
 </td>
 </tr>
@@ -289,8 +290,7 @@ Girls 2)</p>
 <p>Distinction Award cum Best Video Presentation Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Ryu Hank</p>
-<p>(5 Hope)</p>
+<p>Wong Ryu Hank(5 Hope)</p>
 <p>Edith Ng See Yuan (5 Joy)</p>
 <p>Ou Zhiqing (5 Joy)</p>
 <p>Chong Jian En, Edlyn (5 Joy)</p>
