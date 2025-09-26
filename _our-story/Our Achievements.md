@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arts</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival 2025 Category A Certificate of Recognition</p>
@@ -195,9 +195,9 @@ Girls 2)</p>
 <p>Junior Brigade Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIN XI EN 6 Joy</p>
-<p>ALIYAH BINTE MUHAMMAD MULYADI 6J</p>
-<p>ALYSSA BINTE MUHAMMAD MULYADI 6J</p>
+<p>Lin Xi En 6 Joy</p>
+<p>Aliyah 6 Joy</p>
+<p>Alyssa 6 Joy</p>
 </td>
 </tr>
 <tr>
