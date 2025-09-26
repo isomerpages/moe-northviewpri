@@ -72,7 +72,7 @@ variant: tiptap
 Girls 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Megan Goo (5J)&nbsp;</p>
+<p>Megan Goo (P5 Joy)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ Girls 2)</p>
 <p>1st Position for National School Games (Junior Girls) Tier 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vivienne Yeo (5J)</p>
+<p>Vivienne Yeo (P5Joy)</p>
 <p></p>
 <p></p>
 </td>
@@ -96,7 +96,7 @@ Girls 2)</p>
 <p>1st Position for National School Games (Junior Girls) Tier 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cheah Zhong Han (5J)</p>
+<p>Cheah Zhong Han (P5Joy)</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ Girls 2)</p>
 <p>1st Position for National School Games (Junior Boys) Tier 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Hui Ying (4J)</p>
+<p>Ong Hui Ying (P4 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ Girls 2)</p>
 <p>National School Games (NSG) - 1st Position in Poom 1 Category</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adelle Lee (5 Joy)</p>
+<p>Adelle Lee (P5 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ Girls 2)</p>
 <p>National School Games (NSG) - 1st Position in Blue 4 Category</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aden Fung (4 Joy)</p>
+<p>Aden Fung (P4 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ Girls 2)</p>
 <p>National School Games (NSG) - 2nd Position in Poom 1 Category</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adette Lee (4 Hope)</p>
+<p>Adette Lee (P4 Hope)</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ Girls 2)</p>
 <p>National School Games (NSG) - Top 10 Position in Red 2 Category</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Audrie Xie (5 Joy)</p>
+<p>Audrie Xie (P5 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -195,9 +195,9 @@ Girls 2)</p>
 <p>Junior Brigade Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Xi En 6 Joy</p>
-<p>Aliyah 6 Joy</p>
-<p>Alyssa 6 Joy</p>
+<p>Lin Xi En (P6 Joy)</p>
+<p>Aliyah (P6 Joy)</p>
+<p>Alyssa (P6 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -219,14 +219,14 @@ Girls 2)</p>
 <p>Chief Scout's Award (Cub Scout) 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Nur Syazana Bibi (6E)</p>
-<p>2. Kyara Lim (6F)</p>
-<p>3. Megat Altamis Adel (6F)</p>
-<p>4. Mohamed Raqueeb (6F)</p>
-<p>5. Jayden Teh Zhijie (6H)</p>
-<p>6. Teo Xin Jie Stacy (6H)</p>
-<p>7. Shakira Aliyah (6I)</p>
-<p>8. Avenia Derish Yharainara Setyahadi (6J)</p>
+<p>Nur Syazana Bibi (6 Empathy)</p>
+<p>Kyara Lim (6 Faith)</p>
+<p>Megat Altamis Adel (6 Faith)</p>
+<p>Mohamed Raqueeb (6 Faith)</p>
+<p>Jayden Teh Zhijie (6 Hope)</p>
+<p>Teo Xin Jie Stacy (6 Hope)</p>
+<p>Shakira Aliyah (6 Integrity)</p>
+<p>Avenia Derish Yharainara Setyahadi (6 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -248,8 +248,9 @@ Girls 2)</p>
 <p>Lensa Si Cilik - Gold Award (Top 5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aniq Adryan (5I), Arissa Shakira (5J), Nur Tiara D'Melda (5C), Muhammad
-Qalish Iman (5F)</p>
+<p>Aniq Adryan (5 Integrity)</p>
+<p>Arissa Shakira (5 Joy)</p>
+<p>Nur Tiara D'Melda (5 Courage) Muhammad Qalish Iman (5 Faith)</p>
 </td>
 </tr>
 <tr>
@@ -260,8 +261,8 @@ Qalish Iman (5F)</p>
 <p>Pidato (Public Speaking)- Top 10 Award Recipient</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KHAIR ZAFRAN (5 Joy)</p>
-<p>NUR QAIREEN (6 Hope)</p>
+<p>Khair Zafran (5 Joy)</p>
+<p>Nur Qaireen (6 Hope)</p>
 </td>
 </tr>
 <tr>
@@ -273,10 +274,11 @@ Qalish Iman (5F)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Lower Primary (Individual)</u>
-<br>Silver: GAN HAO CHUN LAWSON (3I)
-<br>Bronze: ANGELIA NG (3I)</p>
-<p><u>Upper Primary(Individual</u>) Certificate of Participation : OU ZHIQING
-(5J) Certificate of Participation : YE XINTONG (5J)</p>
+<br>Silver: Gan Hao Lawson (3 Integrity)
+<br>Bronze: Angelia Ng (3 Integrity)</p>
+<p><u>Upper Primary(Individual</u>) Certificate of Participation : Ou Zhiqing
+(5 Joy)</p>
+<p>Ye Xintong (5Joy)</p>
 </td>
 </tr>
 <tr>
@@ -287,11 +289,12 @@ Qalish Iman (5F)</p>
 <p>Distinction Award cum Best Video Presentation Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WONG RYU HANK (5 Hope)</p>
-<p>EDITH NG SEE YUAN (5 Joy)</p>
-<p>OU ZHIQING (5 Joy)</p>
-<p>CHONG JIA EN, EDLYN (5 Joy)</p>
-<p>LEE ROU XUAN, JOYCE (5 Joy)</p>
+<p>Wong Ryu Hank</p>
+<p>(5 Hope)</p>
+<p>Edith Ng See Yuan (5 Joy)</p>
+<p>Ou Zhiqing (5 Joy)</p>
+<p>Chong Jian En, Edlyn (5 Joy)</p>
+<p>Lee Rou Xuan, Joyce (5 Joy)</p>
 </td>
 </tr>
 </tbody>
