@@ -279,7 +279,19 @@ Girls 2)</p>
 <br>Bronze: Angelia Ng (3 Integrity)</p>
 <p><u>Upper Primary(Individual</u>) Certificate of Participation :</p>
 <p>Ou Zhiqing (5 Joy)</p>
-<p>Ye Xintong (5Joy)</p>
+<p>Ye Xintong (5 Joy)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Bilingual Creative Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award:</p>
+<p>Tu Haoming (6 Joy)</p>
 </td>
 </tr>
 <tr>
