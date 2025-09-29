@@ -268,6 +268,18 @@ Girls 2)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poetry Recitation Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize:</p>
+<p>Husna Shavira (4 Faith) and Muhammad Qabil Rizqy (4 Integrity)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
