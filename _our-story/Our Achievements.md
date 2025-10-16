@@ -83,7 +83,7 @@ Girls 2)</p>
 <p>1st Position for National School Games (Junior Girls) Tier 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vivienne Yeo (P5Joy)</p>
+<p>Vivienne Yeo (P5 Joy)</p>
 <p></p>
 <p></p>
 </td>
@@ -96,7 +96,7 @@ Girls 2)</p>
 <p>1st Position for National School Games (Junior Boys) Tier 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cheah Zhong Han (P5Joy)</p>
+<p>Cheah Zhong Han (P5 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -219,14 +219,14 @@ Girls 2)</p>
 <p>Chief Scout's Award (Cub Scout) 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Syazana Bibi (6 Empathy)</p>
-<p>Kyara Lim (6 Faith)</p>
-<p>Megat Altamis Adel (6 Faith)</p>
-<p>Mohamed Raqeeb (6 Faith)</p>
-<p>Jayden Teh Zhijie (6 Hope)</p>
-<p>Teo Xin Jie Stacy (6 Hope)</p>
-<p>Shakira Aliyah (6 Integrity)</p>
-<p>Avenia Derish Yharainara Setyahadi (6 Joy)</p>
+<p>Nur Syazana Bibi (P6 Empathy)</p>
+<p>Kyara Lim (P6 Faith)</p>
+<p>Megat Altamis Adel (P6 Faith)</p>
+<p>Mohamed Raqeeb (P6 Faith)</p>
+<p>Jayden Teh Zhijie (P6 Hope)</p>
+<p>Teo Xin Jie Stacy (P6 Hope)</p>
+<p>Shakira Aliyah (P6 Integrity)</p>
+<p>Avenia Derish Yharainara Setyahadi (P6 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -242,16 +242,29 @@ Girls 2)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Infotech CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Micro:bit Hackathon Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NVPS Team 01 : 5th Position</strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lensa Si Cilik - Gold Award (Top 5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aniq Adryan (5 Integrity)</p>
-<p>Arissa Shakira (5 Joy)</p>
-<p>Nur Tiara D'Melda (5 Courage)</p>
-<p>Muhammad Qalish Iman (5 Faith)</p>
+<p>Aniq Adryan (P5 Integrity)</p>
+<p>Arissa Shakira (P5 Joy)</p>
+<p>Nur Tiara D'Melda (P5 Courage)</p>
+<p>Muhammad Qalish Iman (P5 Faith)</p>
 </td>
 </tr>
 <tr>
@@ -262,8 +275,8 @@ Girls 2)</p>
 <p>Pidato (Public Speaking)- Top 10 Award Recipient</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khair Zafran (5 Joy)</p>
-<p>Nur Qaireen (6 Hope)</p>
+<p>Khair Zafran (P5 Joy)</p>
+<p>Nur Qaireen (P6 Hope)</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +288,7 @@ Girls 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Consolation Prize:</p>
-<p>Husna Shavira (4 Faith) and Muhammad Qabil Rizqy (4 Integrity)</p>
+<p>Husna Shavira (P4 Faith) and Muhammad Qabil Rizqy (P4 Integrity)</p>
 </td>
 </tr>
 <tr>
@@ -287,11 +300,11 @@ Girls 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Lower Primary (Individual)</u>
-<br>Silver: Gan Hao Chun Lawson (3 Integrity)
-<br>Bronze: Angelia Ng (3 Integrity)</p>
+<br>Silver: Gan Hao Chun Lawson (P3 Integrity)
+<br>Bronze: Angelia Ng (P3 Integrity)</p>
 <p><u>Upper Primary(Individual</u>) Certificate of Participation :</p>
-<p>Ou Zhiqing (5 Joy)</p>
-<p>Ye Xintong (5 Joy)</p>
+<p>Ou Zhiqing (P5 Joy)</p>
+<p>Ye Xintong (P5 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -303,7 +316,7 @@ Girls 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Award:</p>
-<p>Tu Haoming (6 Joy)</p>
+<p>Tu Haoming (P6 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -314,11 +327,11 @@ Girls 2)</p>
 <p>Distinction Award cum Best Video Presentation Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Ryu Hank(5 Hope)</p>
-<p>Edith Ng See Yuan (5 Joy)</p>
-<p>Ou Zhiqing (5 Joy)</p>
-<p>Chong Jia En, Edlyn (5 Joy)</p>
-<p>Lee Rou Xuan, Joyce (5 Joy)</p>
+<p>Wong Ryu Hank(P5 Hope)</p>
+<p>Edith Ng See Yuan (P5 Joy)</p>
+<p>Ou Zhiqing (P5 Joy)</p>
+<p>Chong Jia En, Edlyn (P5 Joy)</p>
+<p>Lee Rou Xuan, Joyce (P5 Joy)</p>
 </td>
 </tr>
 </tbody>
@@ -421,7 +434,7 @@ Girls 2)</p>
 award)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alethea Tham, 5J
+<p>Alethea Tham, 5 Joy
 <br>Ashton Toh, 5J
 <br>Chong Yu Ning, 5J
 <br>Md Mika Sharique, 5J
