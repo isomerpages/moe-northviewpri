@@ -250,7 +250,25 @@ Girls 2)</p>
 <td rowspan="1" colspan="1">
 <p><strong>NVPS Team 01 : 5th Position</strong>
 </p>
-<p></p>
+<p>Lee Ming Yao, Elijah (P4 Faith)</p>
+<p>Muhammad Aidil Wu Xinrong (P4 Faith)</p>
+<p>Hiew Le Jun (P4 Faith)</p>
+<p><strong>NVPS Team 02 : Distinction Award</strong>
+</p>
+<p>Low Si Hui (P4 Faith)</p>
+<p>Ailani Fae Fernandez Tan (P6 Joy)</p>
+<p><strong>NVPS Team 03 : Merit Award</strong>
+</p>
+<p>Paw Jue Rui (P5 Hope)</p>
+<p>Ang Li Ren Aiden (P3 Joy)</p>
+<p><strong>NVPS Team 05 : 2<sup>nd</sup> Position (Runner Up)</strong>
+</p>
+<p>Goh Hong Rui Titus (P5 Joy)</p>
+<p>Khayrah Zulfah (P5 Empathy)</p>
+<p><strong>NVPS Team 06 : Distinction Award</strong>
+</p>
+<p>Kaung Si Thu (P5 Joy)</p>
+<p>Arnav Manoj Nalawade (P5 Hope)</p>
 </td>
 </tr>
 <tr>
