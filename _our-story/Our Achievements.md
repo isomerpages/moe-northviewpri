@@ -93,7 +93,7 @@ Girls 2)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st Position for National School Games (Junior Girls) Tier 4</p>
+<p>1st Position for National School Games (Junior Boys) Tier 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cheah Zhong Han (P5Joy)</p>
@@ -104,7 +104,7 @@ Girls 2)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st Position for National School Games (Junior Boys) Tier 4</p>
+<p>1st Position for National School Games (Junior Girls) Tier 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Hui Ying (P4 Joy)</p>
@@ -118,7 +118,7 @@ Girls 2)</p>
 <p>National School Games (NSG) - 1st Position in Poom 1 Category</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adelle Lee (P5 Joy)</p>
+<p>Adelle Lee (P6 Joy)</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ Girls 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Lower Primary (Individual)</u>
-<br>Silver: Gan Hao Lawson (3 Integrity)
+<br>Silver: Gan Hao Chun Lawson (3 Integrity)
 <br>Bronze: Angelia Ng (3 Integrity)</p>
 <p><u>Upper Primary(Individual</u>) Certificate of Participation :</p>
 <p>Ou Zhiqing (5 Joy)</p>
@@ -317,7 +317,7 @@ Girls 2)</p>
 <p>Wong Ryu Hank(5 Hope)</p>
 <p>Edith Ng See Yuan (5 Joy)</p>
 <p>Ou Zhiqing (5 Joy)</p>
-<p>Chong Jian En, Edlyn (5 Joy)</p>
+<p>Chong Jia En, Edlyn (5 Joy)</p>
 <p>Lee Rou Xuan, Joyce (5 Joy)</p>
 </td>
 </tr>
