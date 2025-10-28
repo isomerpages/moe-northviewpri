@@ -59,12 +59,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss Nur Hana Sufiyah
 <br>Ms Chua Pey Wen
-<br>Mr M L Thirukumaran</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Latha_Rama_Raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Hana_Sufiyah_Osman@schools.gov.sg</a>
 <br><a href="mailto:Chua_Pey_Wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Pey_Wen@schools.gov.sg</a>
-<br><a href="mailto:nvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nvps@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -74,11 +75,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Latha d/o Rama Raj
-<br>Ms Tan Li Cheng Melissa</p>
+<br>Mr M L Thirukumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Latha_Rama_Raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Latha_Rama_Raj@schools.gov.sg</a>
-<br><a href="mailto:Li_ChengA_Tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Li_Cheng_a@schools.gov.sg</a>
+<br><a href="mailto:m_l_thirukumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">m_l_thirukumaran@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -201,10 +202,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Noor Ashedah
 <br>Mdm Lu Yueyue</p>
+<p>Miss Maryam Binte Moiz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Noor_Ashedah_Sarbini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Noor_Ashedah_Sarbini@schools.gov.sg</a>
 <br><a href="mailto:Lu_Yueyue@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lu_Yueyue@schools.gov.sg</a>
+</p>
+<p><a href="mailto:maryam_moiz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maryam_moiz@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -215,10 +219,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nadirah
 <br>Ms Jennie Teo</p>
+<p>Mrs Suseela Kurup</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nadzirah_AZMAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadirah_Jani@schools.gov.sg</a>
 <br><a href="mailto:Jennie_Teo_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jennie_Teo_A@schools.gov.sg</a>
+</p>
+<p><a href="mailto:suseela_kurup@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suseela_kurup@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -258,10 +265,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Hong Li Xuan
 <br>Mdm Sri Syazwani</p>
+<p>Miss Farisha Amira Binte Faisal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Hong_Li_Xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hong_Li_Xuan@schools.gov.sg</a>
 <br><a href="mailto:sri_syazwani_mohd_yazid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sri_syazwani_mohd_yazid@schools.gov.sg</a>
+</p>
+<p><a href="mailto:farisha_amira_faisal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farisha_amira_faisal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -270,7 +280,7 @@ variant: tiptap
 <p>2 Unity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Prema Latha(Mrs Kumar)
+<p>Mdm Prema Latha (Mrs Kumar)
 <br>Ms Fiona Koh Li Ping</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,6 +335,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lin_Qinghua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lin_Qinghua@schools.gov.sg</a>
 </p>
+<p><a href="mailto:amaluna_mastura_azman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amaluna_mastura_azman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +359,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tay Hui Shan, Yvonne
-<br>Ms Erica Foo Jin Min (Term 2)</p>
+<br>Ms Erica Foo Jin Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tay_Hui_Shan_Yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_Hui_Shan_Yvonne@schools.gov.sg</a>
