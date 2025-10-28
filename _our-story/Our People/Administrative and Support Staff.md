@@ -168,6 +168,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nvps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Cheaw Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nvps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jordan Goh Kok Hiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nvps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
