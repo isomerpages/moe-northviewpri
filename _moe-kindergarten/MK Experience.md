@@ -14,55 +14,44 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MK AM Session</p>
+<p>Session</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>8am to 5pm</p>
+<p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Arrival: 7.50 am to 8.00 am
-<br>Dismissal: 11.50 am to 12.00 pm</p>
+<p>Description</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KCare for MK AM Session</p>
+<p>MK</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am to 8.00 am
-<br>12.00 pm to 7.00 pm</p>
+<p>8:00 am to 12:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please avoid the following time to send or pick
-<br>up your child from KCare respectively :
-<br>Arrival: 7.45 am
-<br>Dismissal: 4.45 pm to 5.10 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MK PM Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00 pm to 5.00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Arrival: 12.50 pm to 1.00 pm
-<br>Dismissal: 4.50 pm to 5.00 pm</p>
+<p><u>Arrival</u>
+<br>7.00 am to 8:00 am
+<br><u>Dismissal</u>
+<br>11:50 am to 12:00 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KCare for MK PM Session children</p>
+<p>KCare</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.00 am to 1.00 pm</p>
+<p>12:00 pm to 7:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please avoid the following time to send or pick
-<br>up your child from KCare respectively:
-<br>Arrival: 7.45 am to 8.10 am
-<br>Dismissal: 4.45 pm to 5.10 pm</p>
+<p>Please avoid the following time to send or pick your child from KCare
+respectively
+<br>
+<br><u>Arrival</u>
+<br>7:45 am
+<br><u>Dismissal</u>
+<br>11:50 am</p>
 </td>
 </tr>
 </tbody>
@@ -116,9 +105,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Programme_Sample_AM.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Programme_Sample_PM.jpg">
-</div>
 <h4><strong>Our Classroom</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MOE%20Kindergarten/classroom.jpeg">
