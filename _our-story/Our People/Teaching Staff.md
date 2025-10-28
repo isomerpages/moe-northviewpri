@@ -455,10 +455,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tham Miaw Jeng
 <br>Ms Nazrah</p>
+<p>Mdm Faridah Banu D/O Rafiuddin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Miaw_Jeng_Tham@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_miaw_jeng@schools.gov.sg</a>
 <br><a href="mailto:Nazrah_Mohamad_Latiff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nazrah_Mohamad_Latiff@schools.gov.sg</a>
+</p>
+<p><a href="mailto:faridah_banu_rafiuddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faridah_banu_rafiuddin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -545,13 +548,11 @@ variant: tiptap
 <p>5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Phua Mei Ru
-<br>Mdm Usha
+<p>Mdm Usha
 <br>Mr Muhammad Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Phua_Mei_Ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Phua_Mei_Ru@schools.gov.sg</a>
-<br><a href="mailto:Usha_KRISHNASAMY@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Usha_krishnasamy@schools.gov.sg</a>
+<p><a href="mailto:Usha_KRISHNASAMY@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Usha_krishnasamy@schools.gov.sg</a>
 <br><a href="mailto:Muhammad_Osman_Rahmat_Ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Osman_Rahmat_Ali@schools.gov.sg</a>
 </p>
 </td>
@@ -577,6 +578,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Sivasegaran
 <br>Mdm Nor Shahila</p>
+<p>Ms Wang Ao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Sivasegaran_Seenivasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sivasegaran_Seenivasan@schools.gov.sg</a>
@@ -681,11 +683,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan - Lim Lay Quan Jeslyn
-<br>Mr Or Boon Chun</p>
+<br>Ms Khairunnisa Bte Mohd Akip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lim_Lay_Quan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Lay_Quan@schools.gov.sg</a>
-<br><a href="mailto:Or_Boon_Chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Or_Boon_Chun@schools.gov.sg</a>
+<br><a href="mailto:khairunnisa_mohd_akip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisa_mohd_akip@schools.gov.sg</a>
 </p>
 </td>
 </tr>
