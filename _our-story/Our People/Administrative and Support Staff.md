@@ -47,17 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Kiat Sing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_kiat_sing@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,39 +138,6 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Valar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>valarmadi_elanko@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hajijah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hajijah_Yet@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Office</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Alice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_lee_chin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Seah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,10 +149,54 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Azizah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>azizah_hamzah@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Aisyah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_aisyah_chumali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nvps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Cheaw Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nvps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jordan Goh Kok Hiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nvps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -254,21 +254,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vejaya_kumari_s_katamuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vejaya_kumari_s_katamuthu@schools.gov.sg</a>
-<br>
 </p>
 <p><a href="mailto:thng_wei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_kuen@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Attendant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Diani Wahyuni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>daini_wahyuni@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
