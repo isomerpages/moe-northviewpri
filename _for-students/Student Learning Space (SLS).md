@@ -22,16 +22,7 @@ of technology.</p>
 browsers on either Windows PC, Mac, iPad or Android tablets (with screen
 size larger than 7 inches for good user experience). However, the system
 is currently not optimised for use on these devices.</p>
-<p>Getting Started</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Annex A: Read&nbsp;<a href="/files/For%20Students/Students-Instructions-and-FAQs-updated-15-March-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Students’ Instructions and FAQs</a>
-</p>
-</li>
-<li>
-<p>Annex B: Frequently Asked Questions (see below)</p>
-</li>
-</ol>
+<p></p>
 <p><strong>Q1 : I have forgotten my password. What should I do?</strong>
 </p>
 <p><strong>3 Ways to reset password.</strong>You may approach your child's
