@@ -16,46 +16,34 @@ Form Teacher Guidance Period (FTGP), CCE (MTL), Social Studies, Values-in-Action
 assemblies and school-wide programmes.</p>
 <p></p>
 <h3><strong>2. CCE Department Vision, Mission and Goals</strong></h3>
-<p>Vision: Nurturing values-driven Northviewans who care, think and act with
-Head, Heart and Hand.</p>
-<p>Mission: To strengthen the Head, Heart and Hand of every learner through
-intentional teaching and authentic experiences, nurturing Northviewans
-who care for others, think with discernment and act responsibly in a changing
-world.</p>
+<p><strong>Vision: </strong>Nurturing values-driven Northviewans who care,
+think and act with Head, Heart and Hand.</p>
+<p><strong>Mission:</strong> To strengthen the Head, Heart and Hand of every
+learner through intentional teaching and authentic experiences, nurturing
+Northviewans who care for others, think with discernment and act responsibly
+in a changing world.</p>
 <p><strong>Goals</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Cultivate Strong Character and Well-Being</strong>
+<p><strong>1.Cultivate Strong Character and Well-Being</strong>
 <br>Develop students’ empathy, resilience and social-emotional competencies
 so they can form healthy relationships, manage challenges confidently and
 grow into secure, values-driven individuals.</p>
-</li>
-<li>
-<p><strong>Nurture Caring and Inclusive Northviewans</strong>
+<p><strong>2.Nurture Caring and Inclusive Northviewans</strong>
 <br>Build a safe, respectful and inclusive school environment where every
 student feels valued, connected and supported, and where diversity is embraced
 as part of community strength.</p>
-</li>
-<li>
-<p><strong>Strengthen Critical Thinking and Moral Reasoning</strong>
+<p><strong>3.Strengthen Critical Thinking and Moral Reasoning</strong>
 <br>Equip students to think deeply, navigate complex dilemmas and make ethical
 decisions through authentic issues, guided discussions, perspective-taking
 and reflective practices.</p>
-</li>
-<li>
-<p><strong>Empower Student Voice, Leadership and Agency</strong>
+<p><strong>4.Empower Student Voice, Leadership and Agency</strong>
 <br>Provide meaningful opportunities for students to express their views,
 lead initiatives and take purposeful action that contributes positively
 to their class, school and wider community.</p>
-</li>
-<li>
-<p><strong>Develop Future-Ready and Responsible Citizens</strong>
+<p><strong>5.Develop Future-Ready and Responsible Citizens</strong>
 <br>Nurture informed, responsible and active citizens who appreciate Singapore’s
 heritage, uphold national values and contribute with commitment to shaping
 a better future for self, community and nation.</p>
-</li>
-</ol>
 <h3><strong>3. Our Approach: Head, Heart and Hand in Actio</strong></h3>
 <p>We use the Head–Heart–Hand lens to guide the design of CCE:</p>
 <ul data-tight="true" class="tight">
@@ -71,7 +59,7 @@ thinking</p>
 </li>
 </ul>
 <p>To bring this to life, we organise our work around <strong>intentional teaching, meaningful experiences and guided reflection</strong>:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Intentional Teaching</strong>
 </p>
@@ -135,7 +123,7 @@ thinking</p>
 </li>
 </ul>
 </li>
-</ol>
+</ul>
 <h4><strong>4. Key Focus Areas of CCE @ NVPS</strong></h4>
 <p><strong>a. Social-Emotional Learning and Well-Being</strong>
 </p>
