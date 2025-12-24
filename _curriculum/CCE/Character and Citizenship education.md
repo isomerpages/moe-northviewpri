@@ -197,8 +197,8 @@ school and beyond.</p>
 <p>At each stage, students have opportunities to <strong>care, think and act</strong> in
 ways that are developmentally appropriate and meaningful.</p>
 <h4><strong>6. Partnering Home and Community</strong></h4>
-<p>CCE is most effective when <strong>school, home and community work together</strong>.</p>
-<p>We partner parents and community organisations through:</p>
+<p>CCE is most effective when <strong>school, home and community work together</strong>.
+We partner parents and community organisations through:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Joint VIA projects</p>
@@ -211,8 +211,7 @@ ways that are developmentally appropriate and meaningful.</p>
 </li>
 <li>
 <p>Collaboration with community and social service agencies</p>
+<p>Together, we support every Northviewan to grow in character and citizenship.</p>
 </li>
 </ul>
-<p>
-<br>Together, we support every Northviewan to grow in character and citizenship.</p>
 <p></p>
