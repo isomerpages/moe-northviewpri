@@ -144,10 +144,10 @@ variant: tiptap
 <p>Assistant Year Head (3-4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yi Xiu</p>
+<p>Mdm Luna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yi_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_xiu@schools.gov.sg</a>
+<p><a href="mailto:amaluna_mastura_azman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amaluna_mastura_azman@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -319,6 +319,30 @@ variant: tiptap
 <p><a href="mailto:karen_lim_wei_tze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karen_lim_wei_tze@schools.gov.sg</a>
 </p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Khairunnisa Bte Mohd Akip&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khairunnisa_mohd_akip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisa_mohd_akip@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yi Xiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yi_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_xiu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
