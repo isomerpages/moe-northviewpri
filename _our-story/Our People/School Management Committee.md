@@ -43,10 +43,10 @@ variant: tiptap
 <p>Vice Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rajinder Singh Gill</p>
+<p>Ms Fatimah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rajinder_Singh_Piara_Singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rajinder_Singh_Piara_Singh@schools.gov.sg</a>
+<p><a href="mailto:nur_fatimah_frauder@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fatimah_frauder@schools.gov.sg</a>
 <br>
 </p>
 </td>
