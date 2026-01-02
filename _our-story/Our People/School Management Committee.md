@@ -43,10 +43,10 @@ variant: tiptap
 <p>Vice Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rajinder Singh Gill</p>
+<p>Ms Fatimah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rajinder_Singh_Piara_Singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rajinder_Singh_Piara_Singh@schools.gov.sg</a>
+<p><a href="mailto:nur_fatimah_frauder@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fatimah_frauder@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -144,10 +144,10 @@ variant: tiptap
 <p>Assistant Year Head (3-4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yi Xiu</p>
+<p>Mdm Luna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yi_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_xiu@schools.gov.sg</a>
+<p><a href="mailto:amaluna_mastura_azman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amaluna_mastura_azman@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -160,7 +160,7 @@ variant: tiptap
 <p>Mdm Png Suat Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:png_suat_kheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">png_suat_kheng_a@schools.gov.sg</a>
+<p><a href="mailto:png_suat_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">png_suat_kheng@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -319,6 +319,30 @@ variant: tiptap
 <p><a href="mailto:karen_lim_wei_tze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karen_lim_wei_tze@schools.gov.sg</a>
 </p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Khairunnisa Bte Mohd Akip&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khairunnisa_mohd_akip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisa_mohd_akip@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yi Xiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yi_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_xiu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -29,12 +29,13 @@ variant: tiptap
 <p>1 Courage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kartini
-<br>Ms Zhou Mingxin</p>
+<p>Ms Chan Ho Lai Grace</p>
+<p>Mr Amirul Haziq</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kartini_Mohamed_Yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kartini_Mohamed_Yusof@schools.gov.sg</a>
-<br><a href="mailto:Zhou_Mingxin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zhou_Mingxin@schools.gov.sg</a>
+<p><a href="mailto:Grace_Chan_Ho_Lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Grace_Chan_Ho_Lai@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:Amirul_Haziq_Mohd_Ambran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Amirul_Haziq_Mohd_Ambran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
