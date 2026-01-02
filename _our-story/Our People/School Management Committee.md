@@ -160,7 +160,7 @@ variant: tiptap
 <p>Mdm Png Suat Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:png_suat_kheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">png_suat_kheng_a@schools.gov.sg</a>
+<p><a href="mailto:png_suat_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">png_suat_kheng_a@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
