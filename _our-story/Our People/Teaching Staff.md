@@ -60,13 +60,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Yu Kexin
+<br>Mr Mohammed Hafeez
+<br>Ms Farisha Amira
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Latha_Rama_Raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Hana_Sufiyah_Osman@schools.gov.sg</a>
-<br><a href="mailto:Chua_Pey_Wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Pey_Wen@schools.gov.sg</a>
-<br>
+<p><a href="mailto:kexin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yu_kexin@schools.gov.sg</a>
+<br><a href="mailto:mohammed_hafeez_mohd_kassi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_hafeez_mohd_kassi@schools.gov.sg</a>
+<br><a href="mailto:farisha_amira_faisal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farisha_amira_faisal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -75,12 +77,13 @@ variant: tiptap
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Latha d/o Rama Raj
-<br>Mr M L Thirukumaran</p>
+<p>Ms Phua Mei Ru
+<br>Mdm Lu Yueyue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Latha_Rama_Raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Latha_Rama_Raj@schools.gov.sg</a>
-<br><a href="mailto:m_l_thirukumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">m_l_thirukumaran@schools.gov.sg</a>
+<p><a href="mailto:phua_mei_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_ru@schools.gov.sg</a>
+</p>
+<p><a href="mailto:lu_yueyue@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_yueyue@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -90,12 +93,14 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Tze Yan Sylvia
-<br>Mdm Kho Yen Ling Florence</p>
+<p>Ms Phua Mei Ru
+<br>Mdm Lu Yueyue
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Tze_Yan_Sylvia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Tze_Yan_Sylvia@schools.gov.sg</a>
-<br><a href="mailto:Kho_Yen_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kho_Yen_Ling@schools.gov.sg</a>
+<p><a href="mailto:phua_mei_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_ru@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -104,12 +109,13 @@ variant: tiptap
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Li Li
-<br>Ms Siti Nor Amilin</p>
+<p>Mrs Wee Li Chian
+<br>Mdm Khairunnisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_Li_Li_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Li_Li_A@schools.gov.sg</a>
-<br><a href="mailto:Siti_Nor_Amilin_Haji@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Nor_Amilin_Haji@schools.gov.sg</a>
+<p><a href="mailto:chua_li_chian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_chian@schools.gov.sg</a>
+<br>Khairunnisa_mohd_akip@schools.gov.sg
+<br>
 <br>
 </p>
 </td>
