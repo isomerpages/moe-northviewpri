@@ -815,15 +815,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Molawari Bin Abdul Jaffar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:molawari_abdul_jaffar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">molawari_abdul_jaffar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Amanda Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -833,11 +824,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Suseela M Kurup</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Suseela_Kurup@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suseela_Kurup@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
