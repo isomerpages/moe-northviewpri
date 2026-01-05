@@ -30,7 +30,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Lie Kian Grace (Mrs Chua)</p>
+<p>Mrs Grace Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Grace_Lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Grace_Lee@schools.gov.sg</a>
