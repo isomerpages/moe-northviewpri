@@ -30,7 +30,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Lie Kian Grace (Mrs Chua)</p>
+<p>Mrs Grace Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Grace_Lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Grace_Lee@schools.gov.sg</a>
@@ -43,11 +43,11 @@ variant: tiptap
 <p>Vice Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fatimah</p>
+<p>Mdm Michelle Ling</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fatimah_frauder@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fatimah_frauder@schools.gov.sg</a>
-<br>
+<p><a href="mailto:ling_sook_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_sook_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -56,10 +56,10 @@ variant: tiptap
 <p>Vice Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Ling</p>
+<p>Ms Nur Fatimah Frauder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ling_sook_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_sook_leng@schools.gov.sg</a>
+<p><a href="mailto:nur_fatimah_frauder@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fatimah_frauder@schools.gov.sg</a>
 <br>
 </p>
 </td>
