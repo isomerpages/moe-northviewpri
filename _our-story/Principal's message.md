@@ -2,28 +2,32 @@
 title: Principal's message
 permalink: /our-story/Our-People/Principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
-**Nurturing Passionate Learners, Cultivating Caring Leaders**
-
-It is with great pleasure and enthusiasm that I extend a warm welcome to all members of the North View family—students, parents, educators, and community partners. As we embark on another exciting academic year, it is essential to reflect on the core values and vision that define us as a school community.
-
-At North View Primary School, our vision is to nurture "Passionate Learners, Caring Leaders," a commitment that resonates deeply within our school community. As we collectively strive towards this vision, we are firmly anchored in our core values of Resilience, Respect, Responsibility, Integrity, and Graciousness (R³InG). These values serve as our guiding principles, shaping the character of our students and preparing them not only for the challenges of today but also for the opportunities and responsibilities that lie ahead in the future.
-
-Our commitment to the principle of "Student First, Staff is Key" underscores our dedication to holistic student development. We believe in fostering an environment where our students can thrive academically, socially, and emotionally. We also believe that an enabling learning environment is built on a foundation of quality teaching, and as such, we prioritize the cultivation of a robust teaching force. Our educators play a pivotal role in shaping the minds and character of our students, and we are devoted to providing them with the support and autonomy they need to excel in their roles.
-
-One of the cornerstones of our academic offerings is our Applied Learning Programme (ALP), **Sustainable Living Starts with Me**, aims to equip Northviewans with the knowledge and skills needed to address sustainability issues. Through this program, students will engage in critical thinking and leverage innovation skills, employing Design Thinking to provide solutions for sustainable living.
-
-Complementing the ALP is our Learning for Life Programme (LLP), **Confidence through Performing Arts**. This initiative exposes Northviewans to various genres of dance and musical instruments, fostering confidence and creativity through the performing arts.
-
-North View Primary School is not merely an institution; it is a vibrant community woven together by dedicated educators, supportive parents, and collaborative community partners. Together, we emphasize the significance of a positive school culture—one that nurtures growth, fosters learning, and celebrates achievements.
-
-As we embark on another academic year, let us continue to work hand in hand, ensuring that North View Primary School remains a place where passion for learning is ignited, caring leaders are cultivated, and a bright future is crafted.
-
-Thank you for being part of the North View family.
-
-Warm regards,
-
-Mrs Grace Chua
-Principal
+<p><strong>Inspire Growth. Empower Learning. Shape Tomorrow.</strong>
+</p>
+<p>North View Primary School is guided by our vision, <em>Inspire Growth, Empower Learning, Shape Tomorrow</em>,
+and our mission to nurture learner agency through meaningful and connected
+learning in a caring and enabling environment.</p>
+<p>At the heart of our work is a simple belief: learning is not only about
+what students know, but also about who they are becoming. We want our students
+to grow in knowledge and skills, and to develop the character and confidence
+to make good choices. At North View, we hope our Northviewans will grow
+into young people who care for others, think for themselves, and act responsibly.</p>
+<p>Our guiding principle, “Students First, Staff is Key,” shapes the way
+we lead and work. Every decision begins with what is best for our students,
+while recognising that our committed teachers and staff are at the heart
+of a good school. We believe in supporting our staff so that they can care
+for our students, guide their learning, and believe in their potential.</p>
+<p>Learning at North View is designed to be meaningful and coherent. Students
+are encouraged to take ownership of their learning, to try, reflect, and
+grow through challenges.</p>
+<p>Equally important is our commitment to partnership. Children thrive best
+when school and families work closely together. Together with our parents
+and partners, we create a supportive environment where students are encouraged
+to grow and to make a positive difference to those around them.</p>
+<p>As we look ahead, we remain committed to what matters most: to inspire
+our students to grow, to empower their learning, and to shape a future
+they can step into with confidence and heart.</p>
+<p>Warm regards,</p>
+<p>Mrs Grace Chua Principal</p>
