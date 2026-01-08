@@ -29,7 +29,7 @@ to grow and to make a positive difference to those around them.</p>
 <p>As we look ahead, we remain committed to what matters most: to inspire
 our students to grow, to empower their learning, and to shape a future
 they can step into with confidence and heart.</p>
-<p>Warm regards,</p>
+<p>Warm Regards,</p>
 <p>Mrs Grace Chua</p>
 <p>Principal</p>
 <p></p>
