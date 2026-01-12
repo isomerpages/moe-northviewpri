@@ -5,12 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Vision</strong></h2>
-<h3>Inspire Growth, Empower Learning, Shape Tomorrow</h3>
+<blockquote>
+<h4>Inspire Growth, Empower Learning, Shape Tomorrow</h4>
+</blockquote>
 <h2><strong>Mission</strong></h2>
-<h3>We nurture learner agency and deepen competencies through meaningful, coherent learning in a caring and enabling environment.</h3>
+<blockquote>
+<h4>We nurture learner agency and deepen competencies through meaningful, coherent learning in a caring and enabling environment.</h4>
+</blockquote>
 <p></p>
 <h2><strong>Values</strong></h2>
-<h3><strong>Functional</strong>: Responsibility, Resilience, Excellence&nbsp;</h3>
-<h3><strong>Relational</strong>: Respect, Care, Integrity&nbsp;</h3>
+<blockquote>
+<h4>Functional: Responsibility, Resilience, Excellence&nbsp;</h4>
+<h4>Relational: Respect, Care, Integrity&nbsp;</h4>
+</blockquote>
 <p></p>
-<p>Values</p>
+<p></p>
+<p></p>
