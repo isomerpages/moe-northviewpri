@@ -1,8 +1,23 @@
 ---
 title: Vision, mission, values
-permalink: /our-story/Our-People/Vision-mission-values
+permalink: /our-story/Our-People/Vision-mission-values/
 description: ""
+variant: tiptap
 ---
-<img style="width:50%;height:50%" src="/images/Our%20Story/Vision,Mission,Values/photo_6264724424653647882_y.png">
-
-![](/images/Our%20Story/Vision,Mission,Values/photo_6264724424653647883_w.png)
+<h2><strong>Vision</strong></h2>
+<blockquote>
+<h4>Inspire Growth, Empower Learning, Shape Tomorrow</h4>
+</blockquote>
+<h2><strong>Mission</strong></h2>
+<blockquote>
+<h4>We nurture learner agency and deepen competencies through meaningful, coherent learning in a caring and enabling environment.</h4>
+</blockquote>
+<p></p>
+<h2><strong>Values</strong></h2>
+<blockquote>
+<h4>Responsibility, Resilience, Excellence&nbsp;</h4>
+<h4>Respect, Care, Integrity&nbsp;</h4>
+</blockquote>
+<p></p>
+<p></p>
+<p></p>
