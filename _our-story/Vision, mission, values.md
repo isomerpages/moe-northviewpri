@@ -15,8 +15,8 @@ variant: tiptap
 <p></p>
 <h2><strong>Values</strong></h2>
 <blockquote>
-<h4>Functional: Responsibility, Resilience, Excellence&nbsp;</h4>
-<h4>Relational: Respect, Care, Integrity&nbsp;</h4>
+<h4>Responsibility, Resilience, Excellence&nbsp;</h4>
+<h4>Respect, Care, Integrity&nbsp;</h4>
 </blockquote>
 <p></p>
 <p></p>
