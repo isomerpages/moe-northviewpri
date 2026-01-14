@@ -438,7 +438,7 @@ variant: tiptap
 <br>Mr Lin Qinghua Ernest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nvps@moe.edu.sg</a>
+<p><a href="mailto:amaluna_mastura_azman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amaluna_mastura_azman@schools.gov.sg</a>
 <br><a href="mailto:Darleana_Daut@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Darleana_Daut@schools.gov.sg</a>
 <br><a href="mailto:Lin_Qinghua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lin_Qinghua@schools.gov.sg</a>
 <br>
@@ -854,7 +854,44 @@ variant: tiptap
 <p>Ms Rebecca Anne Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rebecca_anne_tay_kay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_anne_tay_kay@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ashley The Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ashley_the_hui_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ashley_the_hui_min@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Edel Chew Sijia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:edel_chew_sijia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">edel_chew_sijia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay En Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_en_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_en_hao@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Iffah Munawwarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Iffah_Munawwarah_Zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Iffah_Munawwarah_Zainal@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -868,10 +905,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lee Seok Noi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_seok_noi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seok_noi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
