@@ -72,7 +72,7 @@ sportsmanship.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Hong Li Xuan (2IC)</p>
 <p>Miss Auni Zafirah</p>
-<p>Miss Wang Ao</p>
+<p>Miss Siti Khadijah</p>
 </td>
 </tr>
 </tbody>

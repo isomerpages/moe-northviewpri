@@ -58,7 +58,7 @@ before self.</p>
 <p>Overall teacher-in-charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Png Suat Kheng</p>
+<p>Ms. Png Suat Kheng</p>
 </th>
 </tr>
 <tr>
@@ -66,8 +66,7 @@ before self.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lu Yueyue</p>
-<p>Mdm Goh Siew Kee</p>
+<p>Ms. Liu Pai (2IC)</p>
 </td>
 </tr>
 </tbody>

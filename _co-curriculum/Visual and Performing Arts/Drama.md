@@ -48,7 +48,7 @@ audience.</p>
 <p>Overall teacher-in-charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Sharmila D/O Balakrishnan</p>
+<p>Ms. Sharmila D/O Balakrishnan</p>
 </th>
 </tr>
 <tr>
@@ -56,8 +56,8 @@ audience.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zheng Yue</p>
 <p>Mdm Zunaidah</p>
+<p>Ms. Audrey Tan</p>
 </td>
 </tr>
 </tbody>

@@ -43,9 +43,9 @@ school shorts, boots, socks and shin pads for all football trainings.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Bhanu (2IC)</p>
 <p>Mr Sivasegaran</p>
-<p>Ms Bhanu</p>
-<p>Ms Maryam Bte Moiz</p>
+<p>Ms Nur Zakirah</p>
 </td>
 </tr>
 </tbody>
