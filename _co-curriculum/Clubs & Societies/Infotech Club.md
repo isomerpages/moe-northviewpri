@@ -73,8 +73,9 @@ Award</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sreelathaa Pillai (Mrs Prasad)</p>
-<p>Mdm Goh Li Li</p>
+<p>Ms. Norafidah (2IC)</p>
+<p>Ms. Zheng Yue</p>
+<p>Ms. Ma Shuang</p>
 </td>
 </tr>
 </tbody>
