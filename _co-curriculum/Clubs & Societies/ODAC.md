@@ -79,9 +79,9 @@ others.</p>
 <p>Teachers in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Hui Shan, Yvonne (2IC)</p>
+<p>Ms. Tay Hui Shan, Yvonne (2IC)</p>
 <p>Mdm Jiang Hong</p>
-<p>Ms Amanda</p>
+<p>Ms. Amanda</p>
 </td>
 </tr>
 </tbody>
