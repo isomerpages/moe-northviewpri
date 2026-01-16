@@ -74,9 +74,10 @@ service and accomplishment.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shivani</p>
-<p>Miss Nur Hana Sufiyah</p>
-<p>Ms Erica Foo Jin Min (Term 2)</p>
+<p>Ms. Erica Foo Jin Min (2IC)</p>
+<p>Ms. Shivani</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
