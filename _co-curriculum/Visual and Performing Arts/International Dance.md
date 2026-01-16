@@ -52,7 +52,7 @@ appreciation, love and passion for dance confidence and poise.</p>
 <p>Overall teacher-in-charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm See Bee Pang</p>
+<p>Mrs. Prasad</p>
 </th>
 </tr>
 <tr>
