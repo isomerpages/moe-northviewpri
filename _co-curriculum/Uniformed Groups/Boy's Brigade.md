@@ -67,7 +67,7 @@ season.</p>
 <p>Overall teacher-in-charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Su Tow Keong</p>
+<p>Mr. Su Tow Keong</p>
 </th>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ season.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Tan</p>
+<p>Ms. Chong Wen Ching</p>
 </td>
 </tr>
 </tbody>
