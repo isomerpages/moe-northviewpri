@@ -914,7 +914,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Special Education Needs Officers</strong></h3>
+<h3><strong>Counsellors &amp; Special Education Needs Officers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -923,11 +923,29 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name of Teacher</p>
+<p>Name of Counsellor/Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email Address</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Valor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thng_wei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_kuen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Rama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vejaya_kumari_s_katamuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vejaya_kumari_s_katamuthu@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
