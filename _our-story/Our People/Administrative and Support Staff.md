@@ -244,21 +244,6 @@ variant: tiptap
 <p>nvps@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Rama
-<br>Mr Valor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vejaya_kumari_s_katamuthu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vejaya_kumari_s_katamuthu@schools.gov.sg</a>
-</p>
-<p><a href="mailto:thng_wei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_kuen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
