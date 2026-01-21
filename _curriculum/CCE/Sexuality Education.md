@@ -252,14 +252,11 @@ Education programmes by MOE-approved external providers.</p>
 <p></p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <a href="https://form.gov.sg/6969946780c908cb6a7d94f7" rel="noopener nofollow" target="_blank">here</a> please upload
-parents opt-out form found in <strong>Annex</strong>  <strong>A</strong> and
-insert a hyperlink for parents to access the form). The completed opt-out
-form is to be submitted by 30/01/2026.</p>
+an <a href="https://form.gov.sg/6969946780c908cb6a7d94f7" rel="noopener nofollow" target="_blank">opt-out form</a> on
+Parents Gateway by 30/01/2026.</p>
 <p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="https://www.northviewpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">here</a>for discussion or to seek clarification about the school’s Sexuality
+<a href="https://www.northviewpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">here</a>or discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
 <p></p>
 <p></p>
