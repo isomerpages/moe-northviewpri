@@ -39,9 +39,8 @@ and
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p></p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
-insert hyperlink: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
-for more information on MOE Sexuality Education.<strong><br></strong>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.<strong><br></strong>
 </p>
 <h4><strong>Overview of North View Primary School’s Sexuality Education Programme for 2026</strong></h4>
 <p></p>
@@ -254,14 +253,13 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u> (<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6969946780c908cb6a7d94f7</a> please
-upload parents opt-out form found in <strong>Annex</strong>  <strong>A</strong> and
+of the year and is also available <a href="https://form.gov.sg/6969946780c908cb6a7d94f7" rel="noopener nofollow" target="_blank">here</a> please upload
+parents opt-out form found in <strong>Annex</strong>  <strong>A</strong> and
 insert a hyperlink for parents to access the form). The completed opt-out
 form is to be submitted by 30/01/2026.</p>
 <p></p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at (insert
-link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.northviewpri.moe.edu.sg/contact-us/</a>)
-for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
+<a href="https://www.northviewpri.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">here</a>for discussion or to seek clarification about the school’s Sexuality
+Education programme.</p>
 <p></p>
 <p></p>
