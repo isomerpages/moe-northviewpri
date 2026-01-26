@@ -670,11 +670,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norafidah
-<br>Mr Farisha</p>
+<br>Mr Faizal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Norafidah_Othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Norafidah_Othman@schools.gov.sg</a>
-<br><a href="mailto:Farisha_Amira_Faisal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Farisha_Amira_Faisal@schools.gov.sg</a>
+<br><a href="mailto:Farisha_Amira_Faisal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_faisal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
