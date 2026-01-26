@@ -670,7 +670,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norafidah
-<br>Mr Faizal</p>
+<br>Mr Faisal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Norafidah_Othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Norafidah_Othman@schools.gov.sg</a>
