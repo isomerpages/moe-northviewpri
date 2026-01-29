@@ -83,8 +83,7 @@ to ensure that the learning of MTL is interactive, connected and engaging.</p>
 <p>Mother Tongue Support Programme</p>
 </li>
 <li>
-<p>MTL Soar Reading Programme - Click <a href="https://www.northviewpri.moe.edu.sg/soar-reading-programme/" rel="noopener nofollow" target="_blank">here</a> to
-access the Parents' Guides.</p>
+<p>MTL Soar Reading Programme - Click <a href="/soar-reading-programme/" rel="noopener nofollow" target="_blank">here</a> to access the Parents' Guides.</p>
 </li>
 </ul>
 <p><strong>Useful Website</strong>
