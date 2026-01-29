@@ -25,6 +25,10 @@ Learning Experiences and various MTL Enrichment Programmes are to promote
 the Joy of Learning in MTL and inject authentic experiences for our students.</p>
 <p>ICT platforms such as SLS, iMTL portal and various ICT tools are used
 to ensure that the learning of MTL is interactive, connected and engaging.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CL framework" src="/images/Curriculum/MTL/CL_framework.png">
+</div>
 <h4><strong>Key programmes</strong></h4>
 <p><strong>Festive Celebration and Enrichment Programmes</strong>
 </p>
@@ -83,18 +87,18 @@ to ensure that the learning of MTL is interactive, connected and engaging.</p>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NeCX1XFmF5I?si=uPSYbGrP7vPIjYpO"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NeCX1XFmF5I?si=uPSYbGrP7vPIjYpO"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZvQorMHQX1U"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZvQorMHQX1U"></iframe>
 </div>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0eFaQzBym3c"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0eFaQzBym3c"></iframe>
 </div>
 <p></p>
