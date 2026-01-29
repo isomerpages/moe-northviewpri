@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - SOAR Reading Programme/Mother Tongue Languages.md
       - SOAR Reading Programme/.keep
       - English Language.md
       - Mathematics.md
