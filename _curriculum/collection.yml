@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - MTL Soar Reading Programme.md
       - English Language.md
       - Mathematics.md
       - Science.md
