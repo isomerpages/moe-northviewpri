@@ -82,6 +82,9 @@ to ensure that the learning of MTL is interactive, connected and engaging.</p>
 <li>
 <p>Mother Tongue Support Programme</p>
 </li>
+<li>
+<p>MTL Soar Reading Programme - Click here to access the Parents' Guides.</p>
+</li>
 </ul>
 <p><strong>Useful Website</strong>
 </p>
