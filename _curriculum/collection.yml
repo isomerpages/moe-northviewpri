@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue Languages.md
       - English Language.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue Languages.md
       - Aesthetics (Arts Music).md
       - Information Communication Technology (ICT).md
       - Physical Education.md
