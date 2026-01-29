@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mother Tongue Languages.md
-      - SOAR Reading Programme/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
