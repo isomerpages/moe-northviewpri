@@ -7,7 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Coming_soon.png">
-</div>
-<p></p>
+<p>Click <a href="https://drive.google.com/drive/folders/1gN1jMwBE93T27Wg2ZpfeAM3OMb36WHRE?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+access the slides for the Term 1 Meet-The-Parents session.</p>
