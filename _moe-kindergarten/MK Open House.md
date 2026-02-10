@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p><strong>Coming soon, please stay tuned!</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="About MK@Hougang" src="https://www.westspringpri.moe.edu.sg/images/MK/2023%20Reading.png">
-</div>
+<p>MOE Kindergarten @ North View warmly invites parents and children to our
+Open House! Discover our nurturing learning environment, explore our classrooms,
+and learn more about our MOE kindergarten curriculum and programmes. Meet
+our educators and see how we support every child’s joyful learning and
+holistic development.</p>
 <p></p>
