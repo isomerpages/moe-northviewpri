@@ -4,7 +4,18 @@ permalink: /moe-kindergarten/experience/
 description: ""
 variant: tiptap
 ---
-<h3></h3>
+<p></p>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/A7w8lvRv4u4?si=_tcD4H0m9wUgzA0K"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/Sample_Timetable.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
@@ -42,7 +53,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>MOE Kindergarten Brochures</strong>
 <br><a href="https://file.for.edu.sg/mk-brochure-english.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
