@@ -8,6 +8,6 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_NW_Team.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/Our_MK_NW_Team.png">
 </div>
 <p></p>
