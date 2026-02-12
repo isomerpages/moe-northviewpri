@@ -5,7 +5,17 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/Programme_Hours.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/Sample_Timetable.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/SNACK_Menu.png">
+</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/A7w8lvRv4u4?si=_tcD4H0m9wUgzA0K"></iframe>
@@ -13,9 +23,6 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/Sample_Timetable.png">
-</div>
 <p></p>
 <p></p>
 <p></p>
