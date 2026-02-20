@@ -32,7 +32,7 @@ to login, and then he/she will be prompted to change his/her password.</p>
 <p>Ms Nazrah:&nbsp;<a href="mailto:nazrah_mohamad_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrah_mohamad_latiff@moe.edu.sg</a>&nbsp;/
 6833 4902 or</p>
 <p>Mr Edward:&nbsp;<a href="mailto:tan_full_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_full_chang@moe.edu.sg</a>&nbsp;/
-6833 4995 a) Reset via email (if you have entered your e-mail in 'My Profile'
+6833 4977 a) Reset via email (if you have entered your e-mail in 'My Profile'
 to reset password). If you cannot see the email in your inbox, it may be
 in the spam or junk email folder. b) Reset via answering security questions
 (if you have entered your security question answers in 'My Profile' c)
