@@ -52,7 +52,7 @@ that you are the legitimate account holder. Alternatively, you may approach
 the school’s SLS administrators, Ms Nazrah or Mr Edward to unlock your
 accounts. Ms Nazrah:&nbsp;<a href="mailto:nazrah_mohamad_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrah_mohamad_latiff@moe.edu.sg</a>&nbsp;/
 6833 4902 or Mr Edward:&nbsp;<a href="mailto:tan_full_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_full_chang@moe.edu.sg</a>&nbsp;/
-6833 4995</p>
+6833 4977</p>
 <p><strong>SLS Helpdesk<em>Tel: (65) 6702 6513Operating Hours</em></strong>Mondays
 ― Fridays: 4 am ― 9:00 pm Saturdays: 9:00 am ― 9:00 pm *Closed on Sundays
 &amp; Public Holidays</p>
