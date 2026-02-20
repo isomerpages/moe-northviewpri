@@ -53,9 +53,12 @@ the school’s SLS administrators, Ms Nazrah or Mr Edward to unlock your
 accounts. Ms Nazrah:&nbsp;<a href="mailto:nazrah_mohamad_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrah_mohamad_latiff@moe.edu.sg</a>&nbsp;/
 6833 4902 or Mr Edward:&nbsp;<a href="mailto:tan_full_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_full_chang@moe.edu.sg</a>&nbsp;/
 6833 4977</p>
-<p><strong>SLS Helpdesk<em>Tel: (65) 6702 6513Operating Hours</em></strong>Mondays
-― Fridays: 4 am ― 9:00 pm Saturdays: 9:00 am ― 9:00 pm *Closed on Sundays
-&amp; Public Holidays</p>
+<p><strong>SLS Helpdesk<em>Tel: (65) 6702 6513</em></strong>
+</p>
+<p><strong><em>Operating Hours</em></strong>
+</p>
+<p>Mondays ― Fridays: 4 am ― 9:00 pm Saturdays: 9:00 am ― 9:00 pm *Closed
+on Sundays &amp; Public Holidays</p>
 <p><strong>Q4 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?</strong>If
 you cannot see the email in your inbox, it may be in the spam or junk email
 folder. <em>Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select “Forgot Password” to try again.</em>
