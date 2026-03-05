@@ -8,3 +8,4 @@ variant: tiptap
 </p>
 <p><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:c977f3f7-c0b3-4b8c-a2a5-7c65f8ef2ea8" rel="noopener nofollow" target="_blank">Parenting Tips to support a child's use of Gen AI</a>
 </p>
+<p>Parenting with confidence (EdTech)</p>
