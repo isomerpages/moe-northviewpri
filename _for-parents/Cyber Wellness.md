@@ -10,5 +10,5 @@ variant: tiptap
 </p>
 <p><a href="/files/Primary___EdTech__Parenting_with_Confidence_Engagement_Deck_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting with confidence (EdTech)</a>
 </p>
-<p><a href="https://acrobat.adobe.com/id/urn:aaid:sc:ap:eb1300b0-057b-42db-9624-89fd2b3f770e" rel="noopener nofollow" target="_blank">Parenting with confidence (Cyber Wellness)</a>
+<p><a href="/files/For Parents/Cyberwellness_2.pdf" rel="noopener nofollow" target="_blank">Parenting with confidence (Cyber Wellness)</a>
 </p>
