@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Hero pictures/NVPS_Website_Banner_V2.gif
-      variant: center
+      variant: image
   - resources:
       title: Highlights
       button: View More
