@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Operation, Safety and Security.md
       - For Parents.md
       - School Calendar.md
       - Parent Support Group.md
