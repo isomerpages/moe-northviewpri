@@ -4,7 +4,7 @@ permalink: /school-operation-safety-and-security/
 variant: tiptap
 description: ""
 ---
-<h3><strong><u>School Gates and Access</u></strong></h3>
+<h4><strong><u>School Gates and Access</u></strong></h4>
 <p>The school gates operate during the following hours:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -69,7 +69,7 @@ a.m. to 7.45 a.m.</p>
 gate at <strong>Gate 3</strong> after their programmes.</p>
 <p></p>
 <p></p>
-<h3><strong><u>Morning Arrival and Drop-off Procedures</u></strong></h3>
+<h4><strong><u>Morning Arrival and Drop-off Procedures</u></strong></h4>
 <p>Parents/Guardians who drive their child/ward to school may enter via <strong>Gate 2 (Main Gate)</strong>.
 The designated drop-off point is at the <strong>school foyer</strong>.</p>
 <p>To ensure safety of students and smooth traffic flow, parents/guardians
@@ -90,7 +90,7 @@ where possible</p>
 time, parents/guardians are requested to drive forward, when possible,
 to allow other vehicles to stop behind.</p>
 <p></p>
-<h3><strong><u>Dismissal and Pick-up Arrangements</u></strong></h3>
+<h4><strong><u>Dismissal and Pick-up Arrangements</u></strong></h4>
 <p>For safety reasons, the main gate will close <strong>15 minutes before dismissal</strong> and
 reopen <strong>15 minutes after dismissal.</strong>
 </p>
@@ -98,7 +98,7 @@ reopen <strong>15 minutes after dismissal.</strong>
 car parks (e.g. near Blk 403) and should adhere to the instructions of
 staff and security personnel on duty.</p>
 <p>&nbsp;</p>
-<h3><strong><u>Visitors to the School</u></strong></h3>
+<h4><strong><u>Visitors to the School</u></strong></h4>
 <p>For the safety of our students, all visitors are required to register
 at the Security Guard Post at Gate 1, display the visitor pass or label
 prominently, and proceed directly to the General Office for assistance.
