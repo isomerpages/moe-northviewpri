@@ -4,7 +4,6 @@ permalink: /school-operation-safety-and-security/
 variant: tiptap
 description: ""
 ---
-<h2><strong><u>School Operation, Safety and Security Matters</u></strong></h2>
 <h3><strong><u>School Gates and Access</u></strong></h3>
 <p>The school gates operate during the following hours:</p>
 <table style="minWidth: 50px">
@@ -87,9 +86,9 @@ where possible</p>
 <p>Students should alight from the side nearer the foyer or General Office</p>
 </li>
 </ul>
-<p>As the foyer shelter accommodates only <strong>three vehicles</strong> at
-any one time, parents/guardians are kindly requested to move forward, when
-possible, to allow other vehicles to stop behind.</p>
+<p>As the foyer can accommodate <strong>three vehicles</strong> at any one
+time, parents/guardians are requested to drive forward, when possible,
+to allow other vehicles to stop behind.</p>
 <p></p>
 <h3><strong><u>Dismissal and Pick-up Arrangements</u></strong></h3>
 <p>For safety reasons, the main gate will close <strong>15 minutes before dismissal</strong> and
@@ -106,4 +105,4 @@ prominently, and proceed directly to the General Office for assistance.
 Visitors are not allowed to loiter within the school premises.</p>
 <p></p>
 <p>Parents/Guardians who wish to meet their child’s teachers are requested
-to make a <strong>prior appointment</strong>.</p>
+to make an <strong>appointment</strong>.</p>
