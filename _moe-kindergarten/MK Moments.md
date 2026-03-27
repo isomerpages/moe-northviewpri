@@ -4,15 +4,9 @@ permalink: /moe-kindergarten/events/
 description: ""
 variant: tiptap
 ---
+<h4>Our MK Moments 2026</h4>
+<p><a href="https://heyzine.com/flip-book/8cbf6a7001.html" rel="noopener nofollow" target="_blank">Term 1 2026</a>
+</p>
 <h4>Our MK Moments 2025</h4>
-<p><a href="https://heyzine.com/flip-book/5489cafb48.html" rel="noopener nofollow" target="_blank">Term 1</a>
+<p><a href="https://heyzine.com/flip-book/09bc64478b.html" rel="noopener nofollow" target="_blank">Click Here To Read!</a>
 </p>
-<p><a href="https://heyzine.com/flip-book/dc28f11115.html" rel="noopener nofollow" target="_blank">Term 2</a>
-</p>
-<p><a href="https://heyzine.com/flip-book/17fa11e0dd.html" rel="noopener nofollow" target="_blank">Term 3</a>
-</p>
-<p><a href="https://heyzine.com/flip-book/64d8e23314.html" rel="noopener nofollow" target="_blank">Term 4</a>
-<br>
-</p>
-<h4></h4>
-<p></p>
