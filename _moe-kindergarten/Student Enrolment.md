@@ -15,5 +15,5 @@ outcome by Monday, 1 June 2026.</p>
 <p><a href="/files/MOE%20Kindergarten/A2___MK_Waitlist_Application_Form_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application Form Guide</a>
 </p>
 <p></p>
-<p><a href="https://form.gov.sg/684f7c0b078b53623fba7d13" rel="noopener nofollow" target="_blank">MK@NorthView Waitlist Application Form 2025/2026</a>
+<p><a href="https://go.gov.sg/mknorthview-waitlist-2026-2027" rel="noopener nofollow" target="_blank">MK@NorthView Waitlist Application Form 2025/2026</a>
 </p>
