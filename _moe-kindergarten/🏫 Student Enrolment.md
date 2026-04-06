@@ -1,0 +1,18 @@
+---
+title: 🏫 Student Enrolment
+permalink: /moe-kindergarten/student-enrolment/
+description: ""
+variant: tiptap
+---
+<h4><strong>MK Enrolment for K1 2027 Intake</strong></h4>
+<p>The 2026 MK Registration Exercise is open to SC and PR children born between
+2 January 2022 and 1 January 2023, both dates inclusive. Parents can register
+their child for admission to an MK from 9am on Monday, 23 March 2026 to
+4.30pm on Tuesday, 31 March 2026. Parents will be informed of the registration
+outcome by Monday, 1 June 2026.</p>
+<p><a href="https://go.gov.sg/mk-register" rel="noopener nofollow" target="_blank">Registration Link</a>
+</p>
+<p><a href="/files/MOE%20Kindergarten/A2___MK_Waitlist_Application_Form_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application Form Guide</a>
+</p>
+<p><a href="https://go.gov.sg/mknorthview-waitlist-2026-2027" rel="noopener nofollow" target="_blank">MK@ North View Waitlist Application Form 2026/2027</a>
+</p>
