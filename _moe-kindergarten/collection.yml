@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 🪁 Our Team/.keep
-      - About Us.md
       - MK Experience.md
       - MK Moments.md
       - Student Enrolment.md
