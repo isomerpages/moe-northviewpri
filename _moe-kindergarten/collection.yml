@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - 🪁 Our Team/About Us.md
       - 🪁 Our Team/.keep
       - MK Experience.md
       - MK Moments.md
