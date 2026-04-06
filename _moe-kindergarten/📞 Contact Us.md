@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: 📞 Contact Us
 permalink: /moe-kindergarten/contact-us/
 description: ""
 variant: tiptap

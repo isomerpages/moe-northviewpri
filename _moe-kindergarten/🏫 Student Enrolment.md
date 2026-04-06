@@ -1,5 +1,5 @@
 ---
-title: Student Enrolment
+title: 🏫 Student Enrolment
 permalink: /moe-kindergarten/student-enrolment/
 description: ""
 variant: tiptap

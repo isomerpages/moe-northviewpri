@@ -1,5 +1,5 @@
 ---
-title: MK Experience
+title: 🔍 MK Experience
 permalink: /moe-kindergarten/experience/
 description: ""
 variant: tiptap

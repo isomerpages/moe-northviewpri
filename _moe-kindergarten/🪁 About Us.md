@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: 🪁 About Us
 permalink: /moe-kindergarten-northview/
 description: ""
 variant: tiptap
