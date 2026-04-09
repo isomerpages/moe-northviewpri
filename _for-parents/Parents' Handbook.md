@@ -4,7 +4,7 @@ permalink: /for-parents/Parents-Handbook/
 description: ""
 variant: tiptap
 ---
-<p>Click <a href="https://drive.google.com/file/d/10M2pAn16efUdgbdlH-4eZJEKtEVaALTA/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://drive.google.com/file/d/1h1lhJgCEWvN6R-wQHwMvfLkpre4Rjuak/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access the Parents' Handbook!</p>
 <p></p>
 <div class="isomer-image-wrapper">
