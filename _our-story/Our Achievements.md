@@ -114,8 +114,10 @@ variant: tiptap
 <p>Junior Brigade Brooch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Lum Jia Ning (6J)
-<br>2. Pamelia Kannika Rekkab (6J)
+<p>1. Lum Jia Ning (6J)</p>
+<p>
+<br>2. Pamelia Kannika Rekkab (6J)</p>
+<p>
 <br>3. Ye Xintong (6J)
 <br>
 </p>
@@ -228,19 +230,47 @@ variant: tiptap
 <p>3rd Position for National School Games (Senior Girls) Tier 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.Zephyr Yong Ting Xuan (6C)
-<br>2.Nutfa Lutfiyyah(6E)
-<br>3.Michelle Lau Shuang Yu (6F)
-<br>4.Nur Hana Raiqa(6H)
-<br>5.Nurshaista Kayla(6H)
-<br>6.Nur Syura Ilya (6H)
-<br>7.Lok Sum Yin (6J)
-<br>8.Megan Goo Jia Xuan (6J)
-<br>9.Vivienne Yeo (6J)
-<br>10.Yeo Hui En Ellycia (6J)
-<br>11.Yuen Pei En (6J)
-<br>12Ayshe Balik En Xi (6J)
-<br>13.Zhang Yuran(5C)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Zephyr Yong Ting Xuan (6C)</p>
+</li>
+<li>
+<p>Nutfa Lutfiyyah(6E)</p>
+</li>
+<li>
+<p>Michelle Lau Shuang Yu (6F)</p>
+</li>
+<li>
+<p>Nur Hana Raiqa(6H)</p>
+</li>
+<li>
+<p>Nurshaista Kayla(6H)</p>
+</li>
+<li>
+<p>Nur Syura Ilya (6H)</p>
+</li>
+<li>
+<p>Lok Sum Yin (6J)</p>
+</li>
+<li>
+<p>Megan Goo Jia Xuan (6J)</p>
+</li>
+<li>
+<p>Vivienne Yeo (6J)</p>
+</li>
+<li>
+<p>Yeo Hui En Ellycia (6J)</p>
+</li>
+<li>
+<p>Yuen Pei En (6J)</p>
+</li>
+<li>
+<p>Ayshe Balik En Xi (6J)</p>
+</li>
+<li>
+<p>Zhang Yuran(5C)</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
