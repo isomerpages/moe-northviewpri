@@ -4,6 +4,278 @@ permalink: /our-story/Our-Achievements/
 description: ""
 variant: tiptap
 ---
+<h3><strong>2026</strong></h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Participants</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation - Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation - Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation - Certificate of Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation - Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation - Certificate of Participation
+(Seniors)</p>
+<p></p>
+<p>Singapore Youth Festival (SYF) Arts Presentation - Certificate of Participation
+(Juniors)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award For Excellence 2026
+<br>High Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Company Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Brigade Brooch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Lum Jia Ning (6J)</p>
+<p>
+<br>2. Pamelia Kannika Rekkab (6J)</p>
+<p>
+<br>3. Ye Xintong (6J)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekwondo
+<br>(Junior Girls)
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Position for National School Games (Junior Girls)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adette Lee (5J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekwondo
+<br>(Senior Girls)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Position for National School Games (Senior Girls)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audrie Xie (6J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekwondo
+<br>(Senior Boys)
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th Position for National School Games (Senior Boys)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheah Zhong Han (6J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field
+<br>(Junior Boys)
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd Position for National School Games (Junior Boys) 120m</p>
+</li>
+<li>
+<p>6th Position for National School Games (Junior Boys) Long Jump</p>
+</li>
+<li>
+<p>29th Position for National School Games (Junior Boys) Medicine Ball Throw</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lucas Chew (5J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field
+<br>(Senior Girls)
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1st Overall Position for National School Games (Senior Girls)</p>
+</li>
+<li>
+<p>120m Run: 1st Position</p>
+</li>
+<li>
+<p>Long Jump: 1st Position</p>
+</li>
+<li>
+<p>Medicine Ball Throw: 4th Position</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Megan Goo (6J)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball (Senior Girls)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Position for National School Games (Senior Girls) Tier 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Zephyr Yong Ting Xuan (6C)</p>
+</li>
+<li>
+<p>Nutfa Lutfiyyah(6E)</p>
+</li>
+<li>
+<p>Michelle Lau Shuang Yu (6F)</p>
+</li>
+<li>
+<p>Nur Hana Raiqa(6H)</p>
+</li>
+<li>
+<p>Nurshaista Kayla(6H)</p>
+</li>
+<li>
+<p>Nur Syura Ilya (6H)</p>
+</li>
+<li>
+<p>Lok Sum Yin (6J)</p>
+</li>
+<li>
+<p>Megan Goo Jia Xuan (6J)</p>
+</li>
+<li>
+<p>Vivienne Yeo (6J)</p>
+</li>
+<li>
+<p>Yeo Hui En Ellycia (6J)</p>
+</li>
+<li>
+<p>Yuen Pei En (6J)</p>
+</li>
+<li>
+<p>Ayshe Balik En Xi (6J)</p>
+</li>
+<li>
+<p>Zhang Yuran(5C)</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong>2025</strong></h3>
 <p></p>
 <table style="minWidth: 75px">
