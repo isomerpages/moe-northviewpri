@@ -27,3 +27,8 @@ where every child can learn, grow, and thrive.</p>
 <br><a href="https://www.thinglink.com/scene/2066408536564340198?utm_source=chatgpt.com" class="decorated-link" rel="noopener" target="_blank">Explore North View Primary School</a>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_Media_Poster_jpg.jpg">
+</div>
+<p></p>
