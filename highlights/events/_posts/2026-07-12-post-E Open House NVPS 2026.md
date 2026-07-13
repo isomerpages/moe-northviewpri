@@ -7,6 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_07_13_at_10_08_32_AM.jpg">
+</div>
+<p></p>
 <p><strong>Discover what makes learning meaningful at North View Primary School through our E-Open House!</strong>
 </p>
 <p>We warmly invite parents and families to explore how we bring our vision
